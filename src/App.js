@@ -1,24 +1,24 @@
+/*
+ * @Author: yizheng
+ * @Date: 2022-11-22 20:00:06
+ * @LastEditor: yizheng
+ * @LastEditTime: 2022-11-22 20:07:47
+ * @FilePath: /scholarflow-app/src/App.js
+ * @Description:
+ */
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import { Box } from '@mui/system';
+import { MapControl } from './layout/Map/mapControl';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <Box sx={{ m: 0, p: 2 }}>
+        <MapControl/>
+      </Box>
+    </React.Fragment>
   );
 }
 
