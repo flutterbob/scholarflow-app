@@ -2,16 +2,13 @@
  * @Author: yizheng
  * @Date: 2022-11-26 15:32:03
  * @LastEditor: yizheng
- * @LastEditTime: 2022-11-26 15:54:50
- * @FilePath: \scholarflow-app\src\publicUtil\commonUtils.js
+ * @LastEditTime: 2022-11-26 18:05:35
+ * @FilePath: \5002Project\scholarflow-app\src\publicUtil\commonUtils.js
  * @Description:
  */
 
-import * as fs from 'fs';
 
 export const fileReader = (filePath) => {
-  const files = fs.readdirSync('./');
-  console.log(files);
   //   let reader = new FileReader();
   //   reader.readAsText(filePath, 'utf-8');
   //   reader.onload = () => {
