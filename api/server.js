@@ -2,7 +2,7 @@
  * @Author: yizheng
  * @Date: 2022-11-26 16:24:56
  * @LastEditor: yizheng
- * @LastEditTime: 2022-11-26 20:45:34
+ * @LastEditTime: 2022-11-26 22:16:44
  * @FilePath: \5002Project\scholarflow-app\api\server.js
  * @Description:
  */
@@ -37,8 +37,9 @@ const initialData = () => {
   }
   result = result.map((arr) => {
     let cnkiObj = new Object();
-    arr.map((obj) => {
+    arr.map((obj, index) => {
       let keyValue = obj.split(':');
+      cnkiObj.Id = index + 1;
       switch (keyValue[0]) {
         case 'SrcDatabase-来源库':
           cnkiObj.SrcDatabase = keyValue[1];
@@ -68,8 +69,51 @@ const initialData = () => {
   });
 };
 
+const readJSON = () => {
+  const data = fs.readFileSync('dataset/data.json', 'utf-8');
+  const dataJSON = JSON.parse(data);
+  let organJson = [];
+  console.log(dataJSON.length);
+  let newDataJSON = dataJSON.map((data, index) => {
+    data.Organ.map((organ) => {
+      organJson = [...organJson, organ];
+    });
+    data.Id = index + 1;
+    return data;
+  });
+  writeJSON('data.json', newDataJSON);
+  console.log('organ1Arr', organJson.length);
+  //去重复
+  organJson = organJson.filter((item, index, arr) => {
+    return arr.indexOf(item, 0) === index;
+  });
+  organJson = organJson.map((item, index) => {
+    let obj = {};
+    obj.Id = index + 1;
+    obj.name = item;
+    obj.coordinate = {
+      longitude: 0,
+      latitude: 0,
+    };
+    obj.city = '';
+    return obj;
+  });
+  writeJSON('address.json', organJson);
 
-const readJSON = () => {};
+  // 创建link对象
+  let linkArr = [];
+  newDataJSON.map((item) => {
+    let link = {};
+    let organArr = item.Organ;
+  });
+};
+
+const writeJSON = (fileName, data) => {
+  let resultStr = JSON.stringify(data, '', '\t');
+  fs.writeFileSync(`dataset/${fileName}`, resultStr, (err) => {
+    console.log(err);
+  });
+};
 
 // const statisticCity = () => {
 //   if (!CNKI_DATA_JSON) return;
@@ -118,6 +162,8 @@ const readJSON = () => {};
 
 app.get('/', (req, res) => {
   res.send("It's working!");
+  readJSON();
+
   console.log("It's working");
 });
 
@@ -136,6 +182,7 @@ app.get('/getCNKI', (req, res) => {
 // });
 
 app.listen(3030, () => {
-  CNKI_DATA_JSON = initialData();
+  // initialData();
+  // CNKI_DATA_JSON = initialData();
   console.log('app listening on port 3030');
 });

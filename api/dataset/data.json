@@ -1,5 +1,6 @@
 [
 	{
+		"Id": 1,
 		"SrcDatabase": "期刊",
 		"Title": "基于光纤EFPI传感器的GIS局部放电研究",
 		"Author": [
@@ -18,6 +19,7 @@
 		"Source": "电网与清洁能源"
 	},
 	{
+		"Id": 2,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术和信息量法的地质灾害易发性研究——以海南省昌江县为例",
 		"Author": [
@@ -34,6 +36,7 @@
 		"Source": "地质与资源"
 	},
 	{
+		"Id": 3,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS协同的测绘协作生产系统研究",
 		"Author": [
@@ -48,6 +51,7 @@
 		"Source": "黑龙江工程学院学报"
 	},
 	{
+		"Id": 4,
 		"SrcDatabase": "期刊",
 		"Title": "SF_6密度继电器监测GIS气室压力的误差分析",
 		"Author": [
@@ -62,6 +66,7 @@
 		"Source": "浙江电力"
 	},
 	{
+		"Id": 5,
 		"SrcDatabase": "期刊",
 		"Title": "GIS图形叠置法在水资源承载力分析中的应用",
 		"Author": [
@@ -75,6 +80,7 @@
 		"Source": "中国资源综合利用"
 	},
 	{
+		"Id": 6,
 		"SrcDatabase": "期刊",
 		"Title": "GIS盆式绝缘子用环氧树脂绝缘特性提升方案研究",
 		"Author": [
@@ -93,6 +99,7 @@
 		"Source": "电力学报"
 	},
 	{
+		"Id": 7,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS+低代码的校园地下管网运维管理平台建设与应用",
 		"Author": [
@@ -105,6 +112,7 @@
 		"Source": "建筑施工"
 	},
 	{
+		"Id": 8,
 		"SrcDatabase": "期刊",
 		"Title": "GIS内部过热故障现场检测和诊断方法研究",
 		"Author": [
@@ -124,6 +132,7 @@
 		"Source": "广西电力"
 	},
 	{
+		"Id": 9,
 		"SrcDatabase": "期刊",
 		"Title": "GIS中快速暂态过电压VFTO的抑制研究进展",
 		"Author": [
@@ -135,6 +144,7 @@
 		]
 	},
 	{
+		"Id": 10,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的土石坝安全监测管理平台研究及应用",
 		"Author": [
@@ -149,6 +159,7 @@
 		"Source": "人民珠江"
 	},
 	{
+		"Id": 11,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS技术在珠江三角洲水资源配置工程中的应用",
 		"Author": [
@@ -165,6 +176,7 @@
 		"Source": "人民珠江"
 	},
 	{
+		"Id": 12,
 		"SrcDatabase": "期刊",
 		"Title": "架空线路转接电缆进线对GIS变电站雷电侵入波过电压的影响",
 		"Author": [
@@ -180,6 +192,7 @@
 		"Source": "电瓷避雷器"
 	},
 	{
+		"Id": 13,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的历史地图综合管理系统设计与实现",
 		"Author": [
@@ -193,6 +206,7 @@
 		"Source": "长春师范大学学报"
 	},
 	{
+		"Id": 14,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS智能打点的5G网络投诉“黑点”区域整治研究",
 		"Author": [
@@ -211,6 +225,7 @@
 		"Source": "数字通信世界"
 	},
 	{
+		"Id": 15,
 		"SrcDatabase": "期刊",
 		"Title": "500kV GIS断路器导电回路电阻测试探究",
 		"Author": [
@@ -222,6 +237,7 @@
 		"Source": "水电与抽水蓄能"
 	},
 	{
+		"Id": 16,
 		"SrcDatabase": "期刊",
 		"Title": "330 kV户外GIS垂直出线钢管格构塔设计分析",
 		"Author": [
@@ -236,6 +252,7 @@
 		"Source": "东北电力技术"
 	},
 	{
+		"Id": 17,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP-GIS的广东省山洪灾害风险区划评价研究",
 		"Author": [
@@ -247,6 +264,7 @@
 		"Source": "广东水利水电"
 	},
 	{
+		"Id": 18,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和MaxEnt的弥勒市林下三七仿野生种植适生区分析",
 		"Author": [
@@ -263,6 +281,7 @@
 		"Source": "西部林业科学"
 	},
 	{
+		"Id": 19,
 		"SrcDatabase": "期刊",
 		"Title": "110 kV GIS隔离开关缺相故障分析",
 		"Author": [
@@ -279,6 +298,7 @@
 		"Source": "四川电力技术"
 	},
 	{
+		"Id": 20,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在中小学用地布局规划中的应用研究——以福州市中心城区中小学布局专项规划为例",
 		"Author": [
@@ -290,6 +310,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 21,
 		"SrcDatabase": "期刊",
 		"Title": "基于DEA-GIS的安徽省城市旅游效率研究",
 		"Author": [
@@ -305,6 +326,7 @@
 		"Source": "黄山学院学报"
 	},
 	{
+		"Id": 22,
 		"SrcDatabase": "期刊",
 		"Title": "大数据时代地理信息系统的应用分析",
 		"Author": [
@@ -316,6 +338,7 @@
 		"Source": "科技创新与应用"
 	},
 	{
+		"Id": 23,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的昆明市耕地质量等级评价",
 		"Author": [
@@ -330,6 +353,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 24,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的区域知识产权统计分析系统的设计与应用——以张江高新技术园区为例",
 		"Author": [
@@ -341,6 +365,7 @@
 		"Source": "中国发明与专利"
 	},
 	{
+		"Id": 25,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的河南省小麦产量及产量构成要素时空差异分析",
 		"Author": [
@@ -360,6 +385,7 @@
 		"Source": "中国农业科学"
 	},
 	{
+		"Id": 26,
 		"SrcDatabase": "期刊",
 		"Title": "基于ARMA和Copula理论的多因素GIS设备家族性缺陷故障预警",
 		"Author": [
@@ -372,6 +398,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 27,
 		"SrcDatabase": "期刊",
 		"Title": "550 kV GIS伸缩节多尺度有限元分析",
 		"Author": [
@@ -386,6 +413,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 28,
 		"SrcDatabase": "期刊",
 		"Title": "SF_6/N_2混合气体GIS隔离开关小容量母线转换电流开断试验回路研制及试验",
 		"Author": [
@@ -405,6 +433,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 29,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS系统预警模型的应用",
 		"Author": [
@@ -416,6 +445,7 @@
 		"Source": "同煤科技"
 	},
 	{
+		"Id": 30,
 		"SrcDatabase": "期刊",
 		"Title": "电力GIS巡检机器人沿狭小空间管道内壁攀爬特性分析",
 		"Author": [
@@ -433,6 +463,7 @@
 		"Source": "武汉纺织大学学报"
 	},
 	{
+		"Id": 31,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的叶城县核桃种植气候适宜性精细化区划",
 		"Author": [
@@ -449,6 +480,7 @@
 		"Source": "沙漠与绿洲气象"
 	},
 	{
+		"Id": 32,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的福建古塔人文景观营建研究",
 		"Author": [
@@ -461,6 +493,7 @@
 		"Source": "建筑与文化"
 	},
 	{
+		"Id": 33,
 		"SrcDatabase": "期刊",
 		"Title": "110kV GIS配电装置电气接线方案分析研究",
 		"Author": [
@@ -472,6 +505,7 @@
 		"Source": "工程建设"
 	},
 	{
+		"Id": 34,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的大型建筑物周边土壤污染特征演化模型研究",
 		"Author": [
@@ -483,6 +517,7 @@
 		"Source": "环境科学与管理"
 	},
 	{
+		"Id": 35,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的水源地周边土壤污染监测方法研究",
 		"Author": [
@@ -494,6 +529,7 @@
 		"Source": "环境科学与管理"
 	},
 	{
+		"Id": 36,
 		"SrcDatabase": "期刊",
 		"Title": "基于高分影像数据的正安县碧峰镇“6.12”特大暴雨灾害过程的三维GIS模拟研究",
 		"Author": [
@@ -511,6 +547,7 @@
 		"Source": "贵州科学"
 	},
 	{
+		"Id": 37,
 		"SrcDatabase": "期刊",
 		"Title": "基于激光扫描与与GIS的水土流失参数提取方法研究",
 		"Author": [
@@ -528,6 +565,7 @@
 		"Source": "北京水务"
 	},
 	{
+		"Id": 38,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS电缆终端局部放电缺陷闭环案例",
 		"Author": [
@@ -542,6 +580,7 @@
 		"Source": "山东工业技术"
 	},
 	{
+		"Id": 39,
 		"SrcDatabase": "期刊",
 		"Title": "基于隧道磁阻传感器的GIS隔离开关双确认系统设计",
 		"Author": [
@@ -558,6 +597,7 @@
 		"Source": "仪表技术与传感器"
 	},
 	{
+		"Id": 40,
 		"SrcDatabase": "期刊",
 		"Title": "探析测绘遥感技术和地理信息系统在矿山地质勘测中的应用",
 		"Author": [
@@ -569,6 +609,7 @@
 		"Source": "西部资源"
 	},
 	{
+		"Id": 41,
 		"SrcDatabase": "期刊",
 		"Title": "浅谈GIS信息技术在农村小型水利工程建管中应注意的问题",
 		"Author": [
@@ -582,6 +623,7 @@
 		"Source": "中国水能及电气化"
 	},
 	{
+		"Id": 42,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的房产测绘方法设计与实践",
 		"Author": [
@@ -596,6 +638,7 @@
 		"Source": "工程与建设"
 	},
 	{
+		"Id": 43,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的路网关键节点辨识研究",
 		"Author": [
@@ -611,6 +654,7 @@
 		"Source": "军事交通学报"
 	},
 	{
+		"Id": 44,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RUSLE模型的定西市安定区土壤侵蚀时空变化",
 		"Author": [
@@ -627,6 +671,7 @@
 		"Source": "甘肃农业大学学报"
 	},
 	{
+		"Id": 45,
 		"SrcDatabase": "期刊",
 		"Title": "《GIS空间分析理论与方法》课程思政探索实践",
 		"Author": [
@@ -644,6 +689,7 @@
 		"Source": "测绘"
 	},
 	{
+		"Id": 46,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在景观规划设计中的发展与应用",
 		"Author": [
@@ -657,6 +703,7 @@
 		"Source": "鞋类工艺与设计"
 	},
 	{
+		"Id": 47,
 		"SrcDatabase": "期刊",
 		"Title": "GIS盆式绝缘子表面缺陷及其诊断方法研究综述",
 		"Author": [
@@ -674,6 +721,7 @@
 		"Source": "绝缘材料"
 	},
 	{
+		"Id": 48,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的江西省红色旅游资源空间分布格局分析——以不可移动革命文物为例",
 		"Author": [
@@ -687,6 +735,7 @@
 		"Source": "企业经济"
 	},
 	{
+		"Id": 49,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的三峡库区生态风险评估及生态分区构建",
 		"Author": [
@@ -705,6 +754,7 @@
 		"Source": "生态学报"
 	},
 	{
+		"Id": 50,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的电力数字勘测单兵系统设计与实现",
 		"Author": [
@@ -716,6 +766,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 51,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与RS的大安市土地利用变化分析",
 		"Author": [
@@ -728,6 +779,7 @@
 		"Source": "四川建材"
 	},
 	{
+		"Id": 52,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的实时预警溯源系统设计",
 		"Author": [
@@ -742,6 +794,7 @@
 		"Source": "集成电路应用"
 	},
 	{
+		"Id": 53,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的唐山地区农业面源污染防控探讨",
 		"Author": [
@@ -757,6 +810,7 @@
 		"Source": "南方农业"
 	},
 	{
+		"Id": 54,
 		"SrcDatabase": "期刊",
 		"Title": "基于工业CT的GIS绝缘拉杆缺陷检测方法",
 		"Author": [
@@ -770,6 +824,7 @@
 		"Source": "无损检测"
 	},
 	{
+		"Id": 55,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的郑州市土地利用类型变化及其驱动力分析",
 		"Author": [
@@ -781,6 +836,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 56,
 		"SrcDatabase": "期刊",
 		"Title": "基于大数据和GIS平台的合肥老城区微绿地空间研究",
 		"Author": [
@@ -795,6 +851,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 57,
 		"SrcDatabase": "期刊",
 		"Title": "基于混合式教学模式的“地理信息系统”教学改革",
 		"Author": [
@@ -808,6 +865,7 @@
 		"Source": "教育教学论坛"
 	},
 	{
+		"Id": 58,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的停车设施选址布点方法研究综述",
 		"Author": [
@@ -823,6 +881,7 @@
 		"Source": "房地产世界"
 	},
 	{
+		"Id": 59,
 		"SrcDatabase": "期刊",
 		"Title": "地图制图技术在地理信息系统数据集成中的应用",
 		"Author": [
@@ -834,6 +893,7 @@
 		"Source": "大众标准化"
 	},
 	{
+		"Id": 60,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在UWB基站可视化模式监测中的应用",
 		"Author": [
@@ -849,6 +909,7 @@
 		"Source": "电子设计工程"
 	},
 	{
+		"Id": 61,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的输电线路智能化全景感知系统研发",
 		"Author": [
@@ -864,6 +925,7 @@
 		"Source": "科学技术创新"
 	},
 	{
+		"Id": 62,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的化工园区公共管廊数字化管理平台研究",
 		"Author": [
@@ -879,6 +941,7 @@
 		"Source": "化工管理"
 	},
 	{
+		"Id": 63,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的西河泵站工程总体方案设计及比选",
 		"Author": [
@@ -893,6 +956,7 @@
 		"Source": "江苏水利"
 	},
 	{
+		"Id": 64,
 		"SrcDatabase": "期刊",
 		"Title": "新型GIS局部放电柔性内置阿基米德螺旋天线研究",
 		"Author": [
@@ -911,6 +975,7 @@
 		]
 	},
 	{
+		"Id": 65,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的玉溪市村落地名文化景观空间分布特征分析",
 		"Author": [
@@ -923,6 +988,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 66,
 		"SrcDatabase": "期刊",
 		"Title": "自然保护地整合优化中GIS技术应用探讨",
 		"Author": [
@@ -935,6 +1001,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 67,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在水环境管理及环境影响评价领域的运用",
 		"Author": [
@@ -946,6 +1013,7 @@
 		"Source": "皮革制作与环保科技"
 	},
 	{
+		"Id": 68,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的长白山保护区林地时空变化图制作方法研究",
 		"Author": [
@@ -957,6 +1025,7 @@
 		"Source": "黑龙江科学"
 	},
 	{
+		"Id": 69,
 		"SrcDatabase": "期刊",
 		"Title": "X射线无损探伤技术在变电站运行状态GIS检测中的应用",
 		"Author": [
@@ -970,6 +1039,7 @@
 		"Source": "分析仪器"
 	},
 	{
+		"Id": 70,
 		"SrcDatabase": "期刊",
 		"Title": "基于EFPI传感器的GIS局部放电模式识别研究",
 		"Author": [
@@ -989,6 +1059,7 @@
 		"Source": "电力工程技术"
 	},
 	{
+		"Id": 71,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的航道三维漫游系统设计与实现",
 		"Author": [
@@ -1002,6 +1073,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 72,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS+倾斜摄影融合技术在双桥枢纽工程中的应用",
 		"Author": [
@@ -1018,6 +1090,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 73,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在高难山地直升机起降点选址中的应用",
 		"Author": [
@@ -1033,6 +1106,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 74,
 		"SrcDatabase": "期刊",
 		"Title": "基于高性能云GIS的数字城市地理信息公共服务平台构建方法",
 		"Author": [
@@ -1045,6 +1119,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 75,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的广州市国家级开发区公共服务设施配置研究",
 		"Author": [
@@ -1060,6 +1135,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 76,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土壤重金属污染模拟扩散研究及应用",
 		"Author": [
@@ -1076,6 +1152,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 77,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的教育资源数据管理系统设计与实现——以苏州市为例",
 		"Author": [
@@ -1088,6 +1165,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 78,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的县级国土空间规划“三区三线”划定研究——以霞浦县为例",
 		"Author": [
@@ -1100,6 +1178,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 79,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统（GIS）在城市测绘中的运用刍议",
 		"Author": [
@@ -1111,6 +1190,7 @@
 		"Source": "科技与创新"
 	},
 	{
+		"Id": 80,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS加权叠加的南四湖流域地质环境质量评价",
 		"Author": [
@@ -1129,6 +1209,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 81,
 		"SrcDatabase": "期刊",
 		"Title": "基于集聚度和地理信息系统研究广东省中医药卫生资源公平性",
 		"Author": [
@@ -1144,6 +1225,7 @@
 		"Source": "实用医学杂志"
 	},
 	{
+		"Id": 82,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在水文水资源领域中的应用",
 		"Author": [
@@ -1155,6 +1237,7 @@
 		"Source": "南方农业"
 	},
 	{
+		"Id": 83,
 		"SrcDatabase": "期刊",
 		"Title": "基于地理信息系统的广播电视网络管理系统的设计与实现",
 		"Author": [
@@ -1166,6 +1249,7 @@
 		"Source": "西部广播电视"
 	},
 	{
+		"Id": 84,
 		"SrcDatabase": "期刊",
 		"Title": "GIS故障类型及案例分析",
 		"Author": [
@@ -1177,6 +1261,7 @@
 		"Source": "电力安全技术"
 	},
 	{
+		"Id": 85,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在黄河流域体育旅游中的应用研究",
 		"Author": [
@@ -1190,6 +1275,7 @@
 		"Source": "开封文化艺术职业学院学报"
 	},
 	{
+		"Id": 86,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的水利工程信息化系统设计",
 		"Author": [
@@ -1201,6 +1287,7 @@
 		"Source": "电子质量"
 	},
 	{
+		"Id": 87,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的昌都市土地利用动态变化研究",
 		"Author": [
@@ -1218,6 +1305,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 88,
 		"SrcDatabase": "期刊",
 		"Title": "一起小型化GIS设备故障分析及改进措施研究",
 		"Author": [
@@ -1236,6 +1324,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 89,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS技术下的城市空间规划支持系统设计",
 		"Author": [
@@ -1248,6 +1337,7 @@
 		"Source": "现代电子技术"
 	},
 	{
+		"Id": 90,
 		"SrcDatabase": "期刊",
 		"Title": "基于GEE和GIS的黄河三角洲面积多尺度时间序列分析",
 		"Author": [
@@ -1267,6 +1357,7 @@
 		"Source": "海洋科学进展"
 	},
 	{
+		"Id": 91,
 		"SrcDatabase": "期刊",
 		"Title": "国土空间体系背景下基于GIS的村庄规划数据库建设研究",
 		"Author": [
@@ -1281,6 +1372,7 @@
 		"Source": "广东工业大学学报"
 	},
 	{
+		"Id": 92,
 		"SrcDatabase": "期刊",
 		"Title": "基于地理信息系统的高速铁路噪声地图绘制技术",
 		"Author": [
@@ -1294,6 +1386,7 @@
 		"Source": "中国铁道科学"
 	},
 	{
+		"Id": 93,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的灌区工程可视化研究",
 		"Author": [
@@ -1309,6 +1402,7 @@
 		"Source": "水利水电快报"
 	},
 	{
+		"Id": 94,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和专家知识的滇西南地区滑坡敏感性模糊逻辑推理方法",
 		"Author": [
@@ -1329,6 +1423,7 @@
 		"Source": "地震研究"
 	},
 	{
+		"Id": 95,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的诸暨市公园绿地可达性研究",
 		"Author": [
@@ -1343,6 +1438,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 96,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的城市地下管线管理系统研究综述",
 		"Author": [
@@ -1355,6 +1451,7 @@
 		"Source": "城市道桥与防洪"
 	},
 	{
+		"Id": 97,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的云南省湿地资源年度监测成果的质量检查研究与实现",
 		"Author": [
@@ -1370,6 +1467,7 @@
 		"Source": "林业调查规划"
 	},
 	{
+		"Id": 98,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM技术的城建项目档案数据管理系统的构建",
 		"Author": [
@@ -1383,6 +1481,7 @@
 		"Source": "建设科技"
 	},
 	{
+		"Id": 99,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的青海湖流域水生态功能分区",
 		"Author": [
@@ -1399,6 +1498,7 @@
 		]
 	},
 	{
+		"Id": 100,
 		"SrcDatabase": "期刊",
 		"Title": "山区人居环境的遥感和GIS量化评价技术研究",
 		"Author": [
@@ -1413,6 +1513,7 @@
 		"Source": "科技创新与应用"
 	},
 	{
+		"Id": 101,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感技术的地理信息系统设计",
 		"Author": [
@@ -1424,6 +1525,7 @@
 		"Source": "吉林大学学报(信息科学版)"
 	},
 	{
+		"Id": 102,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的武汉市洪山区土地利用变化分析",
 		"Author": [
@@ -1437,6 +1539,7 @@
 		"Source": "山西建筑"
 	},
 	{
+		"Id": 103,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的双层PCB布线的空间剖分算法",
 		"Author": [
@@ -1457,6 +1560,7 @@
 		"Source": "计算机应用研究"
 	},
 	{
+		"Id": 104,
 		"SrcDatabase": "期刊",
 		"Title": "基于地理信息系统（GIS）的电力光缆故障快速定位分析",
 		"Author": [
@@ -1468,6 +1572,7 @@
 		"Source": "电气时代"
 	},
 	{
+		"Id": 105,
 		"SrcDatabase": "期刊",
 		"Title": "林业管理中地理信息系统应用探究",
 		"Author": [
@@ -1482,6 +1587,7 @@
 		"Source": "智慧农业导刊"
 	},
 	{
+		"Id": 106,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术支持下秦岭农村生态环境建设法律问题研究",
 		"Author": [
@@ -1493,6 +1599,7 @@
 		"Source": "智慧农业导刊"
 	},
 	{
+		"Id": 107,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在测绘工程中的作用",
 		"Author": [
@@ -1504,6 +1611,7 @@
 		"Source": "中国高新科技"
 	},
 	{
+		"Id": 108,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和历史卫星影像的城市建筑大数据识别",
 		"Author": [
@@ -1517,6 +1625,7 @@
 		"Source": "湖南大学学报(自然科学版)"
 	},
 	{
+		"Id": 109,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的达州市土地利用变化及其驱动力分析",
 		"Author": [
@@ -1529,6 +1638,7 @@
 		"Source": "中国林业经济"
 	},
 	{
+		"Id": 110,
 		"SrcDatabase": "期刊",
 		"Title": "基于时空GIS的城市空间规划管控技术研究",
 		"Author": [
@@ -1540,6 +1650,7 @@
 		"Source": "福建建筑"
 	},
 	{
+		"Id": 111,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的市级规划成果数据建库方法研究",
 		"Author": [
@@ -1551,6 +1662,7 @@
 		"Source": "福建建筑"
 	},
 	{
+		"Id": 112,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的屏南县珍稀树种分布特征研究",
 		"Author": [
@@ -1562,6 +1674,7 @@
 		"Source": "福建林业"
 	},
 	{
+		"Id": 113,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的石漠化区域光伏项目建设适宜容量估算——以镇宁县、紫云县和关岭县为例",
 		"Author": [
@@ -1577,6 +1690,7 @@
 		"Source": "中低纬山地气象"
 	},
 	{
+		"Id": 114,
 		"SrcDatabase": "期刊",
 		"Title": "基于GF-1遥感和GIS数据翠亨新区地质灾害特征及成因分析",
 		"Author": [
@@ -1594,6 +1708,7 @@
 		"Source": "南华大学学报(自然科学版)"
 	},
 	{
+		"Id": 115,
 		"SrcDatabase": "期刊",
 		"Title": "大石峡水利枢纽工程BIM+GIS平台建设",
 		"Author": [
@@ -1606,6 +1721,7 @@
 		"Source": "西北水电"
 	},
 	{
+		"Id": 116,
 		"SrcDatabase": "期刊",
 		"Title": "高压GIS外壳的屏蔽效能计算与优化",
 		"Author": [
@@ -1617,6 +1733,7 @@
 		"Source": "电子世界"
 	},
 	{
+		"Id": 117,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的数字流域提取和水文网络构建",
 		"Author": [
@@ -1628,6 +1745,7 @@
 		"Source": "广西水利水电"
 	},
 	{
+		"Id": 118,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备常见发热缺陷的分析及其预防措施",
 		"Author": [
@@ -1641,6 +1759,7 @@
 		"Source": "现代工业经济和信息化"
 	},
 	{
+		"Id": 119,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的厦门市校园体育场地设施可达性研究",
 		"Author": [
@@ -1653,6 +1772,7 @@
 		"Source": "厦门理工学院学报"
 	},
 	{
+		"Id": 120,
 		"SrcDatabase": "期刊",
 		"Title": "基于知识图谱的公路工程领域GIS应用研究现状",
 		"Author": [
@@ -1664,6 +1784,7 @@
 		"Source": "上海工程技术大学学报"
 	},
 	{
+		"Id": 121,
 		"SrcDatabase": "期刊",
 		"Title": "BIM和GIS数据环境下的桥梁韧性评估多准则决策方法研究",
 		"Author": [
@@ -1679,6 +1800,7 @@
 		"Source": "工程管理学报"
 	},
 	{
+		"Id": 122,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的浙江省湖州市某区域矿山环境遥感监测",
 		"Author": [
@@ -1694,6 +1816,7 @@
 		"Source": "矿产勘查"
 	},
 	{
+		"Id": 123,
 		"SrcDatabase": "期刊",
 		"Title": "《地理信息系统技术》课程信息化教学设计研究",
 		"Author": [
@@ -1706,6 +1829,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 124,
 		"SrcDatabase": "期刊",
 		"Title": "融合GIS学科特点的科技论文写作课程教学研究",
 		"Author": [
@@ -1720,6 +1844,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 125,
 		"SrcDatabase": "期刊",
 		"Title": "基于招聘信息的GIS人才就业前景分析",
 		"Author": [
@@ -1734,6 +1859,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 126,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的抽壳技术在BIM模型轻量化中的应用",
 		"Author": [
@@ -1746,6 +1872,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 127,
 		"SrcDatabase": "期刊",
 		"Title": "水电站GIS设备内部异物识别技术研究",
 		"Author": [
@@ -1763,6 +1890,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 128,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的林业信息系统在林业管理中的应用研究",
 		"Author": [
@@ -1774,6 +1902,7 @@
 		"Source": "经纬天地"
 	},
 	{
+		"Id": 129,
 		"SrcDatabase": "期刊",
 		"Title": "一种GIS非全停扩建技术在武汉电网中的应用",
 		"Author": [
@@ -1788,6 +1917,7 @@
 		"Source": "湖北电力"
 	},
 	{
+		"Id": 130,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感与GIS的南充市区景观格局动态分析",
 		"Author": [
@@ -1804,6 +1934,7 @@
 		"Source": "四川环境"
 	},
 	{
+		"Id": 131,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的农业“两区”管理信息系统建设与应用",
 		"Author": [
@@ -1817,6 +1948,7 @@
 		"Source": "四川地质学报"
 	},
 	{
+		"Id": 132,
 		"SrcDatabase": "期刊",
 		"Title": "基于QGIS实现GIS与CAD数据互转的应用研究",
 		"Author": [
@@ -1830,6 +1962,7 @@
 		"Source": "河南水利与南水北调"
 	},
 	{
+		"Id": 133,
 		"SrcDatabase": "期刊",
 		"Title": "GIS测量技术在城市规划中的运用分析",
 		"Author": [
@@ -1842,6 +1975,7 @@
 		"Source": "低碳世界"
 	},
 	{
+		"Id": 134,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的巴楚县冰雹灾害农业风险区划研究",
 		"Author": [
@@ -1857,6 +1991,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 135,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在水文水资源领域中的技术应用研究",
 		"Author": [
@@ -1869,6 +2004,7 @@
 		"Source": "科学技术创新"
 	},
 	{
+		"Id": 136,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM的空间数据可视化研究",
 		"Author": [
@@ -1880,6 +2016,7 @@
 		"Source": "自动化与仪器仪表"
 	},
 	{
+		"Id": 137,
 		"SrcDatabase": "期刊",
 		"Title": "550 kV GIS电流互感器壳体壁厚减薄强度分析",
 		"Author": [
@@ -1896,6 +2033,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 138,
 		"SrcDatabase": "期刊",
 		"Title": "GIS+BIM的水利工程两层级架构智能建造系统研究",
 		"Author": [
@@ -1913,6 +2051,7 @@
 		"Source": "水利信息化"
 	},
 	{
+		"Id": 139,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的城市明挖隧道深基坑支护施工安全监测方法",
 		"Author": [
@@ -1927,6 +2066,7 @@
 		"Source": "粉煤灰综合利用"
 	},
 	{
+		"Id": 140,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的银川市城市生态环境质量动态监测与评价",
 		"Author": [
@@ -1945,6 +2085,7 @@
 		"Source": "安全与环境学报"
 	},
 	{
+		"Id": 141,
 		"SrcDatabase": "期刊",
 		"Title": "宏语言及GIS平台在土地勘测定界中的应用",
 		"Author": [
@@ -1958,6 +2099,7 @@
 		"Source": "北京测绘"
 	},
 	{
+		"Id": 142,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的工程建设多测合一信息管理平台实现",
 		"Author": [
@@ -1969,6 +2111,7 @@
 		"Source": "测绘标准化"
 	},
 	{
+		"Id": 143,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的海南岛芒果气候适宜性精细化区划研究",
 		"Author": [
@@ -1985,6 +2128,7 @@
 		"Source": "热带作物学报"
 	},
 	{
+		"Id": 144,
 		"SrcDatabase": "期刊",
 		"Title": "GIS断路器常见故障分析及探讨",
 		"Author": [
@@ -2001,6 +2145,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 145,
 		"SrcDatabase": "期刊",
 		"Title": "330kV GIS刀闸机构渗水原因分析和解决措施",
 		"Author": [
@@ -2012,6 +2157,7 @@
 		"Source": "大众用电"
 	},
 	{
+		"Id": 146,
 		"SrcDatabase": "期刊",
 		"Title": "直流GIS长期带电考核试验方案",
 		"Author": [
@@ -2030,6 +2176,7 @@
 		"Source": "浙江电力"
 	},
 	{
+		"Id": 147,
 		"SrcDatabase": "期刊",
 		"Title": "GIS抗震性能仿真分析研究",
 		"Author": [
@@ -2042,6 +2189,7 @@
 		"Source": "浙江电力"
 	},
 	{
+		"Id": 148,
 		"SrcDatabase": "期刊",
 		"Title": "铁路电力线路GIS技术实现智能维护管理方案",
 		"Author": [
@@ -2053,6 +2201,7 @@
 		"Source": "建筑技术开发"
 	},
 	{
+		"Id": 149,
 		"SrcDatabase": "期刊",
 		"Title": "GIS数字测绘技术在矿山地质测量中的应用分析",
 		"Author": [
@@ -2064,6 +2213,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 150,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的道路经济影响范围研究",
 		"Author": [
@@ -2075,6 +2225,7 @@
 		"Source": "山东交通科技"
 	},
 	{
+		"Id": 151,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS技术的桥梁数字孪生平台研究",
 		"Author": [
@@ -2091,6 +2242,7 @@
 		]
 	},
 	{
+		"Id": 152,
 		"SrcDatabase": "期刊",
 		"Title": "三维GIS在智慧城市中的应用分析",
 		"Author": [
@@ -2102,6 +2254,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 153,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的成都东部新区生态敏感性分析",
 		"Author": [
@@ -2115,6 +2268,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 154,
 		"SrcDatabase": "期刊",
 		"Title": "无人机倾斜摄影技术结合BIM+GIS在城市隧道建设中的应用",
 		"Author": [
@@ -2136,6 +2290,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 155,
 		"SrcDatabase": "期刊",
 		"Title": "基于地图API和GIS路径分析的城市公交车路网优化",
 		"Author": [
@@ -2151,6 +2306,7 @@
 		"Source": "北京交通大学学报"
 	},
 	{
+		"Id": 156,
 		"SrcDatabase": "期刊",
 		"Title": "基于Google Earth与Sketch Up的校园三维地理信息系统的建立",
 		"Author": [
@@ -2164,6 +2320,7 @@
 		"Source": "黑龙江科学"
 	},
 	{
+		"Id": 157,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS技术的湖南怀化地区岩溶塌陷易发性评价",
 		"Author": [
@@ -2182,6 +2339,7 @@
 		"Source": "中国岩溶"
 	},
 	{
+		"Id": 158,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的建设用地适宜性评价——以淮安市清江浦区为例",
 		"Author": [
@@ -2195,6 +2353,7 @@
 		"Source": "工业设计"
 	},
 	{
+		"Id": 159,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的页岩气开发生态环境数据管理系统设计",
 		"Author": [
@@ -2212,6 +2371,7 @@
 		"Source": "环境监测管理与技术"
 	},
 	{
+		"Id": 160,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在边坡中的应用现状及前景",
 		"Author": [
@@ -2224,6 +2384,7 @@
 		"Source": "科技风"
 	},
 	{
+		"Id": 161,
 		"SrcDatabase": "期刊",
 		"Title": "基于Python和GIS信息的南海气象雷达专题图自动制作",
 		"Author": [
@@ -2240,6 +2401,7 @@
 		"Source": "微型电脑应用"
 	},
 	{
+		"Id": 162,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的深圳市登革热的时空流行特征和风险影响因素研究",
 		"Author": [
@@ -2257,6 +2419,7 @@
 		"Source": "中华卫生杀虫药械"
 	},
 	{
+		"Id": 163,
 		"SrcDatabase": "期刊",
 		"Title": "VFTO对GIS中电子式互感器的电磁干扰研究",
 		"Author": [
@@ -2275,6 +2438,7 @@
 		"Source": "智慧电力"
 	},
 	{
+		"Id": 164,
 		"SrcDatabase": "期刊",
 		"Title": "基于加权TOPSIS模型和GIS技术的耕地提质改造潜力及区域分布研究",
 		"Author": [
@@ -2286,6 +2450,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 165,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的黑龙江省水土流失影响因素分析",
 		"Author": [
@@ -2299,6 +2464,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 166,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的马来西亚多介质成品油管道线路优化设计",
 		"Author": [
@@ -2313,6 +2479,7 @@
 		"Source": "石油工程建设"
 	},
 	{
+		"Id": 167,
 		"SrcDatabase": "期刊",
 		"Title": "基于压缩感知估计的GIS击穿放电定位方法研究",
 		"Author": [
@@ -2330,6 +2497,7 @@
 		"Source": "应用声学"
 	},
 	{
+		"Id": 168,
 		"SrcDatabase": "期刊",
 		"Title": "基于多尺度显著性的GIS腔体内部异物智能识别",
 		"Author": [
@@ -2344,6 +2512,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 169,
 		"SrcDatabase": "期刊",
 		"Title": "基于复合特征的GIS振动信号特征提取方法",
 		"Author": [
@@ -2362,6 +2531,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 170,
 		"SrcDatabase": "期刊",
 		"Title": "GIS升压站雷电侵入波过电压计算及其影响因素分析",
 		"Author": [
@@ -2377,6 +2547,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 171,
 		"SrcDatabase": "期刊",
 		"Title": "探究地理信息系统在森林资源管理中的应用",
 		"Author": [
@@ -2388,6 +2559,7 @@
 		"Source": "冶金管理"
 	},
 	{
+		"Id": 172,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的漳州市耕地三位一体保护研究",
 		"Author": [
@@ -2399,6 +2571,7 @@
 		"Source": "福建地质"
 	},
 	{
+		"Id": 173,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的贵溪市建设用地适宜性评价",
 		"Author": [
@@ -2411,6 +2584,7 @@
 		"Source": "江西科学"
 	},
 	{
+		"Id": 174,
 		"SrcDatabase": "期刊",
 		"Title": "基于深度卷积神经网络的GIS缺陷局部放电识别",
 		"Author": [
@@ -2427,6 +2601,7 @@
 		"Source": "太原学院学报(自然科学版)"
 	},
 	{
+		"Id": 175,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的铀矿山退役治理效果评价技术研究",
 		"Author": [
@@ -2441,6 +2616,7 @@
 		"Source": "环境科学与管理"
 	},
 	{
+		"Id": 176,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在第三次全国国土调查数据库建设中的应用",
 		"Author": [
@@ -2453,6 +2629,7 @@
 		"Source": "东北水利水电"
 	},
 	{
+		"Id": 177,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在地质灾害应急管理中的应用",
 		"Author": [
@@ -2464,6 +2641,7 @@
 		"Source": "福建地质"
 	},
 	{
+		"Id": 178,
 		"SrcDatabase": "期刊",
 		"Title": "应用GIS技术对太湖底泥重金属的研究",
 		"Author": [
@@ -2481,6 +2659,7 @@
 		"Source": "干旱环境监测"
 	},
 	{
+		"Id": 179,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在全民健身中的应用特征研究",
 		"Author": [
@@ -2498,6 +2677,7 @@
 		"Source": "自然资源遥感"
 	},
 	{
+		"Id": 180,
 		"SrcDatabase": "期刊",
 		"Title": "GIS层次分析法在地质环境保障能力评价中的应用——以山东半岛蓝色经济区为例",
 		"Author": [
@@ -2517,6 +2697,7 @@
 		"Source": "山东国土资源"
 	},
 	{
+		"Id": 181,
 		"SrcDatabase": "期刊",
 		"Title": "园林专业RS、GIS技术课程教学改革研究",
 		"Author": [
@@ -2531,6 +2712,7 @@
 		"Source": "山东农业工程学院学报"
 	},
 	{
+		"Id": 182,
 		"SrcDatabase": "期刊",
 		"Title": "某特高压换流站1000 kV GIS气室局放异常分析",
 		"Author": [
@@ -2548,6 +2730,7 @@
 		"Source": "安徽电气工程职业技术学院学报"
 	},
 	{
+		"Id": 183,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备在高海拔环境应用的适应性研究",
 		"Author": [
@@ -2566,6 +2749,7 @@
 		"Source": "电气开关"
 	},
 	{
+		"Id": 184,
 		"SrcDatabase": "期刊",
 		"Title": "GIS隔离开关开合母线转换电流研究",
 		"Author": [
@@ -2577,6 +2761,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 185,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的BIM市政设计解决方案",
 		"Author": [
@@ -2590,6 +2775,7 @@
 		"Source": "建筑技术开发"
 	},
 	{
+		"Id": 186,
 		"SrcDatabase": "期刊",
 		"Title": "带状装配式污水管网BIM+GIS集成技术研究及应用",
 		"Author": [
@@ -2603,6 +2789,7 @@
 		"Source": "云南水力发电"
 	},
 	{
+		"Id": 187,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的拉萨市城关区荒漠分类研究",
 		"Author": [
@@ -2623,6 +2810,7 @@
 		"Source": "水土保持通报"
 	},
 	{
+		"Id": 188,
 		"SrcDatabase": "期刊",
 		"Title": "GIS与无人机辅助技术在工业事故中的应用",
 		"Author": [
@@ -2635,6 +2823,7 @@
 		"Source": "中国应急救援"
 	},
 	{
+		"Id": 189,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的长距离工程地质灾害危险性分析",
 		"Author": [
@@ -2651,6 +2840,7 @@
 		"Source": "地下空间与工程学报"
 	},
 	{
+		"Id": 190,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的人防工程维护管理和战时疏散系统方案研究",
 		"Author": [
@@ -2664,6 +2854,7 @@
 		"Source": "工程与建设"
 	},
 	{
+		"Id": 191,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的高速公路边坡施工信息管理系统设计",
 		"Author": [
@@ -2677,6 +2868,7 @@
 		"Source": "工程与建设"
 	},
 	{
+		"Id": 192,
 		"SrcDatabase": "期刊",
 		"Title": "GIS智能控制柜温度均衡及电磁屏蔽技术研究",
 		"Author": [
@@ -2690,6 +2882,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 193,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与GEODA的西藏自治区农林牧业总产值空间差异演化研究",
 		"Author": [
@@ -2706,6 +2899,7 @@
 		"Source": "高原农业"
 	},
 	{
+		"Id": 194,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的若尔盖县2009—2014年沙化土地动态变化定量分析",
 		"Author": [
@@ -2719,6 +2913,7 @@
 		"Source": "四川林业科技"
 	},
 	{
+		"Id": 195,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统线上实践教学模式探究",
 		"Author": [
@@ -2733,6 +2928,7 @@
 		"Source": "产业与科技论坛"
 	},
 	{
+		"Id": 196,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS水文建模的易涝区识别优化方法",
 		"Author": [
@@ -2745,6 +2941,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 197,
 		"SrcDatabase": "期刊",
 		"Title": "一种GIS设备超声波局部放电检测系统",
 		"Author": [
@@ -2759,6 +2956,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 198,
 		"SrcDatabase": "期刊",
 		"Title": "220kV GIS断路器合后即分与合闸滞后故障分析",
 		"Author": [
@@ -2772,6 +2970,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 199,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS设备综合报警单元监测装置研制",
 		"Author": [
@@ -2785,6 +2984,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 200,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS设备内部故障分析与防范措施探讨",
 		"Author": [
@@ -2802,6 +3002,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 201,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS断路器异常噪声原因分析与探讨",
 		"Author": [
@@ -2817,6 +3018,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 202,
 		"SrcDatabase": "期刊",
 		"Title": "基于太赫兹时域光谱技术的GIS设备固体粉末中金属异物的检测研究",
 		"Author": [
@@ -2838,6 +3040,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 203,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和开放数据的公交可达性测度研究",
 		"Author": [
@@ -2851,6 +3054,7 @@
 		"Source": "物流科技"
 	},
 	{
+		"Id": 204,
 		"SrcDatabase": "期刊",
 		"Title": "基于3D GIS的露天矿山开采监管系统开发及应用",
 		"Author": [
@@ -2865,6 +3069,7 @@
 		"Source": "工程勘察"
 	},
 	{
+		"Id": 205,
 		"SrcDatabase": "期刊",
 		"Title": "基于柔性电阻式温度传感器的GIS无线测温系统",
 		"Author": [
@@ -2880,6 +3085,7 @@
 		]
 	},
 	{
+		"Id": 206,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的公园绿地可达性分析——以哈尔滨市松北区为例",
 		"Author": [
@@ -2891,6 +3097,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 207,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的济西国家湿地公园生态敏感性评价",
 		"Author": [
@@ -2907,6 +3114,7 @@
 		]
 	},
 	{
+		"Id": 208,
 		"SrcDatabase": "期刊",
 		"Title": "GIS数字测绘技术在矿山地质测量中的应用探讨",
 		"Author": [
@@ -2919,6 +3127,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 209,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的物流信息系统设计与开发",
 		"Author": [
@@ -2930,6 +3139,7 @@
 		"Source": "电声技术"
 	},
 	{
+		"Id": 210,
 		"SrcDatabase": "期刊",
 		"Title": "电缆局放缺陷检测和GIS定位分析",
 		"Author": [
@@ -2946,6 +3156,7 @@
 		"Source": "电声技术"
 	},
 	{
+		"Id": 211,
 		"SrcDatabase": "期刊",
 		"Title": "移动GIS在地质灾害群测群防中的应用",
 		"Author": [
@@ -2963,6 +3174,7 @@
 		"Source": "测绘地理信息"
 	},
 	{
+		"Id": 212,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的桂林市罗汉果种植土地适宜性评价",
 		"Author": [
@@ -2976,6 +3188,7 @@
 		]
 	},
 	{
+		"Id": 213,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的耕地后备资源潜力分析研究",
 		"Author": [
@@ -2993,6 +3206,7 @@
 		"Source": "国土与自然资源研究"
 	},
 	{
+		"Id": 214,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的水利信息平台设计及其在长泰枋洋水利枢纽工程中的应用",
 		"Author": [
@@ -3008,6 +3222,7 @@
 		"Source": "水利科技"
 	},
 	{
+		"Id": 215,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的配网抢修指挥关键技术的研究",
 		"Author": [
@@ -3019,6 +3234,7 @@
 		"Source": "现代工业经济和信息化"
 	},
 	{
+		"Id": 216,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS设备的运行维护与管理",
 		"Author": [
@@ -3030,6 +3246,7 @@
 		"Source": "现代工业经济和信息化"
 	},
 	{
+		"Id": 217,
 		"SrcDatabase": "期刊",
 		"Title": "利用GIS分析岩溶地区磷石膏渣场节理裂隙特征",
 		"Author": [
@@ -3042,6 +3259,7 @@
 		"Source": "水利科技与经济"
 	},
 	{
+		"Id": 218,
 		"SrcDatabase": "期刊",
 		"Title": "基于鲁棒主成分分析的空间GIS文本关系自主抽取",
 		"Author": [
@@ -3053,6 +3271,7 @@
 		"Source": "科技通报"
 	},
 	{
+		"Id": 219,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS的广西岩溶内涝灾害风险区划研究",
 		"Author": [
@@ -3065,6 +3284,7 @@
 		"Source": "水利规划与设计"
 	},
 	{
+		"Id": 220,
 		"SrcDatabase": "期刊",
 		"Title": "内蒙古电网全户内GIS变电站设计特点分析",
 		"Author": [
@@ -3076,6 +3296,7 @@
 		"Source": "电力勘测设计"
 	},
 	{
+		"Id": 221,
 		"SrcDatabase": "期刊",
 		"Title": "基于层次分析法和GIS的CSNS工程地质适宜度评价",
 		"Author": [
@@ -3091,6 +3312,7 @@
 		"Source": "水利规划与设计"
 	},
 	{
+		"Id": 222,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土地利用动态变化及其驱动力分析",
 		"Author": [
@@ -3110,6 +3332,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 223,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的综合交通空间数据管理系统研究",
 		"Author": [
@@ -3121,6 +3344,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 224,
 		"SrcDatabase": "期刊",
 		"Title": "基于SWT的GIS电压互感器二次侧干扰分析",
 		"Author": [
@@ -3138,6 +3362,7 @@
 		"Source": "电力工程技术"
 	},
 	{
+		"Id": 225,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的气象灾害风险区划分析——以河南省为例",
 		"Author": [
@@ -3155,6 +3380,7 @@
 		"Source": "山东理工大学学报(自然科学版)"
 	},
 	{
+		"Id": 226,
 		"SrcDatabase": "期刊",
 		"Title": "基于 T-MobileNet-L 模型的GIS局部放电模式识别研究",
 		"Author": [
@@ -3170,6 +3396,7 @@
 		"Source": "电子测量技术"
 	},
 	{
+		"Id": 227,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS技术的高铁动车运用所数字孪生关键技术研究",
 		"Author": [
@@ -3181,6 +3408,7 @@
 		"Source": "铁道标准设计"
 	},
 	{
+		"Id": 228,
 		"SrcDatabase": "期刊",
 		"Title": "基于组件式GIS的森林火灾管理系统开发研究",
 		"Author": [
@@ -3192,6 +3420,7 @@
 		"Source": "农业技术与装备"
 	},
 	{
+		"Id": 229,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的农业气象灾害监测预警系统研究",
 		"Author": [
@@ -3203,6 +3432,7 @@
 		"Source": "农业技术与装备"
 	},
 	{
+		"Id": 230,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS设备隔离开关自动分闸故障分析",
 		"Author": [
@@ -3214,6 +3444,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 231,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的山体资源巡查管理系统应用研究",
 		"Author": [
@@ -3227,6 +3458,7 @@
 		"Source": "现代测绘"
 	},
 	{
+		"Id": 232,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与PSR的城市土地集约利用时空差异研究",
 		"Author": [
@@ -3238,6 +3470,7 @@
 		"Source": "北京测绘"
 	},
 	{
+		"Id": 233,
 		"SrcDatabase": "期刊",
 		"Title": "低空遥感下大数据测绘地理信息系统的构建及实践",
 		"Author": [
@@ -3249,6 +3482,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 234,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的矿山岩土工程勘察设计一体化模式研究",
 		"Author": [
@@ -3262,6 +3496,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 235,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在工程测量和地质测量中的应用",
 		"Author": [
@@ -3274,6 +3509,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 236,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在岩土工程勘察中的运用实践探究",
 		"Author": [
@@ -3285,6 +3521,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 237,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统中大数据的应用分析",
 		"Author": [
@@ -3296,6 +3533,7 @@
 		"Source": "低碳世界"
 	},
 	{
+		"Id": 238,
 		"SrcDatabase": "期刊",
 		"Title": "基于测绘的城市地理信息系统应用",
 		"Author": [
@@ -3307,6 +3545,7 @@
 		"Source": "房地产世界"
 	},
 	{
+		"Id": 239,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在低效用地界定中的应用研究",
 		"Author": [
@@ -3323,6 +3562,7 @@
 		"Source": "中国资源综合利用"
 	},
 	{
+		"Id": 240,
 		"SrcDatabase": "期刊",
 		"Title": "TerrainMapper机载激光雷达的新能源基地智慧三维GIS工程应用",
 		"Author": [
@@ -3340,6 +3580,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 241,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的赣州市城区道路可达性研究",
 		"Author": [
@@ -3354,6 +3595,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 242,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和Socket技术的海事综合监管系统研究",
 		"Author": [
@@ -3366,6 +3608,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 243,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的河长制数据管理系统研究",
 		"Author": [
@@ -3380,6 +3623,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 244,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的机场净空管理系统设计与实现",
 		"Author": [
@@ -3396,6 +3640,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 245,
 		"SrcDatabase": "期刊",
 		"Title": "基于图像注意力标注技术的空间GIS数据可视化研究",
 		"Author": [
@@ -3407,6 +3652,7 @@
 		"Source": "自动化与仪器仪表"
 	},
 	{
+		"Id": 246,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与DRASTIC模型的白银市白银区地下水脆弱性评价",
 		"Author": [
@@ -3421,6 +3667,7 @@
 		"Source": "地下水"
 	},
 	{
+		"Id": 247,
 		"SrcDatabase": "期刊",
 		"Title": "隔离开关合闸不到位引起GIS放电故障的原因分析",
 		"Author": [
@@ -3434,6 +3681,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 248,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在电网技改工程造价管控分析中的应用",
 		"Author": [
@@ -3449,6 +3697,7 @@
 		"Source": "能源与环保"
 	},
 	{
+		"Id": 249,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的猕猴桃电商精准营销智能分析",
 		"Author": [
@@ -3465,6 +3714,7 @@
 		"Source": "农学学报"
 	},
 	{
+		"Id": 250,
 		"SrcDatabase": "期刊",
 		"Title": "特高压直流工程GIS、开关类设备制造过程的质量问题及改进措施",
 		"Author": [
@@ -3476,6 +3726,7 @@
 		"Source": "东北电力技术"
 	},
 	{
+		"Id": 251,
 		"SrcDatabase": "期刊",
 		"Title": "基于高压开关GIS筒体特征的目标成本标准化评价方法研究",
 		"Author": [
@@ -3490,6 +3741,7 @@
 		"Source": "中国标准化"
 	},
 	{
+		"Id": 252,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的麦盖提县农用地质量等级评价",
 		"Author": [
@@ -3503,6 +3755,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 253,
 		"SrcDatabase": "期刊",
 		"Title": "大数据在GIS中的应用进展与展望",
 		"Author": [
@@ -3514,6 +3767,7 @@
 		"Source": "科技创新与应用"
 	},
 	{
+		"Id": 254,
 		"SrcDatabase": "期刊",
 		"Title": "高压下GIS中异物金属颗粒运动过程的研究",
 		"Author": [
@@ -3530,6 +3784,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 255,
 		"SrcDatabase": "期刊",
 		"Title": "三相同壳GIS母线相电压测量解耦方法研究",
 		"Author": [
@@ -3545,6 +3800,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 256,
 		"SrcDatabase": "期刊",
 		"Title": "550 kV GIS内触头发热故障诊断方法与影响因素研究",
 		"Author": [
@@ -3563,6 +3819,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 257,
 		"SrcDatabase": "期刊",
 		"Title": "城市排水管网GIS数据异常的检测与修复",
 		"Author": [
@@ -3579,6 +3836,7 @@
 		"Source": "净水技术"
 	},
 	{
+		"Id": 258,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和模糊SOFM模型的省级尺度土地类型划分研究——以河南省为例",
 		"Author": [
@@ -3594,6 +3852,7 @@
 		"Source": "中国土地科学"
 	},
 	{
+		"Id": 259,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的陕西省栽培牧草区划",
 		"Author": [
@@ -3613,6 +3872,7 @@
 		"Source": "草业科学"
 	},
 	{
+		"Id": 260,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS平台和无人机航拍技术的火烧迹地分析",
 		"Author": [
@@ -3625,6 +3885,7 @@
 		"Source": "林业科技情报"
 	},
 	{
+		"Id": 261,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的秦岭主峰太白山积雪变化研究",
 		"Author": [
@@ -3639,6 +3900,7 @@
 		"Source": "陕西气象"
 	},
 	{
+		"Id": 262,
 		"SrcDatabase": "期刊",
 		"Title": "基于5G无线网络的GI S应用研究",
 		"Author": [
@@ -3650,6 +3912,7 @@
 		"Source": "品牌与标准化"
 	},
 	{
+		"Id": 263,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和ENVI的通信机房选址模型研究",
 		"Author": [
@@ -3661,6 +3924,7 @@
 		"Source": "电信工程技术与标准化"
 	},
 	{
+		"Id": 264,
 		"SrcDatabase": "期刊",
 		"Title": "应用于高海拔环境下的550kV GIS套管抗震性能分析",
 		"Author": [
@@ -3674,6 +3938,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 265,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的西南高山峡谷区滑坡风险性评价——以怒江州泸水市为例",
 		"Author": [
@@ -3690,6 +3955,7 @@
 		"Source": "西北师范大学学报(自然科学版)"
 	},
 	{
+		"Id": 266,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的福建省路网可达性及其空间特征",
 		"Author": [
@@ -3706,6 +3972,7 @@
 		"Source": "江苏师范大学学报(自然科学版)"
 	},
 	{
+		"Id": 267,
 		"SrcDatabase": "期刊",
 		"Title": "运用GIS和AI叠图提升学生思维结构水平的实践研究——以“凉山州区域开发”为例",
 		"Author": [
@@ -3719,6 +3986,7 @@
 		"Source": "地理教学"
 	},
 	{
+		"Id": 268,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在梅州市国家储备林精准划定中的应用",
 		"Author": [
@@ -3730,6 +3998,7 @@
 		"Source": "林业科技通讯"
 	},
 	{
+		"Id": 269,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的龙文区林地差异转移矩阵分析",
 		"Author": [
@@ -3741,6 +4010,7 @@
 		"Source": "林业科技通讯"
 	},
 	{
+		"Id": 270,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的氯化氢泄漏事故后果评价",
 		"Author": [
@@ -3755,6 +4025,7 @@
 		"Source": "消防科学与技术"
 	},
 	{
+		"Id": 271,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与AHP耦合技术的承德地区地质灾害危害性评价",
 		"Author": [
@@ -3771,6 +4042,7 @@
 		]
 	},
 	{
+		"Id": 272,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在地质灾害信息系统建设中的应用",
 		"Author": [
@@ -3784,6 +4056,7 @@
 		"Source": "工程技术研究"
 	},
 	{
+		"Id": 273,
 		"SrcDatabase": "期刊",
 		"Title": "正弦振动激励下GIS内自由金属微粒运动特性",
 		"Author": [
@@ -3801,6 +4074,7 @@
 		"Source": "电工技术学报"
 	},
 	{
+		"Id": 274,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和多准则决策的山东省潮流能区划研究",
 		"Author": [
@@ -3818,6 +4092,7 @@
 		"Source": "中国海洋大学学报(自然科学版)"
 	},
 	{
+		"Id": 275,
 		"SrcDatabase": "期刊",
 		"Title": "GIS气室SF_6密度继电器运行故障分析",
 		"Author": [
@@ -3829,6 +4104,7 @@
 		"Source": "集成电路应用"
 	},
 	{
+		"Id": 276,
 		"SrcDatabase": "期刊",
 		"Title": "GIS变电站电缆仓户外布置优化设计",
 		"Author": [
@@ -3845,6 +4121,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 277,
 		"SrcDatabase": "期刊",
 		"Title": "基于温度检测的气体绝缘开关接触状态场路结合分析法",
 		"Author": [
@@ -3863,6 +4140,7 @@
 		"Source": "热力发电"
 	},
 	{
+		"Id": 278,
 		"SrcDatabase": "期刊",
 		"Title": "视频与GIS协同的交通违规行为分析方法",
 		"Author": [
@@ -3877,6 +4155,7 @@
 		]
 	},
 	{
+		"Id": 279,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的生态敏感性评价与山体修复策略——以青海同仁市隆务西山为例",
 		"Author": [
@@ -3890,6 +4169,7 @@
 		"Source": "湖南生态科学学报"
 	},
 	{
+		"Id": 280,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的河南省小麦区域节肥减排潜力评价",
 		"Author": [
@@ -3907,6 +4187,7 @@
 		]
 	},
 	{
+		"Id": 281,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和随机森林的采动区建筑物损害综合评价",
 		"Author": [
@@ -3925,6 +4206,7 @@
 		"Source": "煤炭科学技术"
 	},
 	{
+		"Id": 282,
 		"SrcDatabase": "期刊",
 		"Title": "考虑GIS信息的城市配电系统网格化动态投资策略优化",
 		"Author": [
@@ -3945,6 +4227,7 @@
 		"Source": "电力建设"
 	},
 	{
+		"Id": 283,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的乡村旅游气候舒适度评估与区划——以重庆市长寿区为例",
 		"Author": [
@@ -3961,6 +4244,7 @@
 		"Source": "中低纬山地气象"
 	},
 	{
+		"Id": 284,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的综合调查作业模式探究",
 		"Author": [
@@ -3972,6 +4256,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 285,
 		"SrcDatabase": "期刊",
 		"Title": "GIS与BIM技术在绿色设计中的应用研究",
 		"Author": [
@@ -3983,6 +4268,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 286,
 		"SrcDatabase": "期刊",
 		"Title": "一种BIM模型与3D GIS场景动态可视化接边方法",
 		"Author": [
@@ -3995,6 +4281,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 287,
 		"SrcDatabase": "期刊",
 		"Title": "面向用户体验的GIS软件界面设计",
 		"Author": [
@@ -4009,6 +4296,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 288,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RUSLE模型的东江源流域土壤侵蚀评价",
 		"Author": [
@@ -4023,6 +4311,7 @@
 		"Source": "江西冶金"
 	},
 	{
+		"Id": 289,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的断面法高效水库库容计算方法",
 		"Author": [
@@ -4034,6 +4323,7 @@
 		"Source": "西北水电"
 	},
 	{
+		"Id": 290,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的聊城市建成区空间扩张研究",
 		"Author": [
@@ -4046,6 +4336,7 @@
 		"Source": "青岛理工大学学报"
 	},
 	{
+		"Id": 291,
 		"SrcDatabase": "期刊",
 		"Title": "面向农业规划相关专业的GIS课程教学改革与优化研究",
 		"Author": [
@@ -4061,6 +4352,7 @@
 		"Source": "扬州大学学报(高教研究版)"
 	},
 	{
+		"Id": 292,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS技术的GSM-R网络覆盖优化",
 		"Author": [
@@ -4074,6 +4366,7 @@
 		"Source": "铁路技术创新"
 	},
 	{
+		"Id": 293,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的信息量法在九畹溪流域地质灾害易发性评价中的应用",
 		"Author": [
@@ -4087,6 +4380,7 @@
 		"Source": "资源环境与工程"
 	},
 	{
+		"Id": 294,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS信息量模型的地质灾害易发性分区评价——以黄梅县为例",
 		"Author": [
@@ -4103,6 +4397,7 @@
 		"Source": "资源环境与工程"
 	},
 	{
+		"Id": 295,
 		"SrcDatabase": "期刊",
 		"Title": "一起110 kV GIS设备SF_6气体泄漏故障的分析与处理",
 		"Author": [
@@ -4121,6 +4416,7 @@
 		"Source": "电力与能源"
 	},
 	{
+		"Id": 296,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的工作面探煤数据管理方法研究与应用",
 		"Author": [
@@ -4138,6 +4434,7 @@
 		]
 	},
 	{
+		"Id": 297,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的返贫监测预警系统",
 		"Author": [
@@ -4155,6 +4452,7 @@
 		"Source": "北京测绘"
 	},
 	{
+		"Id": 298,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的道路交通事故空间分布特征分析——以山东省日照市为例",
 		"Author": [
@@ -4171,6 +4469,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 299,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的体育公共服务共享平台建设分析",
 		"Author": [
@@ -4182,6 +4481,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 300,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在水环境管理及环境影响评价领域的运用",
 		"Author": [
@@ -4196,6 +4496,7 @@
 		"Source": "绿色环保建材"
 	},
 	{
+		"Id": 301,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的深空探测器真空热环境模拟测试系统设计",
 		"Author": [
@@ -4208,6 +4509,7 @@
 		"Source": "计算机测量与控制"
 	},
 	{
+		"Id": 302,
 		"SrcDatabase": "期刊",
 		"Title": "基于流体仿真的GIS汇控柜防凝露控制策略研究",
 		"Author": [
@@ -4223,6 +4525,7 @@
 		"Source": "自动化与仪表"
 	},
 	{
+		"Id": 303,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感GIS的地震应急信息质量控制系统设计",
 		"Author": [
@@ -4235,6 +4538,7 @@
 		"Source": "计算机测量与控制"
 	},
 	{
+		"Id": 304,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的历史文化资源挖掘机制与可视化探索——以陕西历史文化地理信息平台为例",
 		"Author": [
@@ -4250,6 +4554,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 305,
 		"SrcDatabase": "期刊",
 		"Title": "基于云GIS的数字县域地理信息公共服务平台建设——以广西平南县为例",
 		"Author": [
@@ -4263,6 +4568,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 306,
 		"SrcDatabase": "期刊",
 		"Title": "移动GIS数字测绘成果巡查系统的设计与实现",
 		"Author": [
@@ -4276,6 +4582,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 307,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS福州市应急避难场所空间分布的指标评价分析",
 		"Author": [
@@ -4293,6 +4600,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 308,
 		"SrcDatabase": "期刊",
 		"Title": "CASS数据到GIS入库数据的转换方法探讨",
 		"Author": [
@@ -4310,6 +4618,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 309,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的大连市金普新区洪水淹没分析",
 		"Author": [
@@ -4325,6 +4634,7 @@
 		"Source": "地质与资源"
 	},
 	{
+		"Id": 310,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的溃坝洪水模拟",
 		"Author": [
@@ -4337,6 +4647,7 @@
 		"Source": "华北理工大学学报(自然科学版)"
 	},
 	{
+		"Id": 311,
 		"SrcDatabase": "期刊",
 		"Title": "应用型本科院校GIS专业课程校企共建模式",
 		"Author": [
@@ -4351,6 +4662,7 @@
 		"Source": "黑龙江工程学院学报"
 	},
 	{
+		"Id": 312,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的东江源区寻乌水河道演变及其影响分析",
 		"Author": [
@@ -4364,6 +4676,7 @@
 		"Source": "人民珠江"
 	},
 	{
+		"Id": 313,
 		"SrcDatabase": "期刊",
 		"Title": "基于多光谱遥感数据的地理信息系统研究",
 		"Author": [
@@ -4380,6 +4693,7 @@
 		"Source": "激光杂志"
 	},
 	{
+		"Id": 314,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的新疆沙湾辣椒精细化气候区划",
 		"Author": [
@@ -4396,6 +4710,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 315,
 		"SrcDatabase": "期刊",
 		"Title": "GIS断路器用双头螺栓失效分析",
 		"Author": [
@@ -4409,6 +4724,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 316,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的碾压混凝土坝浇筑进度监控平台开发",
 		"Author": [
@@ -4422,6 +4738,7 @@
 		"Source": "水电能源科学"
 	},
 	{
+		"Id": 317,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM的中小型园区智慧平台搭建探索",
 		"Author": [
@@ -4433,6 +4750,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 318,
 		"SrcDatabase": "期刊",
 		"Title": "环境GIS课堂理论与课后软件实践的融合探讨",
 		"Author": [
@@ -4447,6 +4765,7 @@
 		"Source": "现代商贸工业"
 	},
 	{
+		"Id": 319,
 		"SrcDatabase": "期刊",
 		"Title": "GIS开关操作空间瞬态辐射电场的特性研究",
 		"Author": [
@@ -4466,6 +4785,7 @@
 		"Source": "电力大数据"
 	},
 	{
+		"Id": 320,
 		"SrcDatabase": "期刊",
 		"Title": "基于地理信息系统的崇礼冬奥风景道景观规划研究",
 		"Author": [
@@ -4480,6 +4800,7 @@
 		"Source": "工业建筑"
 	},
 	{
+		"Id": 321,
 		"SrcDatabase": "期刊",
 		"Title": "基于VMD的PSO-SVM故障诊断算法在GIS局部放电中的应用",
 		"Author": [
@@ -4491,6 +4812,7 @@
 		"Source": "微型电脑应用"
 	},
 	{
+		"Id": 322,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的多测合一信息管理平台设计与实现",
 		"Author": [
@@ -4506,6 +4828,7 @@
 		"Source": "长春师范大学学报"
 	},
 	{
+		"Id": 323,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS结构健康状况在线监测",
 		"Author": [
@@ -4520,6 +4843,7 @@
 		"Source": "东北电力技术"
 	},
 	{
+		"Id": 324,
 		"SrcDatabase": "期刊",
 		"Title": "GIS支撑绝缘子内部放电缺陷综合诊断方法现场应用",
 		"Author": [
@@ -4538,6 +4862,7 @@
 		"Source": "四川电力技术"
 	},
 	{
+		"Id": 325,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的风机微观选址研究",
 		"Author": [
@@ -4551,6 +4876,7 @@
 		"Source": "陕西水利"
 	},
 	{
+		"Id": 326,
 		"SrcDatabase": "期刊",
 		"Title": "基于SCS-CN与GIS耦合模型的闽三角城市群承灾空间淹没风险研究",
 		"Author": [
@@ -4567,6 +4893,7 @@
 		"Source": "灾害学"
 	},
 	{
+		"Id": 327,
 		"SrcDatabase": "期刊",
 		"Title": "BIM与GIS的协同应用对污水处理厂设计的启示",
 		"Author": [
@@ -4580,6 +4907,7 @@
 		"Source": "中国给水排水"
 	},
 	{
+		"Id": 328,
 		"SrcDatabase": "期刊",
 		"Title": "GIS红外温度传感系统的设计表征研究",
 		"Author": [
@@ -4598,6 +4926,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 329,
 		"SrcDatabase": "期刊",
 		"Title": "界面电荷注入与积聚行为对直流GIS/GIL绝缘子沿面电场的影响分析",
 		"Author": [
@@ -4615,6 +4944,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 330,
 		"SrcDatabase": "期刊",
 		"Title": "500 kV GIS隔离开关触头温度监测及外壳温度传感器优化布置",
 		"Author": [
@@ -4633,6 +4963,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 331,
 		"SrcDatabase": "期刊",
 		"Title": "大学地理信息系统课程教学方法探讨",
 		"Author": [
@@ -4648,6 +4979,7 @@
 		"Source": "数据"
 	},
 	{
+		"Id": 332,
 		"SrcDatabase": "期刊",
 		"Title": "简析地理信息系统在地质勘查中的运用",
 		"Author": [
@@ -4659,6 +4991,7 @@
 		"Source": "中国金属通报"
 	},
 	{
+		"Id": 333,
 		"SrcDatabase": "期刊",
 		"Title": "探索构建城市燃气GIS云平台解决方案",
 		"Author": [
@@ -4672,6 +5005,7 @@
 		"Source": "城市燃气"
 	},
 	{
+		"Id": 334,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和logistic模型的地震滑坡致死人数快速评估方法",
 		"Author": [
@@ -4689,6 +5023,7 @@
 		"Source": "地震地质"
 	},
 	{
+		"Id": 335,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS及AHP-熵权法的长大深埋隧道富水评价",
 		"Author": [
@@ -4705,6 +5040,7 @@
 		"Source": "铁道工程学报"
 	},
 	{
+		"Id": 336,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的黄河流域生态环境保护下郑焦绿城建设规划研究",
 		"Author": [
@@ -4716,6 +5052,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 337,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的黑龙江省多年平均降水量空间插值分析比较",
 		"Author": [
@@ -4732,6 +5069,7 @@
 		"Source": "吉林水利"
 	},
 	{
+		"Id": 338,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的昭平县地质灾害易发性分区评价研究",
 		"Author": [
@@ -4747,6 +5085,7 @@
 		"Source": "资源信息与工程"
 	},
 	{
+		"Id": 339,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS技术的道路勘测设计教学改革研究",
 		"Author": [
@@ -4758,6 +5097,7 @@
 		"Source": "武汉轻工大学学报"
 	},
 	{
+		"Id": 340,
 		"SrcDatabase": "期刊",
 		"Title": "基于开放GIS和RS地理教学方案思考",
 		"Author": [
@@ -4769,6 +5109,7 @@
 		"Source": "大学"
 	},
 	{
+		"Id": 341,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的中小学布局优化研究",
 		"Author": [
@@ -4781,6 +5122,7 @@
 		"Source": "合肥工业大学学报(社会科学版)"
 	},
 	{
+		"Id": 342,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的风暴潮灾害风险预警方法研究",
 		"Author": [
@@ -4798,6 +5140,7 @@
 		"Source": "中国防汛抗旱"
 	},
 	{
+		"Id": 343,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS抽水蓄能电站数字化交付平台应用研究",
 		"Author": [
@@ -4811,6 +5154,7 @@
 		"Source": "水利技术监督"
 	},
 	{
+		"Id": 344,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市建筑群动力响应分析模型建模方法研究",
 		"Author": [
@@ -4825,6 +5169,7 @@
 		"Source": "世界地震工程"
 	},
 	{
+		"Id": 345,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的西江临时蓄滞洪区选址分析",
 		"Author": [
@@ -4837,6 +5182,7 @@
 		"Source": "广东水利水电"
 	},
 	{
+		"Id": 346,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS的三维实景智慧港口研究与应用",
 		"Author": [
@@ -4853,6 +5199,7 @@
 		"Source": "港工技术"
 	},
 	{
+		"Id": 347,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS的矿区岩溶塌陷易发性评估——以贵州林歹岩溶矿区为例",
 		"Author": [
@@ -4867,6 +5214,7 @@
 		"Source": "自然灾害学报"
 	},
 	{
+		"Id": 348,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的重庆市高新区直管园土地覆被更新变化分析",
 		"Author": [
@@ -4883,6 +5231,7 @@
 		"Source": "矿山测量"
 	},
 	{
+		"Id": 349,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的智能化管线规划设计平台研究与实践",
 		"Author": [
@@ -4895,6 +5244,7 @@
 		"Source": "通信管理与技术"
 	},
 	{
+		"Id": 350,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的南京市栖霞区公共体育空间服务范围浅析",
 		"Author": [
@@ -4906,6 +5256,7 @@
 		"Source": "运动精品"
 	},
 	{
+		"Id": 351,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的常绿阔叶林郁闭度与树冠重叠度分析",
 		"Author": [
@@ -4920,6 +5271,7 @@
 		"Source": "林业资源管理"
 	},
 	{
+		"Id": 352,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的达州香椿气候生态适宜性区划",
 		"Author": [
@@ -4939,6 +5291,7 @@
 		"Source": "高原山地气象研究"
 	},
 	{
+		"Id": 353,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS与GIS的理塘县沙化治理重点工程区沙化土地动态变化分析",
 		"Author": [
@@ -4954,6 +5307,7 @@
 		"Source": "四川林业科技"
 	},
 	{
+		"Id": 354,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术对西昌市森林火险等级划分的研究",
 		"Author": [
@@ -4965,6 +5319,7 @@
 		"Source": "四川林业科技"
 	},
 	{
+		"Id": 355,
 		"SrcDatabase": "期刊",
 		"Title": "盆式绝缘子对GIS特高频信号传播特性的影响",
 		"Author": [
@@ -4976,6 +5331,7 @@
 		"Source": "科技创新与应用"
 	},
 	{
+		"Id": 356,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在污染普查成果管理中的应用与实现",
 		"Author": [
@@ -4987,6 +5343,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 357,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市绿地景观空间格局与服务半径分析",
 		"Author": [
@@ -4998,6 +5355,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 358,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在智慧城市中的应用分析",
 		"Author": [
@@ -5009,6 +5367,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 359,
 		"SrcDatabase": "期刊",
 		"Title": "论在岩土工程勘察中如何运用GIS技术",
 		"Author": [
@@ -5020,6 +5379,7 @@
 		"Source": "科技资讯"
 	},
 	{
+		"Id": 360,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的山核桃生长适宜性评价研究",
 		"Author": [
@@ -5031,6 +5391,7 @@
 		"Source": "科技资讯"
 	},
 	{
+		"Id": 361,
 		"SrcDatabase": "期刊",
 		"Title": "面向城市记忆工程的房产档案GIS地图构建及其应用研究",
 		"Author": [
@@ -5042,6 +5403,7 @@
 		"Source": "江苏科技信息"
 	},
 	{
+		"Id": 362,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与主成分分析法的信阳市茶树种植用地适宜性评价",
 		"Author": [
@@ -5059,6 +5421,7 @@
 		"Source": "信阳师范学院学报(自然科学版)"
 	},
 	{
+		"Id": 363,
 		"SrcDatabase": "期刊",
 		"Title": "电缆GIS终端局放缺陷检测和定位分析",
 		"Author": [
@@ -5074,6 +5437,7 @@
 		"Source": "集成电路应用"
 	},
 	{
+		"Id": 364,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的陕西省动物疫病动态监测系统的设计与研究",
 		"Author": [
@@ -5088,6 +5452,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 365,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土地利用总体规划实施评估分析——以民乐县永固镇为例",
 		"Author": [
@@ -5102,6 +5467,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 366,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在地质勘查找矿应用中的关键问题探究",
 		"Author": [
@@ -5113,6 +5479,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 367,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS建构ROS的景观规划方法探析——以台湾小乌来为例",
 		"Author": [
@@ -5126,6 +5493,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 368,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的漳州城市公园服务范围及布局优化研究",
 		"Author": [
@@ -5137,6 +5505,7 @@
 		"Source": "福建建筑"
 	},
 	{
+		"Id": 369,
 		"SrcDatabase": "期刊",
 		"Title": "BIM与三维GIS集成在水利工程中的应用",
 		"Author": [
@@ -5151,6 +5520,7 @@
 		"Source": "江苏水利"
 	},
 	{
+		"Id": 370,
 		"SrcDatabase": "期刊",
 		"Title": "大数据时代地理信息系统的应用分析",
 		"Author": [
@@ -5162,6 +5532,7 @@
 		"Source": "数字通信世界"
 	},
 	{
+		"Id": 371,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在城乡规划设计中的应用及前景分析",
 		"Author": [
@@ -5175,6 +5546,7 @@
 		"Source": "山西建筑"
 	},
 	{
+		"Id": 372,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS的地铁智能监测系统应用研究",
 		"Author": [
@@ -5186,6 +5558,7 @@
 		"Source": "山西建筑"
 	},
 	{
+		"Id": 373,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的区域土地整治效益评价",
 		"Author": [
@@ -5203,6 +5576,7 @@
 		"Source": "甘肃科技"
 	},
 	{
+		"Id": 374,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在土壤重金属污染评价中的应用",
 		"Author": [
@@ -5220,6 +5594,7 @@
 		"Source": "上海农业学报"
 	},
 	{
+		"Id": 375,
 		"SrcDatabase": "期刊",
 		"Title": "一起800kV GIS设备盆式绝缘子闪络故障分析及建议",
 		"Author": [
@@ -5233,6 +5608,7 @@
 		"Source": "青海电力"
 	},
 	{
+		"Id": 376,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的都匀斗篷山滑坡危险性评价",
 		"Author": [
@@ -5250,6 +5626,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 377,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的湖南省植物园生态敏感性分析",
 		"Author": [
@@ -5262,6 +5639,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 378,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的全域旅游公路识别方法研究",
 		"Author": [
@@ -5277,6 +5655,7 @@
 		"Source": "湖南交通科技"
 	},
 	{
+		"Id": 379,
 		"SrcDatabase": "期刊",
 		"Title": "1100kV GIS绝缘子固化过程应力分布仿真研究",
 		"Author": [
@@ -5296,6 +5675,7 @@
 		"Source": "中国电机工程学报"
 	},
 	{
+		"Id": 380,
 		"SrcDatabase": "期刊",
 		"Title": "GIS产品法兰用硅脂性能研究及其国产化应用",
 		"Author": [
@@ -5309,6 +5689,7 @@
 		]
 	},
 	{
+		"Id": 381,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的县域国土空间开发适宜性评价",
 		"Author": [
@@ -5321,6 +5702,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 382,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的凉城县植被覆盖动态变化研究",
 		"Author": [
@@ -5335,6 +5717,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 383,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和信息量模型的青海大通县地质灾害危险性定量评价分析",
 		"Author": [
@@ -5348,6 +5731,7 @@
 		"Source": "四川地质学报"
 	},
 	{
+		"Id": 384,
 		"SrcDatabase": "期刊",
 		"Title": "二三维一体化GIS技术在国土空间基础信息平台建设中的应用",
 		"Author": [
@@ -5363,6 +5747,7 @@
 		"Source": "现代测绘"
 	},
 	{
+		"Id": 385,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的民航无线电干扰源三维定位系统设计",
 		"Author": [
@@ -5378,6 +5763,7 @@
 		"Source": "航空计算技术"
 	},
 	{
+		"Id": 386,
 		"SrcDatabase": "期刊",
 		"Title": "基于深度学习的GIS设备故障识别技术",
 		"Author": [
@@ -5394,6 +5780,7 @@
 		"Source": "信息技术"
 	},
 	{
+		"Id": 387,
 		"SrcDatabase": "期刊",
 		"Title": "GIS特高频局部放电内置传感器自身放电缺陷分析方法",
 		"Author": [
@@ -5407,6 +5794,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 388,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市违法建设信息管理平台设计与实现",
 		"Author": [
@@ -5418,6 +5806,7 @@
 		"Source": "测绘标准化"
 	},
 	{
+		"Id": 389,
 		"SrcDatabase": "期刊",
 		"Title": "居家办公场景下的疫情GIS系统建设研究",
 		"Author": [
@@ -5432,6 +5821,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 390,
 		"SrcDatabase": "期刊",
 		"Title": "铁路通信地理信息系统设计方案研究",
 		"Author": [
@@ -5443,6 +5833,7 @@
 		"Source": "铁路通信信号工程技术"
 	},
 	{
+		"Id": 391,
 		"SrcDatabase": "期刊",
 		"Title": "GIS断路器弹簧操作机构拒分闸故障的分析与处理",
 		"Author": [
@@ -5457,6 +5848,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 392,
 		"SrcDatabase": "期刊",
 		"Title": "基于二、三维地理信息系统的土地收储全周期管理系统设计与实现",
 		"Author": [
@@ -5468,6 +5860,7 @@
 		"Source": "北京测绘"
 	},
 	{
+		"Id": 393,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的福建省传统村落空间分布特征分析",
 		"Author": [
@@ -5482,6 +5875,7 @@
 		"Source": "宁夏大学学报(自然科学版)"
 	},
 	{
+		"Id": 394,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市规划管理中的应用研究",
 		"Author": [
@@ -5495,6 +5889,7 @@
 		"Source": "无线互联科技"
 	},
 	{
+		"Id": 395,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的天津市和平区近代里巷特征分析与历史考究",
 		"Author": [
@@ -5506,6 +5901,7 @@
 		"Source": "城市住宅"
 	},
 	{
+		"Id": 396,
 		"SrcDatabase": "期刊",
 		"Title": "内河航运工程GIS平台建设技术与应用",
 		"Author": [
@@ -5518,6 +5914,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 397,
 		"SrcDatabase": "期刊",
 		"Title": "基于海量GIS数据的自动化故障融合监测技术",
 		"Author": [
@@ -5533,6 +5930,7 @@
 		"Source": "制造业自动化"
 	},
 	{
+		"Id": 398,
 		"SrcDatabase": "期刊",
 		"Title": "GIS PD检测柔性内置小型化阿基米德螺旋天线传感器",
 		"Author": [
@@ -5550,6 +5948,7 @@
 		"Source": "高电压技术"
 	},
 	{
+		"Id": 399,
 		"SrcDatabase": "期刊",
 		"Title": "550 kV GIS变电站中VFTO仿真计算及抑制措施",
 		"Author": [
@@ -5567,6 +5966,7 @@
 		"Source": "电力系统及其自动化学报"
 	},
 	{
+		"Id": 400,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在土地资源管理中的应用",
 		"Author": [
@@ -5578,6 +5978,7 @@
 		"Source": "乡村科技"
 	},
 	{
+		"Id": 401,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的城市小学布局优化研究——以大连市甘井子区小学为例",
 		"Author": [
@@ -5592,6 +5993,7 @@
 		"Source": "辽宁师范大学学报(自然科学版)"
 	},
 	{
+		"Id": 402,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的宁夏皮燕麦种植气候适宜性分析",
 		"Author": [
@@ -5606,6 +6008,7 @@
 		"Source": "农学学报"
 	},
 	{
+		"Id": 403,
 		"SrcDatabase": "期刊",
 		"Title": "新建变电站GIS设备漏气原因分析",
 		"Author": [
@@ -5622,6 +6025,7 @@
 		"Source": "电力安全技术"
 	},
 	{
+		"Id": 404,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS局部放电在线监测系统设计",
 		"Author": [
@@ -5638,6 +6042,7 @@
 		"Source": "电力安全技术"
 	},
 	{
+		"Id": 405,
 		"SrcDatabase": "期刊",
 		"Title": "GIS空间分析在航空气象预警中的应用",
 		"Author": [
@@ -5649,6 +6054,7 @@
 		"Source": "成都航空职业技术学院学报"
 	},
 	{
+		"Id": 406,
 		"SrcDatabase": "期刊",
 		"Title": "GIS与BIM集成研究综述",
 		"Author": [
@@ -5665,6 +6071,7 @@
 		"Source": "水利规划与设计"
 	},
 	{
+		"Id": 407,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM融合的建设工程项目数字化管理平台研究与应用",
 		"Author": [
@@ -5679,6 +6086,7 @@
 		"Source": "水利规划与设计"
 	},
 	{
+		"Id": 408,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的临沂市传统村落空间布局优化研究",
 		"Author": [
@@ -5692,6 +6100,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 409,
 		"SrcDatabase": "期刊",
 		"Title": "神性之外：基于GIS水文分析的傣族传统村寨水生态智慧解读——以云南景洪市曼勐新寨为例",
 		"Author": [
@@ -5704,6 +6113,7 @@
 		"Source": "世界建筑"
 	},
 	{
+		"Id": 410,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的乌鲁木齐市土地利用与生态环境耦合规律分析",
 		"Author": [
@@ -5716,6 +6126,7 @@
 		"Source": "资源与产业"
 	},
 	{
+		"Id": 411,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与BP神经网络的矿区塌陷易发性预测",
 		"Author": [
@@ -5731,6 +6142,7 @@
 		"Source": "煤矿安全"
 	},
 	{
+		"Id": 412,
 		"SrcDatabase": "期刊",
 		"Title": "我国东北寒冷地区自然保护区湿地生态敏感性GIS分析",
 		"Author": [
@@ -5744,6 +6156,7 @@
 		"Source": "沈阳农业大学学报(社会科学版)"
 	},
 	{
+		"Id": 413,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的综合信息服务平台设计与实现",
 		"Author": [
@@ -5757,6 +6170,7 @@
 		"Source": "海军工程大学学报(综合版)"
 	},
 	{
+		"Id": 414,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS技术的公路工程可视化管理平台",
 		"Author": [
@@ -5768,6 +6182,7 @@
 		"Source": "中国交通信息化"
 	},
 	{
+		"Id": 415,
 		"SrcDatabase": "期刊",
 		"Title": "馆藏地方历史文书地理信息系统构建研究——以清水江文书为例",
 		"Author": [
@@ -5781,6 +6196,7 @@
 		"Source": "图书馆杂志"
 	},
 	{
+		"Id": 416,
 		"SrcDatabase": "期刊",
 		"Title": "新工科背景下地理信息系统开发实践类竞赛案例设计",
 		"Author": [
@@ -5797,6 +6213,7 @@
 		"Source": "上海第二工业大学学报"
 	},
 	{
+		"Id": 417,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的徐州市养老机构空间可达性研究",
 		"Author": [
@@ -5811,6 +6228,7 @@
 		"Source": "苏州科技大学学报(自然科学版)"
 	},
 	{
+		"Id": 418,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的阜平县北流河区域山杏生态适宜性区划研究",
 		"Author": [
@@ -5824,6 +6242,7 @@
 		"Source": "西南林业大学学报(自然科学)"
 	},
 	{
+		"Id": 419,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备出线套管支架螺栓严重载流发热分析处理",
 		"Author": [
@@ -5836,6 +6255,7 @@
 		"Source": "云南水力发电"
 	},
 	{
+		"Id": 420,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的自然资源“互联网+政务服务”模式研究",
 		"Author": [
@@ -5850,6 +6270,7 @@
 		"Source": "软件"
 	},
 	{
+		"Id": 421,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在水文水资源分析管理中的评价指标体系建立与应用",
 		"Author": [
@@ -5864,6 +6285,7 @@
 		"Source": "电子测试"
 	},
 	{
+		"Id": 422,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的杭州市应急避难场所收容能力评价",
 		"Author": [
@@ -5875,6 +6297,7 @@
 		"Source": "有色金属设计"
 	},
 	{
+		"Id": 423,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术与适地适树理念的南方红豆杉用地优化布局",
 		"Author": [
@@ -5891,6 +6314,7 @@
 		"Source": "亚热带资源与环境学报"
 	},
 	{
+		"Id": 424,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在林业调查规划中的应用分析",
 		"Author": [
@@ -5902,6 +6326,7 @@
 		"Source": "南方农业"
 	},
 	{
+		"Id": 425,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的林业调查技术分析",
 		"Author": [
@@ -5913,6 +6338,7 @@
 		"Source": "南方农业"
 	},
 	{
+		"Id": 426,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS云蒙湖饮用水水源地重金属污染特征及生态风险评价",
 		"Author": [
@@ -5925,6 +6351,7 @@
 		"Source": "亚热带资源与环境学报"
 	},
 	{
+		"Id": 427,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与AHP的黑龙江大兴安岭森林雷击火危险性划分",
 		"Author": [
@@ -5939,6 +6366,7 @@
 		"Source": "黑龙江气象"
 	},
 	{
+		"Id": 428,
 		"SrcDatabase": "期刊",
 		"Title": "GIS与AHP视角下青岛市港口城区住区用地适宜性评价",
 		"Author": [
@@ -5952,6 +6380,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 429,
 		"SrcDatabase": "期刊",
 		"Title": "基于摩擦接触和密封圈接触压力的252 kV小型化GIS用盆式绝缘子应力分析",
 		"Author": [
@@ -5968,6 +6397,7 @@
 		"Source": "绝缘材料"
 	},
 	{
+		"Id": 430,
 		"SrcDatabase": "期刊",
 		"Title": "金课导向下GIS专业“计算机图形学”教学实践探究",
 		"Author": [
@@ -5982,6 +6412,7 @@
 		"Source": "测绘工程"
 	},
 	{
+		"Id": 431,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的山地城市弃土场选址研究",
 		"Author": [
@@ -5994,6 +6425,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 432,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的“网格化+”管理及应用——以哈尔滨市平房区为例",
 		"Author": [
@@ -6011,6 +6443,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 433,
 		"SrcDatabase": "期刊",
 		"Title": "变电站110 kV GIS电缆终端局部放电典型案例",
 		"Author": [
@@ -6023,6 +6456,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 434,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RDA的丘陵区土壤养分空间变异及其与地形因子的关系",
 		"Author": [
@@ -6034,6 +6468,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 435,
 		"SrcDatabase": "期刊",
 		"Title": "矿产资源勘查中地理信息系统的应用",
 		"Author": [
@@ -6045,6 +6480,7 @@
 		"Source": "砖瓦"
 	},
 	{
+		"Id": 436,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS集成技术在智慧水务中的应用研究",
 		"Author": [
@@ -6056,6 +6492,7 @@
 		"Source": "市政技术"
 	},
 	{
+		"Id": 437,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市配电网规划设计研究",
 		"Author": [
@@ -6067,6 +6504,7 @@
 		"Source": "中国高新科技"
 	},
 	{
+		"Id": 438,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的时空聚类算法在多中心联合配送问题中的应用",
 		"Author": [
@@ -6079,6 +6517,7 @@
 		"Source": "物流科技"
 	},
 	{
+		"Id": 439,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的邢台市暴雨洪涝风险区划研究",
 		"Author": [
@@ -6095,6 +6534,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 440,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业项目驱动教学模式设计与应用——以陕西师范大学“GIS设计与实现”课程为例",
 		"Author": [
@@ -6106,6 +6546,7 @@
 		"Source": "教育教学论坛"
 	},
 	{
+		"Id": 441,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM+IoT数字孪生的堤防工程安全管理平台研究",
 		"Author": [
@@ -6122,6 +6563,7 @@
 		"Source": "中国农村水利水电"
 	},
 	{
+		"Id": 442,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的张掖市山丹县域土地利用及景观格局分析",
 		"Author": [
@@ -6134,6 +6576,7 @@
 		"Source": "园林"
 	},
 	{
+		"Id": 443,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市交通规划中的应用研究",
 		"Author": [
@@ -6145,6 +6588,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 444,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和灰色星座聚类模型的乡村发展类型识别及振兴策略——以江西省万年县为例",
 		"Author": [
@@ -6158,6 +6602,7 @@
 		"Source": "江苏农业科学"
 	},
 	{
+		"Id": 445,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的第四系古河道沉积区工程建设适宜性评价研究",
 		"Author": [
@@ -6172,6 +6617,7 @@
 		"Source": "西北地质"
 	},
 	{
+		"Id": 446,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在乡村文化景观规划中的应用及展望",
 		"Author": [
@@ -6184,6 +6630,7 @@
 		"Source": "中国名城"
 	},
 	{
+		"Id": 447,
 		"SrcDatabase": "期刊",
 		"Title": "矿山地质测量中地理信息系统(GIS)技术分析",
 		"Author": [
@@ -6195,6 +6642,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 448,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的秦皇岛市生态旅游适宜度评价",
 		"Author": [
@@ -6211,6 +6659,7 @@
 		"Source": "河北环境工程学院学报"
 	},
 	{
+		"Id": 449,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业导师制教学改革与实践",
 		"Author": [
@@ -6222,6 +6671,7 @@
 		"Source": "科技资讯"
 	},
 	{
+		"Id": 450,
 		"SrcDatabase": "期刊",
 		"Title": "基于超分辨注意力机制改进的GIS内部细微缺陷X-DR图像检测方法",
 		"Author": [
@@ -6239,6 +6689,7 @@
 		"Source": "高电压技术"
 	},
 	{
+		"Id": 451,
 		"SrcDatabase": "期刊",
 		"Title": "三维GIS研究进展综述",
 		"Author": [
@@ -6250,6 +6701,7 @@
 		"Source": "信息记录材料"
 	},
 	{
+		"Id": 452,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和BIM技术的城建档案大数据平台设计与实现",
 		"Author": [
@@ -6263,6 +6715,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 453,
 		"SrcDatabase": "期刊",
 		"Title": "FME在GIS数据处理中的应用",
 		"Author": [
@@ -6274,6 +6727,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 454,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的干旱地区碳循环动态观测方法",
 		"Author": [
@@ -6285,6 +6739,7 @@
 		"Source": "科技通报"
 	},
 	{
+		"Id": 455,
 		"SrcDatabase": "期刊",
 		"Title": "公安院校地理信息系统课程教学模式研究",
 		"Author": [
@@ -6300,6 +6755,7 @@
 		"Source": "森林公安"
 	},
 	{
+		"Id": 456,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的铁路三维场景快速建立方法研究",
 		"Author": [
@@ -6314,6 +6770,7 @@
 		"Source": "铁路技术创新"
 	},
 	{
+		"Id": 457,
 		"SrcDatabase": "期刊",
 		"Title": "GIS的温升验证试验方法评述",
 		"Author": [
@@ -6328,6 +6785,7 @@
 		"Source": "机械研究与应用"
 	},
 	{
+		"Id": 458,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的大气污染源排放清单空间分配研究——以贵州省黔东南州为例",
 		"Author": [
@@ -6343,6 +6801,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 459,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的甘肃省榆中县耕地质量监测评价",
 		"Author": [
@@ -6357,6 +6816,7 @@
 		"Source": "甘肃农业科技"
 	},
 	{
+		"Id": 460,
 		"SrcDatabase": "期刊",
 		"Title": "浅谈GIS系统在消防实际工作中的应用",
 		"Author": [
@@ -6368,6 +6828,7 @@
 		"Source": "今日消防"
 	},
 	{
+		"Id": 461,
 		"SrcDatabase": "期刊",
 		"Title": "一起110 kV GIS设备局部放电检测定位及解体实例",
 		"Author": [
@@ -6382,6 +6843,7 @@
 		"Source": "电力与能源"
 	},
 	{
+		"Id": 462,
 		"SrcDatabase": "期刊",
 		"Title": "一起500 kV GIS断路器内部放电故障分析及处理",
 		"Author": [
@@ -6395,6 +6857,7 @@
 		"Source": "山东电力高等专科学校学报"
 	},
 	{
+		"Id": 463,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与随机森林算法的斜坡单元类型划分方法",
 		"Author": [
@@ -6406,6 +6869,7 @@
 		"Source": "经纬天地"
 	},
 	{
+		"Id": 464,
 		"SrcDatabase": "期刊",
 		"Title": "GIS盆式绝缘子开裂原因分析及处理措施",
 		"Author": [
@@ -6425,6 +6889,7 @@
 		"Source": "湖北电力"
 	},
 	{
+		"Id": 465,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和信息量法的伊犁黄土滑坡易发性评价",
 		"Author": [
@@ -6439,6 +6904,7 @@
 		"Source": "河南城建学院学报"
 	},
 	{
+		"Id": 466,
 		"SrcDatabase": "期刊",
 		"Title": "GIS和RS技术应用于流域水生生物时空分析的研究进展",
 		"Author": [
@@ -6459,6 +6925,7 @@
 		"Source": "环境科学研究"
 	},
 	{
+		"Id": 467,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的深埋超长隧道岩爆等级评估方法",
 		"Author": [
@@ -6476,6 +6943,7 @@
 		"Source": "中南大学学报(自然科学版)"
 	},
 	{
+		"Id": 468,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS设备运行中出现的常见故障与诊断维护措施",
 		"Author": [
@@ -6487,6 +6955,7 @@
 		"Source": "自动化应用"
 	},
 	{
+		"Id": 469,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的大型超市选址分析",
 		"Author": [
@@ -6499,6 +6968,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 470,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的确股确地兼容模式土地承包经营权系统的研究与实现",
 		"Author": [
@@ -6510,6 +6980,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 471,
 		"SrcDatabase": "期刊",
 		"Title": "GNSS支持下的配电电缆移动GIS系统构建与应用",
 		"Author": [
@@ -6525,6 +6996,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 472,
 		"SrcDatabase": "期刊",
 		"Title": "面向工程教育认证的“GIS原理及应用”课程教学OBE模式改革研究",
 		"Author": [
@@ -6537,6 +7009,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 473,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的徐州市区消防站空间分布特征与可达性研究",
 		"Author": [
@@ -6550,6 +7023,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 474,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的高校应急避难场所布局研究——以天津农学院为例",
 		"Author": [
@@ -6564,6 +7038,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 475,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的河道岸线功能区划方法研究",
 		"Author": [
@@ -6575,6 +7050,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 476,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS数据交互的大数据动态自动化平台设计与研究",
 		"Author": [
@@ -6590,6 +7066,7 @@
 		"Source": "制造业自动化"
 	},
 	{
+		"Id": 477,
 		"SrcDatabase": "期刊",
 		"Title": "基于海量GIS数据的自动化故障融合监测技术",
 		"Author": [
@@ -6605,6 +7082,7 @@
 		"Source": "制造业自动化"
 	},
 	{
+		"Id": 478,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的水利水电工程多源数据融合方法及应用",
 		"Author": [
@@ -6619,6 +7097,7 @@
 		"Source": "水电能源科学"
 	},
 	{
+		"Id": 479,
 		"SrcDatabase": "期刊",
 		"Title": "基于电场计算及模态分析的220kV GIS盆式绝缘子裂纹缺陷检测方法研究",
 		"Author": [
@@ -6637,6 +7116,7 @@
 		"Source": "电网与清洁能源"
 	},
 	{
+		"Id": 480,
 		"SrcDatabase": "期刊",
 		"Title": "基于有限元分析的GIS断路器温度场仿真研究",
 		"Author": [
@@ -6653,6 +7133,7 @@
 		"Source": "电网与清洁能源"
 	},
 	{
+		"Id": 481,
 		"SrcDatabase": "期刊",
 		"Title": "GIS断路器智能汇控系统研究与应用",
 		"Author": [
@@ -6671,6 +7152,7 @@
 		"Source": "浙江电力"
 	},
 	{
+		"Id": 482,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的厂区大型物流车辆监控系统设计分析",
 		"Author": [
@@ -6682,6 +7164,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 483,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统技术在城市测绘中的运用探究",
 		"Author": [
@@ -6693,6 +7176,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 484,
 		"SrcDatabase": "期刊",
 		"Title": "基于红外热像检测的GIS设备发热缺陷分析",
 		"Author": [
@@ -6708,6 +7192,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 485,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS终端环氧套管法兰根部开裂的原因分析",
 		"Author": [
@@ -6723,6 +7208,7 @@
 		"Source": "湖南电力"
 	},
 	{
+		"Id": 486,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在矿山地质测量中的应用试析",
 		"Author": [
@@ -6734,6 +7220,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 487,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的碧道生态敏感性评价",
 		"Author": [
@@ -6747,6 +7234,7 @@
 		"Source": "水利水电工程设计"
 	},
 	{
+		"Id": 488,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS开发竞赛获奖作品的人才培养分析",
 		"Author": [
@@ -6761,6 +7249,7 @@
 		"Source": "地理信息世界"
 	},
 	{
+		"Id": 489,
 		"SrcDatabase": "期刊",
 		"Title": "易智瑞空间信息技术开发者大会召开国产GIS新星受追捧",
 		"Organ": [
@@ -6769,6 +7258,7 @@
 		"Source": "地理信息世界"
 	},
 	{
+		"Id": 490,
 		"SrcDatabase": "期刊",
 		"Title": "湖北省工业企业地理信息系统设计与实现",
 		"Author": [
@@ -6784,6 +7274,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 491,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业英语“项目化-情境式”教学方法的探索与实践",
 		"Author": [
@@ -6798,6 +7289,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 492,
 		"SrcDatabase": "期刊",
 		"Title": "基于相控阵技术的GIS壳体内部缺陷检测研究",
 		"Author": [
@@ -6812,6 +7304,7 @@
 		"Source": "广西电力"
 	},
 	{
+		"Id": 493,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与无人机技术的地震应急救援系统设计",
 		"Author": [
@@ -6824,6 +7317,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 494,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的黄河北干流岸线土地利用变化分析",
 		"Author": [
@@ -6840,6 +7334,7 @@
 		"Source": "人民黄河"
 	},
 	{
+		"Id": 495,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市社区火灾风险评估和应急救援决策",
 		"Author": [
@@ -6851,6 +7346,7 @@
 		"Source": "工业控制计算机"
 	},
 	{
+		"Id": 496,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的牡丹江市主城区建设用地适宜性评价",
 		"Author": [
@@ -6867,6 +7363,7 @@
 		"Source": "地质与资源"
 	},
 	{
+		"Id": 497,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的吉林省旅游景点可达性分析",
 		"Author": [
@@ -6879,6 +7376,7 @@
 		"Source": "长春师范大学学报"
 	},
 	{
+		"Id": 498,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的公共服务设施空间布局特征研究——以乌鲁木齐市为例",
 		"Author": [
@@ -6893,6 +7391,7 @@
 		"Source": "计算机与数字工程"
 	},
 	{
+		"Id": 499,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS技术的兰州市应急避难场所减灾能力评价",
 		"Author": [
@@ -6909,6 +7408,7 @@
 		"Source": "遥感技术与应用"
 	},
 	{
+		"Id": 500,
 		"SrcDatabase": "期刊",
 		"Title": "GIS用O形密封圈热压缩加速老化性能表征与劣化规律研究（英文）",
 		"Author": [
@@ -6928,6 +7428,7 @@
 		"Source": "中国电机工程学报"
 	},
 	{
+		"Id": 501,
 		"SrcDatabase": "期刊",
 		"Title": "基于OSG的BIM+GIS在桥涵方案设计中的应用研究",
 		"Author": [
@@ -6940,6 +7441,7 @@
 		"Source": "铁道标准设计"
 	},
 	{
+		"Id": 502,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS分析的万山区地质灾害风险评价",
 		"Author": [
@@ -6953,6 +7455,7 @@
 		]
 	},
 	{
+		"Id": 503,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的陕北农作物适宜性精细化评价及布局研究",
 		"Author": [
@@ -6967,6 +7470,7 @@
 		]
 	},
 	{
+		"Id": 504,
 		"SrcDatabase": "期刊",
 		"Title": "基于改进SSD的GIS多源局放模式识别",
 		"Author": [
@@ -6984,6 +7488,7 @@
 		]
 	},
 	{
+		"Id": 505,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统研究新范式",
 		"Author": [
@@ -6996,6 +7501,7 @@
 		]
 	},
 	{
+		"Id": 506,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的陕西省工业水污染排放空间分布研究",
 		"Author": [
@@ -7011,6 +7517,7 @@
 		]
 	},
 	{
+		"Id": 507,
 		"SrcDatabase": "期刊",
 		"Title": "基于修正时频聚类分界的GIS设备特高频偶发局放识别算法",
 		"Author": [
@@ -7030,6 +7537,7 @@
 		]
 	},
 	{
+		"Id": 508,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的白龙江引水工程水源区地质灾害易发性评价",
 		"Author": [
@@ -7043,6 +7551,7 @@
 		]
 	},
 	{
+		"Id": 509,
 		"SrcDatabase": "期刊",
 		"Title": "基于D-S证据多源信息融合与固态光电倍增-UHF联合检测的GIS局部放电模式识别",
 		"Author": [
@@ -7058,6 +7567,7 @@
 		]
 	},
 	{
+		"Id": 510,
 		"SrcDatabase": "期刊",
 		"Title": "结合空间句法和GIS的城市公共交通系统可达性分析",
 		"Author": [
@@ -7073,6 +7583,7 @@
 		]
 	},
 	{
+		"Id": 511,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS技术在水库工程可研阶段勘察设计应用研究",
 		"Author": [
@@ -7088,6 +7599,7 @@
 		]
 	},
 	{
+		"Id": 512,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的浅层地温能开发利用适宜性评价的应用分析",
 		"Author": [
@@ -7101,6 +7613,7 @@
 		]
 	},
 	{
+		"Id": 513,
 		"SrcDatabase": "期刊",
 		"Title": "基于MaxEnt和GIS的黄芩属6种药用植物最适潜在分布区预测",
 		"Author": [
@@ -7116,6 +7629,7 @@
 		"Source": "中兽医医药杂志"
 	},
 	{
+		"Id": 514,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的北京市大型科研仪器空间聚集性分析",
 		"Author": [
@@ -7127,6 +7641,7 @@
 		]
 	},
 	{
+		"Id": 515,
 		"SrcDatabase": "期刊",
 		"Title": "光纤分布式声传感系统在GIS耐压测试中的应用",
 		"Author": [
@@ -7142,6 +7657,7 @@
 		]
 	},
 	{
+		"Id": 516,
 		"SrcDatabase": "期刊",
 		"Title": "基于DEA-GIS方法的甘肃省基层卫生资源配置效率及公平性分析",
 		"Author": [
@@ -7154,6 +7670,7 @@
 		]
 	},
 	{
+		"Id": 517,
 		"SrcDatabase": "期刊",
 		"Title": "基于改进小波包阈值的GIS局部放电信号降噪方法研究",
 		"Author": [
@@ -7171,6 +7688,7 @@
 		"Source": "计算技术与自动化"
 	},
 	{
+		"Id": 518,
 		"SrcDatabase": "期刊",
 		"Title": "基于特高频局放技术与CG-BP算法的GIS绝缘故障类型识别方法",
 		"Author": [
@@ -7183,6 +7701,7 @@
 		"Source": "计算技术与自动化"
 	},
 	{
+		"Id": 519,
 		"SrcDatabase": "期刊",
 		"Title": "全域精准教学模式探索——以《地理信息系统原理与应用》课程为例",
 		"Author": [
@@ -7198,6 +7717,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 520,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业创新创业教育与专业教育融合策略探析",
 		"Author": [
@@ -7212,6 +7732,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 521,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在新时代找矿中的应用探究",
 		"Author": [
@@ -7224,6 +7745,7 @@
 		"Source": "四川有色金属"
 	},
 	{
+		"Id": 522,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS技术在茜坑水库智慧库区建设中的应用研究",
 		"Author": [
@@ -7237,6 +7759,7 @@
 		"Source": "水利科技与经济"
 	},
 	{
+		"Id": 523,
 		"SrcDatabase": "期刊",
 		"Title": "时态地理信息系统全英文教学探索与思考",
 		"Author": [
@@ -7250,6 +7773,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 524,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城建档案管理关键技术研究",
 		"Author": [
@@ -7264,6 +7788,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 525,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS市容环卫信息管理平台设计与实现",
 		"Author": [
@@ -7279,6 +7804,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 526,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的宅基地建设审批管理平台设计与实现",
 		"Author": [
@@ -7292,6 +7818,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 527,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的山东省农业地质大数据可视化平台构建",
 		"Author": [
@@ -7310,6 +7837,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 528,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的灾害避难所布局优化示范研究：以海南省海口市为例",
 		"Author": [
@@ -7325,6 +7853,7 @@
 		]
 	},
 	{
+		"Id": 529,
 		"SrcDatabase": "期刊",
 		"Title": "机械缺陷对GIS外壳振动影响",
 		"Author": [
@@ -7343,6 +7872,7 @@
 		"Source": "电力工程技术"
 	},
 	{
+		"Id": 530,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的低功耗供水管网监测系统设计",
 		"Author": [
@@ -7357,6 +7887,7 @@
 		"Source": "电子设计工程"
 	},
 	{
+		"Id": 531,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市规划管理中的作用分析",
 		"Author": [
@@ -7368,6 +7899,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 532,
 		"SrcDatabase": "期刊",
 		"Title": "大数据在地理信息系统中的应用",
 		"Author": [
@@ -7380,6 +7912,7 @@
 		"Source": "信息系统工程"
 	},
 	{
+		"Id": 533,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市公园夜晚灯光对游人行为偏好影响的研究",
 		"Author": [
@@ -7392,6 +7925,7 @@
 		"Source": "西南大学学报(自然科学版)"
 	},
 	{
+		"Id": 534,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的降水量年际变率和月际分配分析与水资源开发应用",
 		"Author": [
@@ -7405,6 +7939,7 @@
 		"Source": "水利规划与设计"
 	},
 	{
+		"Id": 535,
 		"SrcDatabase": "期刊",
 		"Title": "基于局放与X射线成像检测的GIS缺陷联合诊断及应用",
 		"Author": [
@@ -7425,6 +7960,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 536,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术面向轨道交通应急指挥的应用研究",
 		"Author": [
@@ -7440,6 +7976,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 537,
 		"SrcDatabase": "期刊",
 		"Title": "基于FME的GIS数据到CAD数据转换技术研究",
 		"Author": [
@@ -7452,6 +7989,7 @@
 		"Source": "科学技术创新"
 	},
 	{
+		"Id": 538,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的新密市森林景观格局分析",
 		"Author": [
@@ -7470,6 +8008,7 @@
 		"Source": "河南林业科技"
 	},
 	{
+		"Id": 539,
 		"SrcDatabase": "期刊",
 		"Title": "GIS气动机构储气罐内壁防腐质量提升",
 		"Author": [
@@ -7484,6 +8023,7 @@
 		"Source": "电镀与精饰"
 	},
 	{
+		"Id": 540,
 		"SrcDatabase": "期刊",
 		"Title": "一起220kV GIS局部放电试验异常状况原因分析",
 		"Author": [
@@ -7497,6 +8037,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 541,
 		"SrcDatabase": "期刊",
 		"Title": "特高压GIS组合式辅助检修作业平台研究及应用",
 		"Author": [
@@ -7514,6 +8055,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 542,
 		"SrcDatabase": "期刊",
 		"Title": "岷江犍为航电枢纽工程GIS安装及试验要点",
 		"Author": [
@@ -7525,6 +8067,7 @@
 		"Source": "中国水能及电气化"
 	},
 	{
+		"Id": 543,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的京张高速铁路空地一体“数字孪生”智能化运维技术研究",
 		"Author": [
@@ -7536,6 +8079,7 @@
 		"Source": "铁道运输与经济"
 	},
 	{
+		"Id": 544,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在油田地面规划中的应用",
 		"Author": [
@@ -7547,6 +8091,7 @@
 		"Source": "中国石油和化工标准与质量"
 	},
 	{
+		"Id": 545,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统（GIS）数字规划赋能南宁吴圩机场“智慧成长”",
 		"Organ": [
@@ -7555,6 +8100,7 @@
 		"Source": "中国工程咨询"
 	},
 	{
+		"Id": 546,
 		"SrcDatabase": "期刊",
 		"Title": "一种GIS辅助油气管道高后果区识别研究模型",
 		"Author": [
@@ -7568,6 +8114,7 @@
 		"Source": "工业安全与环保"
 	},
 	{
+		"Id": 547,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS的日照市雷电灾害特征及灾度区划评估",
 		"Author": [
@@ -7585,6 +8132,7 @@
 		"Source": "气象水文海洋仪器"
 	},
 	{
+		"Id": 548,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM的公共建筑资产数字化管理平台建设与应用",
 		"Author": [
@@ -7599,6 +8147,7 @@
 		"Source": "项目管理技术"
 	},
 	{
+		"Id": 549,
 		"SrcDatabase": "期刊",
 		"Title": "GIS实习课程思政改革探索与实践",
 		"Author": [
@@ -7614,6 +8163,7 @@
 		"Source": "高教学刊"
 	},
 	{
+		"Id": 550,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的光缆运行质量监测系统研究与应用",
 		"Author": [
@@ -7629,6 +8179,7 @@
 		"Source": "计算机时代"
 	},
 	{
+		"Id": 551,
 		"SrcDatabase": "期刊",
 		"Title": "变电站GIS设备局放声电联合检测与定位方法研究",
 		"Author": [
@@ -7644,6 +8195,7 @@
 		"Source": "电子测试"
 	},
 	{
+		"Id": 552,
 		"SrcDatabase": "期刊",
 		"Title": "基于关联性分析的GIS设备隐患特征挖掘研究",
 		"Author": [
@@ -7659,6 +8211,7 @@
 		"Source": "电器工业"
 	},
 	{
+		"Id": 553,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS的航道整治建筑物维护分析方法",
 		"Author": [
@@ -7672,6 +8225,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 554,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS网络分析的汉中市旅游交通路网的空间结构特征",
 		"Author": [
@@ -7688,6 +8242,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 555,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析技术的太原市大叶黄杨栽植用地适宜性研究",
 		"Author": [
@@ -7699,6 +8254,7 @@
 		"Source": "山西林业科技"
 	},
 	{
+		"Id": 556,
 		"SrcDatabase": "期刊",
 		"Title": "基于光纤迈克尔逊干涉仪的GIS内置局部放电超声传感技术",
 		"Author": [
@@ -7716,6 +8272,7 @@
 		"Source": "高电压技术"
 	},
 	{
+		"Id": 557,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的房产测绘系统设计与实现",
 		"Author": [
@@ -7727,6 +8284,7 @@
 		"Source": "黑龙江科学"
 	},
 	{
+		"Id": 558,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS技术的建筑工程施工全流程质量控制方法",
 		"Author": [
@@ -7740,6 +8298,7 @@
 		"Source": "江西建材"
 	},
 	{
+		"Id": 559,
 		"SrcDatabase": "期刊",
 		"Title": "基于物联网与GIS的丹江口水库综合管理平台设计",
 		"Author": [
@@ -7755,6 +8314,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 560,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的招商项目选址系统设计与实现",
 		"Author": [
@@ -7769,6 +8329,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 561,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的合肥市经营类网点时空分布特征研究",
 		"Author": [
@@ -7785,6 +8346,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 562,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的农村房地一体权籍调查管理研究",
 		"Author": [
@@ -7796,6 +8358,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 563,
 		"SrcDatabase": "期刊",
 		"Title": "基于嵌入式GIS的地图制图数据组织模型的设计",
 		"Author": [
@@ -7807,6 +8370,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 564,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的测量标志监管系统的设计与实现——以南平市为例",
 		"Author": [
@@ -7818,6 +8382,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 565,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市规划图则自动制图技术的设计与实现——以上海国土空间规划信息管理系统为例",
 		"Author": [
@@ -7829,6 +8394,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 566,
 		"SrcDatabase": "期刊",
 		"Title": "3D-GIS在直播卫星应急调度平台中的研究与应用",
 		"Author": [
@@ -7845,6 +8411,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 567,
 		"SrcDatabase": "期刊",
 		"Title": "GIS环境下基于高斯烟羽模型的大气点源污染扩散模拟研究",
 		"Author": [
@@ -7858,6 +8425,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 568,
 		"SrcDatabase": "期刊",
 		"Title": "基于改进多元回归模型与GIS的陕北凉水井矿井工作面涌水量预测",
 		"Author": [
@@ -7874,6 +8442,7 @@
 		"Source": "煤炭科技"
 	},
 	{
+		"Id": 569,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土壤氡浓度空间分布规律探析",
 		"Author": [
@@ -7895,6 +8464,7 @@
 		"Source": "地理信息世界"
 	},
 	{
+		"Id": 570,
 		"SrcDatabase": "期刊",
 		"Title": "高职测绘地理信息技术专业GIS技术应用课程设计研究",
 		"Author": [
@@ -7908,6 +8478,7 @@
 		"Source": "地理信息世界"
 	},
 	{
+		"Id": 571,
 		"SrcDatabase": "期刊",
 		"Title": "基于多频激励下振动响应的GIS机械缺陷诊断方法",
 		"Author": [
@@ -7925,6 +8496,7 @@
 		"Source": "电力电容器与无功补偿"
 	},
 	{
+		"Id": 572,
 		"SrcDatabase": "期刊",
 		"Title": "测绘地理信息系统在智慧城市测绘工程中的应用",
 		"Author": [
@@ -7936,6 +8508,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 573,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市测绘中的应用",
 		"Author": [
@@ -7947,6 +8520,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 574,
 		"SrcDatabase": "期刊",
 		"Title": "一种用于场景仿真的GIS数据真实道路快速构建方法",
 		"Author": [
@@ -7963,6 +8537,7 @@
 		"Source": "实验技术与管理"
 	},
 	{
+		"Id": 575,
 		"SrcDatabase": "期刊",
 		"Title": "基于柔性馈电螺旋天线和硅光电倍增管的GIS局部放电联合传感技术",
 		"Author": [
@@ -7980,6 +8555,7 @@
 		]
 	},
 	{
+		"Id": 576,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS的地下管网综合应用平台设计与实现",
 		"Author": [
@@ -7991,6 +8567,7 @@
 		"Source": "上海建设科技"
 	},
 	{
+		"Id": 577,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的凌城灌区基础信息采集工作方法研究",
 		"Author": [
@@ -8004,6 +8581,7 @@
 		"Source": "现代农业科技"
 	},
 	{
+		"Id": 578,
 		"SrcDatabase": "期刊",
 		"Title": "关于对变电站电气施工中GIS设备的安装",
 		"Author": [
@@ -8016,6 +8594,7 @@
 		"Source": "电气技术与经济"
 	},
 	{
+		"Id": 579,
 		"SrcDatabase": "期刊",
 		"Title": "550kV GIS隔离开关用绝缘扭杆的研制",
 		"Author": [
@@ -8031,6 +8610,7 @@
 		"Source": "电工材料"
 	},
 	{
+		"Id": 580,
 		"SrcDatabase": "期刊",
 		"Title": "GIS智能在线监测系统设计及应用研究",
 		"Author": [
@@ -8047,6 +8627,7 @@
 		"Source": "自动化仪表"
 	},
 	{
+		"Id": 581,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感和GIS的区域土壤侵蚀变化与人类活动关系研究——以江西省为例",
 		"Author": [
@@ -8062,6 +8643,7 @@
 		"Source": "遥感技术与应用"
 	},
 	{
+		"Id": 582,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的人居环境气候舒适度评价",
 		"Author": [
@@ -8073,6 +8655,7 @@
 		"Source": "农业灾害研究"
 	},
 	{
+		"Id": 583,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS地理信息系统的智能城市规划设计分析",
 		"Author": [
@@ -8084,6 +8667,7 @@
 		"Source": "信息系统工程"
 	},
 	{
+		"Id": 584,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的重载铁路桥梁设备管理研究与应用",
 		"Author": [
@@ -8099,6 +8683,7 @@
 		"Source": "铁道建筑"
 	},
 	{
+		"Id": 585,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的重载铁路工务设备智能巡检终端设计与应用",
 		"Author": [
@@ -8110,6 +8695,7 @@
 		"Source": "铁道建筑"
 	},
 	{
+		"Id": 586,
 		"SrcDatabase": "期刊",
 		"Title": "案例教学与课程思政融合模式下的园林专业“地理信息系统”课程改革探索",
 		"Author": [
@@ -8122,6 +8708,7 @@
 		"Source": "现代园艺"
 	},
 	{
+		"Id": 587,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的土地利用/覆被变化及其功能转型特征分析——以新疆叶城县为例",
 		"Author": [
@@ -8135,6 +8722,7 @@
 		"Source": "中国农机化学报"
 	},
 	{
+		"Id": 588,
 		"SrcDatabase": "期刊",
 		"Title": "不同材料对特高压GIS套管抗震性能的影响研究",
 		"Author": [
@@ -8149,6 +8737,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 589,
 		"SrcDatabase": "期刊",
 		"Title": "考虑材料不确定性的特高压GIS瓷套管地震易损性研究",
 		"Author": [
@@ -8163,6 +8752,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 590,
 		"SrcDatabase": "期刊",
 		"Title": "遥感和GIS技术在国土污染区域面积测定中的应用研究",
 		"Author": [
@@ -8176,6 +8766,7 @@
 		"Source": "环境科学与管理"
 	},
 	{
+		"Id": 591,
 		"SrcDatabase": "期刊",
 		"Title": "基于大数据的云南茶山地理信息系统的设计与实现",
 		"Author": [
@@ -8196,6 +8787,7 @@
 		"Source": "现代电子技术"
 	},
 	{
+		"Id": 592,
 		"SrcDatabase": "期刊",
 		"Title": "基于场路耦合的超高压GIS母线温度场研究",
 		"Author": [
@@ -8210,6 +8802,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 593,
 		"SrcDatabase": "期刊",
 		"Title": "频率对GIS稳态温升特性影响的仿真研究",
 		"Author": [
@@ -8221,6 +8814,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 594,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的德令哈市生态脆弱性评价",
 		"Author": [
@@ -8235,6 +8829,7 @@
 		"Source": "环境生态学"
 	},
 	{
+		"Id": 595,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的运城市建设用地规模时空演变及影响因素分析",
 		"Author": [
@@ -8248,6 +8843,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 596,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的西安地名文化景观分布及其成因分析",
 		"Author": [
@@ -8260,6 +8856,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 597,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的四川省降水诱发型滑坡泥石流风险区划",
 		"Author": [
@@ -8276,6 +8873,7 @@
 		"Source": "高原山地气象研究"
 	},
 	{
+		"Id": 598,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在突发公共卫生事件中的应用现状与展望",
 		"Author": [
@@ -8290,6 +8888,7 @@
 		"Source": "中国数字医学"
 	},
 	{
+		"Id": 599,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的森林资源二类调查数据管理",
 		"Author": [
@@ -8303,6 +8902,7 @@
 		"Source": "广东蚕业"
 	},
 	{
+		"Id": 600,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS建模的配网变电设计及工程管理研究",
 		"Author": [
@@ -8318,6 +8918,7 @@
 		"Source": "湘潭大学学报(自然科学版)"
 	},
 	{
+		"Id": 601,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的防雷安全监管信息系统设计与实现",
 		"Author": [
@@ -8330,6 +8931,7 @@
 		"Source": "计算机应用与软件"
 	},
 	{
+		"Id": 602,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和网络地图服务的城市轨道交通站点可达性度量及评价——以南京市为例",
 		"Author": [
@@ -8342,6 +8944,7 @@
 		"Source": "物流科技"
 	},
 	{
+		"Id": 603,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的焦作市土地利用类型及景观格局演变分析",
 		"Author": [
@@ -8355,6 +8958,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 604,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和sDNA的城市公共图书馆布局分析与优化——以杭州市为例",
 		"Author": [
@@ -8370,6 +8974,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 605,
 		"SrcDatabase": "期刊",
 		"Title": "GIS产品认证工厂检查方法",
 		"Author": [
@@ -8383,6 +8988,7 @@
 		"Source": "质量与认证"
 	},
 	{
+		"Id": 606,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和AHP的生态敏感性评价——以万宁市为例",
 		"Author": [
@@ -8399,6 +9005,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 607,
 		"SrcDatabase": "期刊",
 		"Title": "恒压下GIS固体绝缘界面气隙缺陷放电严重程度评估",
 		"Author": [
@@ -8410,6 +9017,7 @@
 		]
 	},
 	{
+		"Id": 608,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的金塔县耕地质量等级评价及特征分析",
 		"Author": [
@@ -8423,6 +9031,7 @@
 		"Source": "国土与自然资源研究"
 	},
 	{
+		"Id": 609,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和大数据的智能化小区宽带业务运营管理系统",
 		"Author": [
@@ -8435,6 +9044,7 @@
 		"Source": "电子设计工程"
 	},
 	{
+		"Id": 610,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的四川盆周北部山区夏玉米农业气象灾害风险评估——以旺苍县为例",
 		"Author": [
@@ -8454,6 +9064,7 @@
 		"Source": "应用生态学报"
 	},
 	{
+		"Id": 611,
 		"SrcDatabase": "期刊",
 		"Title": "电网GIS设备电动搬运装置的研制与应用",
 		"Author": [
@@ -8467,6 +9078,7 @@
 		"Source": "中国储运"
 	},
 	{
+		"Id": 612,
 		"SrcDatabase": "期刊",
 		"Title": "GIS筒体对接焊缝相控阵超声检测扫查装置设计",
 		"Author": [
@@ -8481,6 +9093,7 @@
 		"Source": "机械设计"
 	},
 	{
+		"Id": 613,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM和GIS技术的住宅建筑施工全流程监控平台",
 		"Author": [
@@ -8493,6 +9106,7 @@
 		"Source": "江西建材"
 	},
 	{
+		"Id": 614,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与加权信息量模型的城镇地质灾害易发性评价——以大新镇为例",
 		"Author": [
@@ -8509,6 +9123,7 @@
 		"Source": "安全与环境工程"
 	},
 	{
+		"Id": 615,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的区域地表水变化特征监测分析",
 		"Author": [
@@ -8520,6 +9135,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 616,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM与GIS的矿山巷道参数化三维建模技术研究",
 		"Author": [
@@ -8540,6 +9156,7 @@
 		"Source": "煤炭科学技术"
 	},
 	{
+		"Id": 617,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP和GIS的云南省三七生态适宜性精细化区划",
 		"Author": [
@@ -8557,6 +9174,7 @@
 		"Source": "浙江农业科学"
 	},
 	{
+		"Id": 618,
 		"SrcDatabase": "期刊",
 		"Title": "移动GIS在饮用水水源地常态化监管中的应用",
 		"Author": [
@@ -8570,6 +9188,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 619,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的史前城址空间分布特征  以内蒙古敖汉旗地区为例",
 		"Author": [
@@ -8583,6 +9202,7 @@
 		"Source": "室内设计与装修"
 	},
 	{
+		"Id": 620,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与改进蚁群算法的垃圾收运路径规划",
 		"Author": [
@@ -8602,6 +9222,7 @@
 		"Source": "环境工程学报"
 	},
 	{
+		"Id": 621,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统及其在城市规划与管理中的应用",
 		"Author": [
@@ -8615,6 +9236,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 622,
 		"SrcDatabase": "期刊",
 		"Title": "基于微服务的二三维一体化电力GIS平台设计",
 		"Author": [
@@ -8631,6 +9253,7 @@
 		"Source": "制造业自动化"
 	},
 	{
+		"Id": 623,
 		"SrcDatabase": "期刊",
 		"Title": "特高压变电站1000 kV GIS局部放电问题分析",
 		"Author": [
@@ -8647,6 +9270,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 624,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS多维场景的城市设计管控平台研究与实现",
 		"Author": [
@@ -8660,6 +9284,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 625,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土地储备综合管理平台设计与实现",
 		"Author": [
@@ -8671,6 +9296,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 626,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的川藏铁路沿线LUCC动态变化",
 		"Author": [
@@ -8685,6 +9311,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 627,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM与GIS技术的智慧校园地下管网建设研究与应用",
 		"Author": [
@@ -8697,6 +9324,7 @@
 		"Source": "智能城市"
 	},
 	{
+		"Id": 628,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在专题图快速制图中的应用研究",
 		"Author": [
@@ -8709,6 +9337,7 @@
 		"Source": "北京测绘"
 	},
 	{
+		"Id": 629,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在城乡统筹规划中的应用",
 		"Author": [
@@ -8720,6 +9349,7 @@
 		"Source": "城市建筑空间"
 	},
 	{
+		"Id": 630,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的智慧水务平台应用研究",
 		"Author": [
@@ -8731,6 +9361,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 631,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在不动产存量数据整合建库中的应用",
 		"Author": [
@@ -8743,6 +9374,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 632,
 		"SrcDatabase": "期刊",
 		"Title": "长征历史地理信息系统的设计与实现",
 		"Author": [
@@ -8754,6 +9386,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 633,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的地理野外实习辅助APP设计与实现",
 		"Author": [
@@ -8767,6 +9400,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 634,
 		"SrcDatabase": "期刊",
 		"Title": "地方应用型高校校企联合共建地理信息系统实验室的思路——以宿州学院地质工程专业为例",
 		"Author": [
@@ -8782,6 +9416,7 @@
 		"Source": "河南农业"
 	},
 	{
+		"Id": 635,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与DRASTIC模型的肃州区地下水脆弱性评价",
 		"Author": [
@@ -8793,6 +9428,7 @@
 		"Source": "地下水"
 	},
 	{
+		"Id": 636,
 		"SrcDatabase": "期刊",
 		"Title": "252 kV GIS用芳纶绝缘拉杆的制备和性能研究",
 		"Author": [
@@ -8804,6 +9440,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 637,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS-AHP的南昌市“双评价”研究",
 		"Author": [
@@ -8816,6 +9453,7 @@
 		"Source": "城市建筑空间"
 	},
 	{
+		"Id": 638,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的城市桥梁群运管平台架构及功能设计",
 		"Author": [
@@ -8827,6 +9465,7 @@
 		"Source": "无线互联科技"
 	},
 	{
+		"Id": 639,
 		"SrcDatabase": "期刊",
 		"Title": "供水管网地理信息系统的设计",
 		"Author": [
@@ -8838,6 +9477,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 640,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的输电线路张力架设仿真系统研究",
 		"Author": [
@@ -8853,6 +9493,7 @@
 		"Source": "自动化与仪表"
 	},
 	{
+		"Id": 641,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感和GIS技术的易县耕地后备资源潜力评价",
 		"Author": [
@@ -8870,6 +9511,7 @@
 		"Source": "林业与生态科学"
 	},
 	{
+		"Id": 642,
 		"SrcDatabase": "期刊",
 		"Title": "基于贝叶斯网络和GIS的热带气旋灾害风险评估",
 		"Author": [
@@ -8887,6 +9529,7 @@
 		]
 	},
 	{
+		"Id": 643,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的陕北红枣生态适宜性空间分布格局研究",
 		"Author": [
@@ -8901,6 +9544,7 @@
 		"Source": "生态科学"
 	},
 	{
+		"Id": 644,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的雷达地形遮挡盲区高度快速计算方法",
 		"Author": [
@@ -8914,6 +9558,7 @@
 		"Source": "中国电子科学研究院学报"
 	},
 	{
+		"Id": 645,
 		"SrcDatabase": "期刊",
 		"Title": "基于2D GIS的煤矿风险分级管控与隐患排查治理可视化管理",
 		"Author": [
@@ -8928,6 +9573,7 @@
 		"Source": "陕西煤炭"
 	},
 	{
+		"Id": 646,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备局部放电特高频信号线性判别分析识别研究",
 		"Author": [
@@ -8940,6 +9586,7 @@
 		"Source": "测控技术"
 	},
 	{
+		"Id": 647,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在乡村文化景观规划设计中的应用",
 		"Author": [
@@ -8952,6 +9599,7 @@
 		"Source": "现代园艺"
 	},
 	{
+		"Id": 648,
 		"SrcDatabase": "期刊",
 		"Title": "GIS隔离开关开合短母线型式试验方式1中VFTO测量系统构建及波形解析",
 		"Author": [
@@ -8967,6 +9615,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 649,
 		"SrcDatabase": "期刊",
 		"Title": "252 kV GIS局部放电特高频信号在直线和L型结构中传播特性的试验研究",
 		"Author": [
@@ -8982,6 +9631,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 650,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的杭州市菜鸟驿站空间布局规划研究",
 		"Author": [
@@ -8993,6 +9643,7 @@
 		"Source": "建筑与文化"
 	},
 	{
+		"Id": 651,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS网络分析的西安市城区地铁站点可达性评价",
 		"Author": [
@@ -9004,6 +9655,7 @@
 		"Source": "西安文理学院学报(自然科学版)"
 	},
 	{
+		"Id": 652,
 		"SrcDatabase": "期刊",
 		"Title": "线性参照模型在地下管网GIS中的应用研究",
 		"Author": [
@@ -9024,6 +9676,7 @@
 		"Source": "测绘地理信息"
 	},
 	{
+		"Id": 653,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的洛阳市洛龙区城市公园绿地可达性分析及布局优化研究",
 		"Author": [
@@ -9037,6 +9690,7 @@
 		"Source": "林业调查规划"
 	},
 	{
+		"Id": 654,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS技术在京张高铁建维一体化管理中的应用",
 		"Author": [
@@ -9052,6 +9706,7 @@
 		"Source": "中国铁路"
 	},
 	{
+		"Id": 655,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的塔额盆地农田土壤养分空间变异特征分析",
 		"Author": [
@@ -9070,6 +9725,7 @@
 		"Source": "新疆农业科学"
 	},
 	{
+		"Id": 656,
 		"SrcDatabase": "期刊",
 		"Title": "220kV GIS设备隐患排查",
 		"Author": [
@@ -9081,6 +9737,7 @@
 		"Source": "今日制造与升级"
 	},
 	{
+		"Id": 657,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM与GIS融合的浅层地温能开发适宜性三维动态评价方法研究",
 		"Author": [
@@ -9094,6 +9751,7 @@
 		]
 	},
 	{
+		"Id": 658,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS分析的吐鲁番绿洲聚落空间分布格局——以吐鲁番市高昌区为例",
 		"Author": [
@@ -9108,6 +9766,7 @@
 		"Source": "福建师范大学学报(自然科学版)"
 	},
 	{
+		"Id": 659,
 		"SrcDatabase": "期刊",
 		"Title": "真空开断型环保GIS发展现状及趋势",
 		"Author": [
@@ -9123,6 +9782,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 660,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS 的陆路交通可达性空间测度与评价",
 		"Author": [
@@ -9136,6 +9796,7 @@
 		"Source": "重庆交通大学学报(社会科学版)"
 	},
 	{
+		"Id": 661,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和Maxent模型的白唇鹿（Cervus albirostris）潜在适宜生境及保护GAP分析",
 		"Author": [
@@ -9152,6 +9813,7 @@
 		"Source": "生态学报"
 	},
 	{
+		"Id": 662,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在灾害报道中的应用研究——以2019年“6.17”长宁6.0级地震为例",
 		"Author": [
@@ -9163,6 +9825,7 @@
 		"Source": "中国传媒科技"
 	},
 	{
+		"Id": 663,
 		"SrcDatabase": "期刊",
 		"Title": "GIS支持下CF与信息量耦合模型的攀枝花市矿山地质灾害易发性评价",
 		"Author": [
@@ -9178,6 +9841,7 @@
 		"Source": "云南大学学报(自然科学版)"
 	},
 	{
+		"Id": 664,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与AHP分析法的武汉木兰生态旅游区生态敏感性评价",
 		"Author": [
@@ -9191,6 +9855,7 @@
 		"Source": "南方农业"
 	},
 	{
+		"Id": 665,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的海淀区社区居家养老服务设施规划布局研究",
 		"Author": [
@@ -9205,6 +9870,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 666,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的河池市龙滩珍珠李种植气候区划研究",
 		"Author": [
@@ -9219,6 +9885,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 667,
 		"SrcDatabase": "期刊",
 		"Title": "基于多种局放带电检测技术的GIS设备异常诊断与分析",
 		"Author": [
@@ -9236,6 +9903,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 668,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的文山植烟土壤中、微量养分空间变异特征研究",
 		"Author": [
@@ -9255,6 +9923,7 @@
 		"Source": "云南农业大学学报(自然科学)"
 	},
 	{
+		"Id": 669,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的章丘区公路交通事故风险诱因分析",
 		"Author": [
@@ -9268,6 +9937,7 @@
 		"Source": "山东交通学院学报"
 	},
 	{
+		"Id": 670,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS-FLUS的漯河市域生态敏感性时空演变特征研究",
 		"Author": [
@@ -9288,6 +9958,7 @@
 		"Source": "云南农业大学学报(自然科学)"
 	},
 	{
+		"Id": 671,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的土地利用规划设计探究",
 		"Author": [
@@ -9299,6 +9970,7 @@
 		"Source": "科学技术创新"
 	},
 	{
+		"Id": 672,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在现代交通规划设计中的实践应用",
 		"Author": [
@@ -9310,6 +9982,7 @@
 		"Source": "中国公路"
 	},
 	{
+		"Id": 673,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的县级国土空间数据系统的设计",
 		"Author": [
@@ -9321,6 +9994,7 @@
 		"Source": "信息记录材料"
 	},
 	{
+		"Id": 674,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在智能交通系统中的应用",
 		"Author": [
@@ -9333,6 +10007,7 @@
 		"Source": "上海公路"
 	},
 	{
+		"Id": 675,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的太行山乡村地名文化景观分析——以山西省黎城县为例",
 		"Author": [
@@ -9348,6 +10023,7 @@
 		"Source": "干旱区资源与环境"
 	},
 	{
+		"Id": 676,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在国土资源管理中的应用",
 		"Author": [
@@ -9359,6 +10035,7 @@
 		"Source": "黑龙江科学"
 	},
 	{
+		"Id": 677,
 		"SrcDatabase": "期刊",
 		"Title": "基于Three.js构建小场景三维地理信息系统的关键技术研究",
 		"Author": [
@@ -9370,6 +10047,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 678,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS平台的生态环境水污染的监测与协同控制技术研究",
 		"Author": [
@@ -9381,6 +10059,7 @@
 		"Source": "山西化工"
 	},
 	{
+		"Id": 679,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS技术在德会高速公路项目中的创新应用",
 		"Author": [
@@ -9397,6 +10076,7 @@
 		"Source": "成都大学学报(自然科学版)"
 	},
 	{
+		"Id": 680,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在环境影响评价中的应用探索",
 		"Author": [
@@ -9408,6 +10088,7 @@
 		"Source": "皮革制作与环保科技"
 	},
 	{
+		"Id": 681,
 		"SrcDatabase": "期刊",
 		"Title": "一起由内部异物引起的330kV GIS母线放电故障分析",
 		"Author": [
@@ -9426,6 +10107,7 @@
 		"Source": "青海电力"
 	},
 	{
+		"Id": 682,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术下水文地质领域的研究",
 		"Author": [
@@ -9437,6 +10119,7 @@
 		"Source": "山西水利"
 	},
 	{
+		"Id": 683,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的老城区土地开发强度测算研究",
 		"Author": [
@@ -9450,6 +10133,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 684,
 		"SrcDatabase": "期刊",
 		"Title": "地图与制图术：国际批判制图学/GIS研究进展",
 		"Author": [
@@ -9464,6 +10148,7 @@
 		"Source": "地理科学进展"
 	},
 	{
+		"Id": 685,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的传统村落空间结构识别及影响因素——以闽东地区为例",
 		"Author": [
@@ -9481,6 +10166,7 @@
 		"Source": "中国城市林业"
 	},
 	{
+		"Id": 686,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的洞庭湖区沙化土地空间动态分析",
 		"Author": [
@@ -9498,6 +10184,7 @@
 		"Source": "湖北林业科技"
 	},
 	{
+		"Id": 687,
 		"SrcDatabase": "期刊",
 		"Title": "一起GIS设备误操作事故分析及管控措施",
 		"Author": [
@@ -9515,6 +10202,7 @@
 		"Source": "湖北电力"
 	},
 	{
+		"Id": 688,
 		"SrcDatabase": "期刊",
 		"Title": "白鹤滩电厂4/3接线方式GIS回路电阻测量方法研究",
 		"Author": [
@@ -9528,6 +10216,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 689,
 		"SrcDatabase": "期刊",
 		"Title": "GIS母线潜伏性故障电场劣化特性与故障概率预测研究",
 		"Author": [
@@ -9545,6 +10234,7 @@
 		]
 	},
 	{
+		"Id": 690,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM与GIS技术的高层建筑消防火灾定位研究",
 		"Author": [
@@ -9556,6 +10246,7 @@
 		"Source": "山西建筑"
 	},
 	{
+		"Id": 691,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在矿井断裂构造分形计算中的应用",
 		"Author": [
@@ -9568,6 +10259,7 @@
 		"Source": "煤炭与化工"
 	},
 	{
+		"Id": 692,
 		"SrcDatabase": "期刊",
 		"Title": "GIS支持下的东北三省人居环境气候舒适度分异及影响因素分析",
 		"Author": [
@@ -9584,6 +10276,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 693,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的武夷山国家公园生态敏感性分析",
 		"Author": [
@@ -9595,6 +10288,7 @@
 		"Source": "福建林业科技"
 	},
 	{
+		"Id": 694,
 		"SrcDatabase": "期刊",
 		"Title": "GIS用550 kV/8000 A大电流高压绝缘套管设计研究",
 		"Author": [
@@ -9612,6 +10306,7 @@
 		"Source": "电瓷避雷器"
 	},
 	{
+		"Id": 695,
 		"SrcDatabase": "期刊",
 		"Title": "基于多传感器联合诊断的GIS外部局部放电识别算法",
 		"Author": [
@@ -9627,6 +10322,7 @@
 		"Source": "广东电力"
 	},
 	{
+		"Id": 696,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与网络分析协同的城市火灾风险概率评估",
 		"Author": [
@@ -9645,6 +10341,7 @@
 		"Source": "安全与环境学报"
 	},
 	{
+		"Id": 697,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS城建档案多维度查询检索系统的设计与实现",
 		"Author": [
@@ -9659,6 +10356,7 @@
 		"Source": "未来城市设计与运营"
 	},
 	{
+		"Id": 698,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的精准扶贫动态管理平台",
 		"Author": [
@@ -9670,6 +10368,7 @@
 		"Source": "测绘标准化"
 	},
 	{
+		"Id": 699,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的房地产区位价值评价分析",
 		"Author": [
@@ -9681,6 +10380,7 @@
 		"Source": "江西测绘"
 	},
 	{
+		"Id": 700,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的“互联网+”不动产登记管理平台设计与实现",
 		"Author": [
@@ -9692,6 +10392,7 @@
 		"Source": "测绘技术装备"
 	},
 	{
+		"Id": 701,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的农业信息管理系统设计与实现",
 		"Author": [
@@ -9705,6 +10406,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 702,
 		"SrcDatabase": "期刊",
 		"Title": "如何有效采用地理信息系统加强效率化与节能化",
 		"Author": [
@@ -9716,6 +10418,7 @@
 		"Source": "数字技术与应用"
 	},
 	{
+		"Id": 703,
 		"SrcDatabase": "期刊",
 		"Title": "基于微服务的GIS最短路径算法快递代取平台研究",
 		"Author": [
@@ -9731,6 +10434,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 704,
 		"SrcDatabase": "期刊",
 		"Title": "基于霍尔传感器的GIS刀闸地刀位置双确认判断系统研究",
 		"Author": [
@@ -9742,6 +10446,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 705,
 		"SrcDatabase": "期刊",
 		"Title": "建设具有西藏特色的GIS实验课数据案例库探索",
 		"Author": [
@@ -9756,6 +10461,7 @@
 		"Source": "热带地貌"
 	},
 	{
+		"Id": 706,
 		"SrcDatabase": "期刊",
 		"Title": "基于Cordova模式的移动GIS开发关键技术研究",
 		"Author": [
@@ -9768,6 +10474,7 @@
 		"Source": "无线互联科技"
 	},
 	{
+		"Id": 707,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的社区体育设施空间布局与效能优化——以武汉市洪山区为例",
 		"Author": [
@@ -9781,6 +10488,7 @@
 		"Source": "当代体育科技"
 	},
 	{
+		"Id": 708,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的公交站台管理驾驶舱设计",
 		"Author": [
@@ -9795,6 +10503,7 @@
 		"Source": "山东交通科技"
 	},
 	{
+		"Id": 709,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在车辆动态监测设备安全运用管控系统中的应用",
 		"Author": [
@@ -9806,6 +10515,7 @@
 		"Source": "哈尔滨铁道科技"
 	},
 	{
+		"Id": 710,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+AI的智能物抄精细化监管研究",
 		"Author": [
@@ -9817,6 +10527,7 @@
 		"Source": "中国高新科技"
 	},
 	{
+		"Id": 711,
 		"SrcDatabase": "期刊",
 		"Title": "基于物联网与GIS技术的园林项目管理系统设计",
 		"Author": [
@@ -9829,6 +10540,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 712,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的水库移民工程数据库模型构建",
 		"Author": [
@@ -9840,6 +10552,7 @@
 		"Source": "水利科技与经济"
 	},
 	{
+		"Id": 713,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的内江市初中教育资源空间布局分析",
 		"Author": [
@@ -9854,6 +10567,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 714,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在燃气管网分析中的应用及发展",
 		"Author": [
@@ -9867,6 +10581,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 715,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的企业公共信用信息系统设计和应用",
 		"Author": [
@@ -9878,6 +10593,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 716,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土地执法监察信息管理系统研发与应用",
 		"Author": [
@@ -9889,6 +10605,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 717,
 		"SrcDatabase": "期刊",
 		"Title": "750 kV GIS盆式绝缘子开裂导致漏气分析与治理",
 		"Author": [
@@ -9905,6 +10622,7 @@
 		"Source": "新乡学院学报"
 	},
 	{
+		"Id": 718,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS与GIS的水土保持生态功能区生态状况评估",
 		"Author": [
@@ -9919,6 +10637,7 @@
 		"Source": "环境监测管理与技术"
 	},
 	{
+		"Id": 719,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的炮射航行通告监控系统的设计与实现",
 		"Author": [
@@ -9930,6 +10649,7 @@
 		"Source": "中国民航飞行学院学报"
 	},
 	{
+		"Id": 720,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在煤矿开采事故中的应用",
 		"Author": [
@@ -9941,6 +10661,7 @@
 		"Source": "现代商贸工业"
 	},
 	{
+		"Id": 721,
 		"SrcDatabase": "期刊",
 		"Title": "GIS+BIM集成技术在房地产项目运维阶段的应用研究",
 		"Author": [
@@ -9955,6 +10676,7 @@
 		"Source": "铁道建筑技术"
 	},
 	{
+		"Id": 722,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的植被覆盖变化和生态效应评估——以合肥市为例",
 		"Author": [
@@ -9966,6 +10688,7 @@
 		"Source": "黄山学院学报"
 	},
 	{
+		"Id": 723,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备局部放电故障多维度诊断方法研究",
 		"Author": [
@@ -9981,6 +10704,7 @@
 		"Source": "电气技术与经济"
 	},
 	{
+		"Id": 724,
 		"SrcDatabase": "期刊",
 		"Title": "GIS局部放电检测原理及现场应用",
 		"Author": [
@@ -9993,6 +10717,7 @@
 		"Source": "电力安全技术"
 	},
 	{
+		"Id": 725,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的黄河三角洲主要人工地物时空特征分析",
 		"Author": [
@@ -10014,6 +10739,7 @@
 		"Source": "遥感技术与应用"
 	},
 	{
+		"Id": 726,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM技术的多层次数字矿山综合监管应用",
 		"Author": [
@@ -10025,6 +10751,7 @@
 		"Source": "矿业工程研究"
 	},
 	{
+		"Id": 727,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的新疆小麦主要虫害适生区预测",
 		"Author": [
@@ -10037,6 +10764,7 @@
 		"Source": "农业灾害研究"
 	},
 	{
+		"Id": 728,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与地统计学的和平县林地土壤肥力综合评价",
 		"Author": [
@@ -10051,6 +10779,7 @@
 		"Source": "林业与环境科学"
 	},
 	{
+		"Id": 729,
 		"SrcDatabase": "期刊",
 		"Title": "基于遥感和GIS的朝阳县土地利用变化分析",
 		"Author": [
@@ -10063,6 +10792,7 @@
 		"Source": "辽宁农业科学"
 	},
 	{
+		"Id": 730,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和PSR模型的沈阳市土地利用动态变化及生态安全评价",
 		"Author": [
@@ -10075,6 +10805,7 @@
 		"Source": "辽宁农业科学"
 	},
 	{
+		"Id": 731,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设计与开发课程思政教学改革探索与实践",
 		"Author": [
@@ -10089,6 +10820,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 732,
 		"SrcDatabase": "期刊",
 		"Title": "融于案例式教学的深层次GIS课程思政教学方法——以拓扑数据结构为例",
 		"Author": [
@@ -10103,6 +10835,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 733,
 		"SrcDatabase": "期刊",
 		"Title": "一种基于漫画场景复原的情境教学方法——以地理信息系统原理与方法课程改革为例",
 		"Author": [
@@ -10120,6 +10853,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 734,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的地震时空统计分析——以长三角地区为例",
 		"Author": [
@@ -10132,6 +10866,7 @@
 		"Source": "防灾减灾学报"
 	},
 	{
+		"Id": 735,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的大风和降水气象要素的业务应用",
 		"Author": [
@@ -10146,6 +10881,7 @@
 		"Source": "气象水文海洋仪器"
 	},
 	{
+		"Id": 736,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的武汉市不同类型公园绿地可达性研究",
 		"Author": [
@@ -10158,6 +10894,7 @@
 		"Source": "武汉职业技术学院学报"
 	},
 	{
+		"Id": 737,
 		"SrcDatabase": "期刊",
 		"Title": "一起220kV变电站GIS设备C相触头烧蚀事故分析",
 		"Author": [
@@ -10173,6 +10910,7 @@
 		"Source": "电气开关"
 	},
 	{
+		"Id": 738,
 		"SrcDatabase": "期刊",
 		"Title": "基于回路时差法的SF_6自动充气设备GIS检测技术研究",
 		"Author": [
@@ -10187,6 +10925,7 @@
 		"Source": "工业仪表与自动化装置"
 	},
 	{
+		"Id": 739,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的紫云县林地生态资产价值分析研究",
 		"Author": [
@@ -10200,6 +10939,7 @@
 		"Source": "安顺学院学报"
 	},
 	{
+		"Id": 740,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的常德市土地利用动态变化研究",
 		"Author": [
@@ -10215,6 +10955,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 741,
 		"SrcDatabase": "期刊",
 		"Title": "移动GIS在水库移民土地信息录入与处理中的应用",
 		"Author": [
@@ -10226,6 +10967,7 @@
 		"Source": "长江信息通信"
 	},
 	{
+		"Id": 742,
 		"SrcDatabase": "期刊",
 		"Title": "基于OBE-PBL模式的GIS工程技术课程改革探索",
 		"Author": [
@@ -10240,6 +10982,7 @@
 		"Source": "沈阳建筑大学学报(社会科学版)"
 	},
 	{
+		"Id": 743,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的凉水国家级自然保护区林火应急路网规划研究",
 		"Author": [
@@ -10254,6 +10997,7 @@
 		"Source": "消防科学与技术"
 	},
 	{
+		"Id": 744,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的镇江市浅层地温能开发利用方式适宜性分区研究",
 		"Author": [
@@ -10270,6 +11014,7 @@
 		"Source": "湘潭大学学报(自然科学版)"
 	},
 	{
+		"Id": 745,
 		"SrcDatabase": "期刊",
 		"Title": "瑞丽江一级电站厂房GIS沉降缝三向测缝计资料分析",
 		"Author": [
@@ -10285,6 +11030,7 @@
 		"Source": "云南水力发电"
 	},
 	{
+		"Id": 746,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的养老机构空间分布研究——以山西省太原市为例",
 		"Author": [
@@ -10305,6 +11051,7 @@
 		"Source": "中国卫生事业管理"
 	},
 	{
+		"Id": 747,
 		"SrcDatabase": "期刊",
 		"Title": "特高压GIS变电站雷电侵入波行波特征及其影响因素的仿真研究",
 		"Author": [
@@ -10321,6 +11068,7 @@
 		"Source": "黑龙江电力"
 	},
 	{
+		"Id": 748,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的城市轨道交通多源数据转换与集成方法研究",
 		"Author": [
@@ -10338,6 +11086,7 @@
 		"Source": "安徽建筑大学学报"
 	},
 	{
+		"Id": 749,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的北京地铁与浅层地下水相互影响研究",
 		"Author": [
@@ -10352,6 +11101,7 @@
 		"Source": "北京水务"
 	},
 	{
+		"Id": 750,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与层次分析法的煤层顶板含水层富水性评价",
 		"Author": [
@@ -10368,6 +11118,7 @@
 		"Source": "山西煤炭"
 	},
 	{
+		"Id": 751,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的贵州省丹寨县斜坡结构自动化制图方法分析",
 		"Author": [
@@ -10382,6 +11133,7 @@
 		"Source": "安徽地质"
 	},
 	{
+		"Id": 752,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的银坑幅浅层地下水水质模糊综合评价",
 		"Author": [
@@ -10396,6 +11148,7 @@
 		"Source": "华南地质"
 	},
 	{
+		"Id": 753,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在土地整理中的应用——以贵定县高源村为例",
 		"Author": [
@@ -10410,6 +11163,7 @@
 		"Source": "贵州工程应用技术学院学报"
 	},
 	{
+		"Id": 754,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的豫南大别山区传统村落空间模式探研",
 		"Author": [
@@ -10424,6 +11178,7 @@
 		"Source": "华中建筑"
 	},
 	{
+		"Id": 755,
 		"SrcDatabase": "期刊",
 		"Title": "电声示波联合定位法在GIS组合电器的应用及分析",
 		"Author": [
@@ -10437,6 +11192,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 756,
 		"SrcDatabase": "期刊",
 		"Title": "探究地理信息系统在露天开采矿山测量中的应用",
 		"Author": [
@@ -10448,6 +11204,7 @@
 		"Source": "四川建材"
 	},
 	{
+		"Id": 757,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+IOT+GIS的项目安全管控系统研究",
 		"Author": [
@@ -10463,6 +11220,7 @@
 		"Source": "中阿科技论坛(中英文)"
 	},
 	{
+		"Id": 758,
 		"SrcDatabase": "期刊",
 		"Title": "变电站110kV GIS设备漏气分析",
 		"Author": [
@@ -10474,6 +11232,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 759,
 		"SrcDatabase": "期刊",
 		"Title": "串并联谐振在750kV GIS特长母线交流耐压试验中的应用",
 		"Author": [
@@ -10491,6 +11250,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 760,
 		"SrcDatabase": "期刊",
 		"Title": "供水管网GIS精细化运行和维护探讨",
 		"Author": [
@@ -10503,6 +11263,7 @@
 		"Source": "供水技术"
 	},
 	{
+		"Id": 761,
 		"SrcDatabase": "期刊",
 		"Title": "基于“BIM+GIS+IoT”信息管理平台的钢支撑轴力伺服系统在地铁基坑变形控制中的应用",
 		"Author": [
@@ -10514,6 +11275,7 @@
 		"Source": "城市轨道交通研究"
 	},
 	{
+		"Id": 762,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维地理信息系统的矿山视频监控系统设计与实现",
 		"Author": [
@@ -10525,6 +11287,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 763,
 		"SrcDatabase": "期刊",
 		"Title": "GIS正常运行与松动故障下的振动机理",
 		"Author": [
@@ -10541,6 +11304,7 @@
 		"Source": "电机与控制应用"
 	},
 	{
+		"Id": 764,
 		"SrcDatabase": "期刊",
 		"Title": "面向航空工业厂区的BIM+GIS集成应用——三维地下管线信息系统的构建",
 		"Author": [
@@ -10553,6 +11317,7 @@
 		]
 	},
 	{
+		"Id": 765,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的白洋淀流域降雨侵蚀力时空分布特征分析",
 		"Author": [
@@ -10569,6 +11334,7 @@
 		]
 	},
 	{
+		"Id": 766,
 		"SrcDatabase": "期刊",
 		"Title": "基于微观和统计信息的GIS局部放电定位技术",
 		"Author": [
@@ -10586,6 +11352,7 @@
 		"Source": "电子测量技术"
 	},
 	{
+		"Id": 767,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的城市书房空间布局研究——以武汉市为例",
 		"Author": [
@@ -10598,6 +11365,7 @@
 		"Source": "图书馆研究"
 	},
 	{
+		"Id": 768,
 		"SrcDatabase": "期刊",
 		"Title": "GIS隔离开关动作引起的暂态地电位升建模仿真研究",
 		"Author": [
@@ -10609,6 +11377,7 @@
 		"Source": "南方能源建设"
 	},
 	{
+		"Id": 769,
 		"SrcDatabase": "期刊",
 		"Title": "气体绝缘变电站（GIS）关键零件铝合金拐臂箱的铸造工艺设计",
 		"Author": [
@@ -10630,6 +11399,7 @@
 		"Source": "中国铸造装备与技术"
 	},
 	{
+		"Id": 770,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM的装配式建造能源智能化综合管控方法",
 		"Author": [
@@ -10644,6 +11414,7 @@
 		"Source": "工业加热"
 	},
 	{
+		"Id": 771,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的煤矿灾害的闭环管理体系",
 		"Author": [
@@ -10661,6 +11432,7 @@
 		"Source": "黑龙江科技大学学报"
 	},
 	{
+		"Id": 772,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的“以地控税”税源管理系统设计",
 		"Author": [
@@ -10674,6 +11446,7 @@
 		"Source": "内蒙古科技与经济"
 	},
 	{
+		"Id": 773,
 		"SrcDatabase": "期刊",
 		"Title": "500kV静安站3号主变扩建工程及其GIS设备的安装与调试",
 		"Author": [
@@ -10685,6 +11458,7 @@
 		"Source": "光源与照明"
 	},
 	{
+		"Id": 774,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的岳阳市中心城区生态安全格局构建与城市增长管控",
 		"Author": [
@@ -10703,6 +11477,7 @@
 		"Source": "生态科学"
 	},
 	{
+		"Id": 775,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的岷江流域洪灾动态风险性评价研究",
 		"Author": [
@@ -10719,6 +11494,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 776,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS一张图与三维空间数据智能化矿山管控系统应用",
 		"Author": [
@@ -10732,6 +11508,7 @@
 		"Source": "山东煤炭科技"
 	},
 	{
+		"Id": 777,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在供热管网中的建设与应用",
 		"Author": [
@@ -10745,6 +11522,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 778,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业“四位一体;内外兼修”实践教学研究",
 		"Author": [
@@ -10758,6 +11536,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 779,
 		"SrcDatabase": "期刊",
 		"Title": "基于EEMD能量矩与ISSA-SVM算法的GIS局部放电类型识别方法",
 		"Author": [
@@ -10772,6 +11551,7 @@
 		"Source": "电子测量与仪器学报"
 	},
 	{
+		"Id": 780,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的地下水模型边界地下水流估算方法",
 		"Author": [
@@ -10783,6 +11563,7 @@
 		"Source": "水利技术监督"
 	},
 	{
+		"Id": 781,
 		"SrcDatabase": "期刊",
 		"Title": "基于CFD技术的GIS设备中SO_(2)扩散效应",
 		"Author": [
@@ -10797,6 +11578,7 @@
 		]
 	},
 	{
+		"Id": 782,
 		"SrcDatabase": "期刊",
 		"Title": "基于地统计学及GIS的西昌地区中生代红层区紫色土营养元素空间变异性及影响因素研究",
 		"Author": [
@@ -10817,6 +11599,7 @@
 		"Source": "地球科学进展"
 	},
 	{
+		"Id": 783,
 		"SrcDatabase": "期刊",
 		"Title": "基于Wi-Fi传输模块优化的GIS设备数字成像系统设计",
 		"Author": [
@@ -10831,6 +11614,7 @@
 		"Source": "信息技术"
 	},
 	{
+		"Id": 784,
 		"SrcDatabase": "期刊",
 		"Title": "浅析GIS技术在自然保护区规划中的应用现状及存在的问题",
 		"Author": [
@@ -10844,6 +11628,7 @@
 		"Source": "新农业"
 	},
 	{
+		"Id": 785,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的甘肃张家川县耕地种植乌龙头适宜性评价研究",
 		"Author": [
@@ -10858,6 +11643,7 @@
 		"Source": "中国煤炭地质"
 	},
 	{
+		"Id": 786,
 		"SrcDatabase": "期刊",
 		"Title": "基于模拟故障数据库的GIS局部放电反演方法",
 		"Author": [
@@ -10874,6 +11660,7 @@
 		"Source": "高电压技术"
 	},
 	{
+		"Id": 787,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的赤峰市建设用地审批系统建设",
 		"Author": [
@@ -10888,6 +11675,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 788,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的丹江口水库土地利用/覆被动态变化特征分析",
 		"Author": [
@@ -10905,6 +11693,7 @@
 		"Source": "华北水利水电大学学报(自然科学版)"
 	},
 	{
+		"Id": 789,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS方法的研学旅行线路设计——以福建省永定区为例",
 		"Author": [
@@ -10921,6 +11710,7 @@
 		"Source": "特区经济"
 	},
 	{
+		"Id": 790,
 		"SrcDatabase": "期刊",
 		"Title": "GIS专业“课程思政”教学设计案例研究",
 		"Author": [
@@ -10935,6 +11725,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 791,
 		"SrcDatabase": "期刊",
 		"Title": "“课程思政”建设背景下GIS课程“数字地球”微课设计",
 		"Author": [
@@ -10948,6 +11739,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 792,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的老年人智慧出行研究",
 		"Author": [
@@ -10964,6 +11756,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 793,
 		"SrcDatabase": "期刊",
 		"Title": "基于移动GIS的园林绿化巡查管理系统设计与实现",
 		"Author": [
@@ -10975,6 +11768,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 794,
 		"SrcDatabase": "期刊",
 		"Title": "220 kV电缆GIS终端局部放电联合检测技术应用",
 		"Author": [
@@ -10990,6 +11784,7 @@
 		"Source": "山东电力技术"
 	},
 	{
+		"Id": 795,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的山东省断层分布特征研究",
 		"Author": [
@@ -11001,6 +11796,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 796,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在果树产业资源管理的应用",
 		"Author": [
@@ -11012,6 +11808,7 @@
 		"Source": "农业工程技术"
 	},
 	{
+		"Id": 797,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统GIS在城市测绘中的应用研究",
 		"Author": [
@@ -11023,6 +11820,7 @@
 		"Source": "大众标准化"
 	},
 	{
+		"Id": 798,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的南华县耕地时空变化特征及其驱动力研究",
 		"Author": [
@@ -11038,6 +11836,7 @@
 		"Source": "楚雄师范学院学报"
 	},
 	{
+		"Id": 799,
 		"SrcDatabase": "期刊",
 		"Title": "遥感(RS)、地理信息(GIS)、全球导航卫星系统(GNSS)一体化融合研究",
 		"Author": [
@@ -11049,6 +11848,7 @@
 		"Source": "数字通信世界"
 	},
 	{
+		"Id": 800,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市居住空间生态宜居性分析——以吉林省吉林市为例",
 		"Author": [
@@ -11066,6 +11866,7 @@
 		"Source": "黑龙江生态工程职业学院学报"
 	},
 	{
+		"Id": 801,
 		"SrcDatabase": "期刊",
 		"Title": "GIS隔离开关方式1试验中断口对地击穿时光电暂态过程监测与分析",
 		"Author": [
@@ -11087,6 +11888,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 802,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS局放光学检测的光感探头仿真研究",
 		"Author": [
@@ -11102,6 +11904,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 803,
 		"SrcDatabase": "期刊",
 		"Title": "高压直流GIS母线绝缘性能研究",
 		"Author": [
@@ -11115,6 +11918,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 804,
 		"SrcDatabase": "期刊",
 		"Title": "GIS设备仪表接头连接件漏气研究与对策",
 		"Author": [
@@ -11131,6 +11935,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 805,
 		"SrcDatabase": "期刊",
 		"Title": "GIS辅助下的学生就业分析研究",
 		"Author": [
@@ -11143,6 +11948,7 @@
 		"Source": "计算机时代"
 	},
 	{
+		"Id": 806,
 		"SrcDatabase": "期刊",
 		"Title": "寺河矿“GIS一张图”平台的设计与应用",
 		"Author": [
@@ -11154,6 +11960,7 @@
 		"Source": "能源与节能"
 	},
 	{
+		"Id": 807,
 		"SrcDatabase": "期刊",
 		"Title": "1100 kV GIS用伸缩节的设计及应用",
 		"Author": [
@@ -11166,6 +11973,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 808,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS模型的森林草原火蔓延模拟探析",
 		"Author": [
@@ -11181,6 +11989,7 @@
 		"Source": "防护林科技"
 	},
 	{
+		"Id": 809,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的承德市终霜冻灾害等级划分与风险区划",
 		"Author": [
@@ -11196,6 +12005,7 @@
 		"Source": "气象与环境科学"
 	},
 	{
+		"Id": 810,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的川西区域地质灾害数据收集与分析",
 		"Author": [
@@ -11213,6 +12023,7 @@
 		"Source": "佳木斯大学学报(自然科学版)"
 	},
 	{
+		"Id": 811,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的人群动态模型设计研究",
 		"Author": [
@@ -11234,6 +12045,7 @@
 		"Source": "中国数字医学"
 	},
 	{
+		"Id": 812,
 		"SrcDatabase": "期刊",
 		"Title": "探究RS和GIS在森林资源规划设计调查中的应用",
 		"Author": [
@@ -11245,6 +12057,7 @@
 		"Source": "林业科技情报"
 	},
 	{
+		"Id": 813,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的临汾市生态环境质量状况及动态评价",
 		"Author": [
@@ -11256,6 +12069,7 @@
 		"Source": "黑龙江环境通报"
 	},
 	{
+		"Id": 814,
 		"SrcDatabase": "期刊",
 		"Title": "探究GIS在土壤重金属污染评价中的应用",
 		"Author": [
@@ -11271,6 +12085,7 @@
 		"Source": "皮革制作与环保科技"
 	},
 	{
+		"Id": 815,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在土地资源管理中的应用研究",
 		"Author": [
@@ -11282,6 +12097,7 @@
 		"Source": "中国管理信息化"
 	},
 	{
+		"Id": 816,
 		"SrcDatabase": "期刊",
 		"Title": "广电网络资源管理(GIS)系统设计及建设",
 		"Author": [
@@ -11297,6 +12113,7 @@
 		"Source": "中国有线电视"
 	},
 	{
+		"Id": 817,
 		"SrcDatabase": "期刊",
 		"Title": "基于域对抗迁移卷积神经网络的小样本GIS绝缘缺陷智能诊断方法",
 		"Author": [
@@ -11312,6 +12129,7 @@
 		"Source": "电工技术学报"
 	},
 	{
+		"Id": 818,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统开发关键技术研究",
 		"Author": [
@@ -11323,6 +12141,7 @@
 		"Source": "工程建设与设计"
 	},
 	{
+		"Id": 819,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的河南省洪灾风险评估与分析",
 		"Author": [
@@ -11334,6 +12153,7 @@
 		"Source": "人民黄河"
 	},
 	{
+		"Id": 820,
 		"SrcDatabase": "期刊",
 		"Title": "GIS空间分析在多因子地质综合评价中的应用",
 		"Author": [
@@ -11345,6 +12165,7 @@
 		"Source": "西部探矿工程"
 	},
 	{
+		"Id": 821,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS“一张图”的煤机装备全生命周期管理系统研究",
 		"Author": [
@@ -11362,6 +12183,7 @@
 		"Source": "煤炭技术"
 	},
 	{
+		"Id": 822,
 		"SrcDatabase": "期刊",
 		"Title": "GIS局部放电检测的微带单极子特高频天线研究",
 		"Author": [
@@ -11376,6 +12198,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 823,
 		"SrcDatabase": "期刊",
 		"Title": "可伸缩式GIS设备套管支撑研究",
 		"Author": [
@@ -11392,6 +12215,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 824,
 		"SrcDatabase": "期刊",
 		"Title": "双端接地条件下GIS断路器机械动作特性试验研究",
 		"Author": [
@@ -11410,6 +12234,7 @@
 		"Source": "电工技术"
 	},
 	{
+		"Id": 825,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的海绵城市建设信息化管控平台设计思路",
 		"Author": [
@@ -11421,6 +12246,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 826,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的土地收购储备系统设计与实现",
 		"Author": [
@@ -11435,6 +12261,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 827,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的供水管网系统爆管分析研究",
 		"Author": [
@@ -11448,6 +12275,7 @@
 		"Source": "金华职业技术学院学报"
 	},
 	{
+		"Id": 828,
 		"SrcDatabase": "期刊",
 		"Title": "基于云计算和GIS的长春市城区体育场地空间数据库建设",
 		"Author": [
@@ -11459,6 +12287,7 @@
 		"Source": "电脑与电信"
 	},
 	{
+		"Id": 829,
 		"SrcDatabase": "期刊",
 		"Title": "基于深度森林模型的GIS局部放电模式识别",
 		"Author": [
@@ -11475,6 +12304,7 @@
 		"Source": "电气传动"
 	},
 	{
+		"Id": 830,
 		"SrcDatabase": "期刊",
 		"Title": "探究GIS数字测绘技术在矿山地质测量中的应用",
 		"Author": [
@@ -11486,6 +12316,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 831,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在地质矿产勘查中的应用分析",
 		"Author": [
@@ -11497,6 +12328,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 832,
 		"SrcDatabase": "期刊",
 		"Title": "GIS及卫星通讯技术在船位监测中的应用",
 		"Author": [
@@ -11508,6 +12340,7 @@
 		"Source": "电子技术与软件工程"
 	},
 	{
+		"Id": 833,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间数据分析的建筑场地调研教学方法研究",
 		"Author": [
@@ -11523,6 +12356,7 @@
 		"Source": "中国多媒体与网络教学学报(上旬刊)"
 	},
 	{
+		"Id": 834,
 		"SrcDatabase": "期刊",
 		"Title": "济南房产GIS管理系统关键技术研究",
 		"Author": [
@@ -11538,6 +12372,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 835,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS模型的区域地理信息实时测绘系统设计",
 		"Author": [
@@ -11551,6 +12386,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 836,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析优化小学教育设施资源配置探索",
 		"Author": [
@@ -11562,6 +12398,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 837,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM-GIS技术的工程造价管理应用研究",
 		"Author": [
@@ -11574,6 +12411,7 @@
 		"Source": "江西建材"
 	},
 	{
+		"Id": 838,
 		"SrcDatabase": "期刊",
 		"Title": "无人机与GIS技术在校园中的应用",
 		"Author": [
@@ -11588,6 +12426,7 @@
 		"Source": "黑龙江科学"
 	},
 	{
+		"Id": 839,
 		"SrcDatabase": "期刊",
 		"Title": "三维GIS在国土空间规划中的应用综述",
 		"Author": [
@@ -11604,6 +12443,7 @@
 		"Source": "自然资源信息化"
 	},
 	{
+		"Id": 840,
 		"SrcDatabase": "期刊",
 		"Title": "基于SWMM模型及GIS技术的城市雨洪调控情景模拟——以镇江市城区为例",
 		"Author": [
@@ -11622,6 +12462,7 @@
 		"Source": "人民长江"
 	},
 	{
+		"Id": 841,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的大兴安岭地区土地利用变化及驱动力分析",
 		"Author": [
@@ -11636,6 +12477,7 @@
 		"Source": "科技创新与应用"
 	},
 	{
+		"Id": 842,
 		"SrcDatabase": "期刊",
 		"Title": "330 kV GIS设备接地故障研究分析",
 		"Author": [
@@ -11647,6 +12489,7 @@
 		"Source": "机械研究与应用"
 	},
 	{
+		"Id": 843,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的泉州市生态敏感性分析",
 		"Author": [
@@ -11659,6 +12502,7 @@
 		"Source": "环境与发展"
 	},
 	{
+		"Id": 844,
 		"SrcDatabase": "期刊",
 		"Title": "模块化变电站GIS机械故障状态差异性分析",
 		"Author": [
@@ -11673,6 +12517,7 @@
 		"Source": "电力与能源"
 	},
 	{
+		"Id": 845,
 		"SrcDatabase": "期刊",
 		"Title": "GIS典型放电条件下SF_6气体分解产物与故障能量和故障类型对应关系研究",
 		"Author": [
@@ -11690,6 +12535,7 @@
 		"Source": "湖北电力"
 	},
 	{
+		"Id": 846,
 		"SrcDatabase": "期刊",
 		"Title": "基于3D GIS和物联网的智慧矿山三维可视化系统设计与实现",
 		"Author": [
@@ -11705,6 +12551,7 @@
 		"Source": "自然资源信息化"
 	},
 	{
+		"Id": 847,
 		"SrcDatabase": "期刊",
 		"Title": "GIS PD检测天线本体和巴伦共面柔性小型化UHF天线传感器研究",
 		"Author": [
@@ -11722,6 +12569,7 @@
 		]
 	},
 	{
+		"Id": 848,
 		"SrcDatabase": "期刊",
 		"Title": "基于OBE理念的RS与GIS课程实践教学改革研究",
 		"Author": [
@@ -11735,6 +12583,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 849,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的新时代县级国土空间生态修复规划编制",
 		"Author": [
@@ -11750,6 +12599,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 850,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和CF模型的2018年日本北海道Mw6.6地震滑坡危险性评价",
 		"Author": [
@@ -11764,6 +12614,7 @@
 		"Source": "黑龙江工程学院学报"
 	},
 	{
+		"Id": 851,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市规划管理中的应用",
 		"Author": [
@@ -11777,6 +12628,7 @@
 		"Source": "房地产世界"
 	},
 	{
+		"Id": 852,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的地震应急预评估辅助决策系统设计与实现",
 		"Author": [
@@ -11788,6 +12640,7 @@
 		"Source": "地理信息世界"
 	},
 	{
+		"Id": 853,
 		"SrcDatabase": "期刊",
 		"Title": "新工科背景下“二元—多维—交互”的GIS创新人才培养模式构建与实践——以西北师范大学为例",
 		"Author": [
@@ -11802,6 +12655,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 854,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的预警信息“一张图”平台设计与实践",
 		"Author": [
@@ -11813,6 +12667,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 855,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的水质监测分析系统设计与实现",
 		"Author": [
@@ -11826,6 +12681,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 856,
 		"SrcDatabase": "期刊",
 		"Title": "CAD到GIS数据无损转换方法研究——以居民地及其设施为例",
 		"Author": [
@@ -11837,6 +12693,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 857,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS可视化的排水监测系统的实现",
 		"Author": [
@@ -11848,6 +12705,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 858,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在城市规划测绘中的应用",
 		"Author": [
@@ -11859,6 +12717,7 @@
 		"Source": "工程技术研究"
 	},
 	{
+		"Id": 859,
 		"SrcDatabase": "期刊",
 		"Title": "少数民族地区村域汉语方言地理信息系统(GIS)的建立——以黔东南苗族侗族自治州为例",
 		"Author": [
@@ -11870,6 +12729,7 @@
 		"Source": "贵州民族研究"
 	},
 	{
+		"Id": 860,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的云南省苹果种植适宜性区域划分研究",
 		"Author": [
@@ -11883,6 +12743,7 @@
 		"Source": "湖北农业科学"
 	},
 	{
+		"Id": 861,
 		"SrcDatabase": "期刊",
 		"Title": "基于多法向光电阵列的GIS同轴母线局部放电溯源方法及仿真研究",
 		"Author": [
@@ -11901,6 +12762,7 @@
 		"Source": "电网与清洁能源"
 	},
 	{
+		"Id": 862,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的武汉市长江新城地下空间资源质量评估",
 		"Author": [
@@ -11916,6 +12778,7 @@
 		"Source": "地质与资源"
 	},
 	{
+		"Id": 863,
 		"SrcDatabase": "期刊",
 		"Title": "基于AHP与GIS的新集矿区11-2煤层顶板突水危险性评价",
 		"Author": [
@@ -11934,6 +12797,7 @@
 		"Source": "煤炭科技"
 	},
 	{
+		"Id": 864,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在水文水资源领域中的应用",
 		"Author": [
@@ -11945,6 +12809,7 @@
 		"Source": "中国高新科技"
 	},
 	{
+		"Id": 865,
 		"SrcDatabase": "期刊",
 		"Title": "历史GIS支持下的城市形态研究技术框架",
 		"Author": [
@@ -11958,6 +12823,7 @@
 		"Source": "智能建筑与智慧城市"
 	},
 	{
+		"Id": 866,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的港口空间规划及设计技术方法",
 		"Author": [
@@ -11975,6 +12841,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 867,
 		"SrcDatabase": "期刊",
 		"Title": "基于安卓移动端的三维GIS服务",
 		"Author": [
@@ -11990,6 +12857,7 @@
 		"Source": "导航定位学报"
 	},
 	{
+		"Id": 868,
 		"SrcDatabase": "期刊",
 		"Title": "冲击振动下GIS内金属颗粒运动及其诱发沿面闪络特性",
 		"Author": [
@@ -12005,6 +12873,7 @@
 		]
 	},
 	{
+		"Id": 869,
 		"SrcDatabase": "期刊",
 		"Title": "基于ST-number算法的配网GIS单线图自动生成方法研究",
 		"Author": [
@@ -12020,6 +12889,7 @@
 		"Source": "电子设计工程"
 	},
 	{
+		"Id": 870,
 		"SrcDatabase": "期刊",
 		"Title": "融合思政元素的“GIS实验”课程建设",
 		"Author": [
@@ -12035,6 +12905,7 @@
 		"Source": "河北地质大学学报"
 	},
 	{
+		"Id": 871,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的房地一体不动产权籍调查研究",
 		"Author": [
@@ -12049,6 +12920,7 @@
 		"Source": "长春师范大学学报"
 	},
 	{
+		"Id": 872,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的威海母猪河流域洪水风险区划研究",
 		"Author": [
@@ -12062,6 +12934,7 @@
 		"Source": "农业灾害研究"
 	},
 	{
+		"Id": 873,
 		"SrcDatabase": "期刊",
 		"Title": "应急测绘视频帧与GIS系统匹配技术",
 		"Author": [
@@ -12077,6 +12950,7 @@
 		"Source": "遥感信息"
 	},
 	{
+		"Id": 874,
 		"SrcDatabase": "期刊",
 		"Title": "基于MaxEnt和GIS的新疆紫草产地生态适宜性分析",
 		"Author": [
@@ -12096,6 +12970,7 @@
 		"Source": "中国现代中药"
 	},
 	{
+		"Id": 875,
 		"SrcDatabase": "期刊",
 		"Title": "GIS局部放电多特征量传感研究进展",
 		"Author": [
@@ -12114,6 +12989,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 876,
 		"SrcDatabase": "期刊",
 		"Title": "GIS内隔离开关机械故障检测方法研究",
 		"Author": [
@@ -12131,6 +13007,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 877,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的全国三甲医院空间分布及其可达性研究",
 		"Author": [
@@ -12145,6 +13022,7 @@
 		"Source": "西安文理学院学报(自然科学版)"
 	},
 	{
+		"Id": 878,
 		"SrcDatabase": "期刊",
 		"Title": "GIS全封闭式组合电器安装和关键工艺控制点",
 		"Author": [
@@ -12156,6 +13034,7 @@
 		"Source": "水泥工程"
 	},
 	{
+		"Id": 879,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术的环境地质污染信息采集一体化平台构建研究",
 		"Author": [
@@ -12169,6 +13048,7 @@
 		"Source": "环境科学与管理"
 	},
 	{
+		"Id": 880,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS基线分割与土地利用单元优化的土壤重金属生态风险累积效应评价方法",
 		"Author": [
@@ -12189,6 +13069,7 @@
 		"Source": "地质学报"
 	},
 	{
+		"Id": 881,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的福州滨海游憩空间用地适宜性综合评价研究",
 		"Author": [
@@ -12203,6 +13084,7 @@
 		"Source": "现代城市研究"
 	},
 	{
+		"Id": 882,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的干旱半干旱地区未利用地空间变化的生态风险测度",
 		"Author": [
@@ -12215,6 +13097,7 @@
 		"Source": "山东农业大学学报(自然科学版)"
 	},
 	{
+		"Id": 883,
 		"SrcDatabase": "期刊",
 		"Title": "GIS图层在空间数据处理管理与分析中的作用",
 		"Author": [
@@ -12226,6 +13109,7 @@
 		"Source": "工程与建设"
 	},
 	{
+		"Id": 884,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在智慧城市建设中的应用探究",
 		"Author": [
@@ -12237,6 +13121,7 @@
 		"Source": "西部资源"
 	},
 	{
+		"Id": 885,
 		"SrcDatabase": "期刊",
 		"Title": "抽水蓄能电站建设的地理要素分析及GIS选址",
 		"Author": [
@@ -12254,6 +13139,7 @@
 		"Source": "云南水力发电"
 	},
 	{
+		"Id": 886,
 		"SrcDatabase": "期刊",
 		"Title": "基于单片机的GIS变电站室内氧含量报警装置设计",
 		"Author": [
@@ -12270,6 +13156,7 @@
 		"Source": "仪表技术"
 	},
 	{
+		"Id": 887,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS与GIS的九寨沟国家级自然保护区地震前后植被覆盖度变化分析",
 		"Author": [
@@ -12289,6 +13176,7 @@
 		"Source": "四川林业科技"
 	},
 	{
+		"Id": 888,
 		"SrcDatabase": "期刊",
 		"Title": "冰雪天气下基于GIS的车辆防碰撞预警模型",
 		"Author": [
@@ -12302,6 +13190,7 @@
 		"Source": "武汉轻工大学学报"
 	},
 	{
+		"Id": 889,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的山地生态县域生态敏感性研究——以闽侯县为例",
 		"Author": [
@@ -12317,6 +13206,7 @@
 		"Source": "南方林业科学"
 	},
 	{
+		"Id": 890,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的云南省不同玉米种植区施肥策略研究",
 		"Author": [
@@ -12333,6 +13223,7 @@
 		"Source": "玉米科学"
 	},
 	{
+		"Id": 891,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的城市常规公交线路优化研究",
 		"Author": [
@@ -12344,6 +13235,7 @@
 		"Source": "黑龙江交通科技"
 	},
 	{
+		"Id": 892,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的大连市暴雨洪涝灾害综合风险评估",
 		"Author": [
@@ -12358,6 +13250,7 @@
 		"Source": "河海大学学报(自然科学版)"
 	},
 	{
+		"Id": 893,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的区域水土保持成果可视化系统设计与应用",
 		"Author": [
@@ -12370,6 +13263,7 @@
 		"Source": "实验技术与管理"
 	},
 	{
+		"Id": 894,
 		"SrcDatabase": "期刊",
 		"Title": "三维GIS与AHP在森林无线传感器网络节点选址中的应用",
 		"Author": [
@@ -12382,6 +13276,7 @@
 		"Source": "计算机应用与软件"
 	},
 	{
+		"Id": 895,
 		"SrcDatabase": "期刊",
 		"Title": "126kV二氧化碳GIS快速接地开关感应电流开断特性研究",
 		"Author": [
@@ -12396,6 +13291,7 @@
 		]
 	},
 	{
+		"Id": 896,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的南方丝绸之路国内段交通路线网络重建研究",
 		"Author": [
@@ -12409,6 +13305,7 @@
 		"Source": "地理研究"
 	},
 	{
+		"Id": 897,
 		"SrcDatabase": "期刊",
 		"Title": "基于协同签名的电网移动GIS签名系统的设计与实现",
 		"Author": [
@@ -12423,6 +13320,7 @@
 		"Source": "农村电气化"
 	},
 	{
+		"Id": 898,
 		"SrcDatabase": "期刊",
 		"Title": "基于WebGL的三维GIS平台快速构建方法",
 		"Author": [
@@ -12434,6 +13332,7 @@
 		"Source": "河南科技"
 	},
 	{
+		"Id": 899,
 		"SrcDatabase": "期刊",
 		"Title": "计算机科学与技术GIS课程的教学实践",
 		"Author": [
@@ -12445,6 +13344,7 @@
 		"Source": "集成电路应用"
 	},
 	{
+		"Id": 900,
 		"SrcDatabase": "期刊",
 		"Title": "基于SWRL规则的BIM和GIS建筑本体融合方法",
 		"Author": [
@@ -12458,6 +13358,7 @@
 		"Source": "现代信息科技"
 	},
 	{
+		"Id": 901,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的风沙地区铁路选线不良地质环境建模及线路优化设计研究",
 		"Author": [
@@ -12474,6 +13375,7 @@
 		]
 	},
 	{
+		"Id": 902,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在中国贫困治理中的应用研究综述",
 		"Author": [
@@ -12486,6 +13388,7 @@
 		"Source": "江苏商论"
 	},
 	{
+		"Id": 903,
 		"SrcDatabase": "期刊",
 		"Title": "城市应急管理中GIS技术的应用研究",
 		"Author": [
@@ -12497,6 +13400,7 @@
 		"Source": "科技资讯"
 	},
 	{
+		"Id": 904,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术在矿山测量中的应用研究",
 		"Author": [
@@ -12508,6 +13412,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 905,
 		"SrcDatabase": "期刊",
 		"Title": "大数据在地理信息系统中的应用探讨",
 		"Author": [
@@ -12519,6 +13424,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 906,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在测绘管理中的应用",
 		"Author": [
@@ -12530,6 +13436,7 @@
 		"Source": "住宅与房地产"
 	},
 	{
+		"Id": 907,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的辽宁环渤海区降雨时空分布特征",
 		"Author": [
@@ -12541,6 +13448,7 @@
 		"Source": "黑龙江水利科技"
 	},
 	{
+		"Id": 908,
 		"SrcDatabase": "期刊",
 		"Title": "500kV GIS盆式绝缘子沿面微小颗粒放电研究",
 		"Author": [
@@ -12558,6 +13466,7 @@
 		"Source": "科技通报"
 	},
 	{
+		"Id": 909,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的延边州地名文化景观空间分布特征研究",
 		"Author": [
@@ -12573,6 +13482,7 @@
 		"Source": "延边大学农学学报"
 	},
 	{
+		"Id": 910,
 		"SrcDatabase": "期刊",
 		"Title": "低磁密电压互感器在GIS铁磁谐振解决方案中的应用",
 		"Author": [
@@ -12588,6 +13498,7 @@
 		"Source": "水电站设计"
 	},
 	{
+		"Id": 911,
 		"SrcDatabase": "期刊",
 		"Title": "极寒环境下电缆GIS终端界面故障分析",
 		"Author": [
@@ -12603,6 +13514,7 @@
 		]
 	},
 	{
+		"Id": 912,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS与证据权模型的明光市地下水潜力分析",
 		"Author": [
@@ -12617,6 +13529,7 @@
 		"Source": "合肥工业大学学报(自然科学版)"
 	},
 	{
+		"Id": 913,
 		"SrcDatabase": "期刊",
 		"Title": "基于双注意力机制优化CNN架构的GIS局部放电模式识别",
 		"Author": [
@@ -12633,6 +13546,7 @@
 		"Source": "电力科学与技术学报"
 	},
 	{
+		"Id": 914,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在储量管理中的应用",
 		"Author": [
@@ -12644,6 +13558,7 @@
 		"Source": "内蒙古石油化工"
 	},
 	{
+		"Id": 915,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS与GIS的大通县青海云杉分布规律分析",
 		"Author": [
@@ -12657,6 +13572,7 @@
 		"Source": "福建林业科技"
 	},
 	{
+		"Id": 916,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的三明市森林康养基地气候舒适度分析",
 		"Author": [
@@ -12673,6 +13589,7 @@
 		"Source": "福建林业科技"
 	},
 	{
+		"Id": 917,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和加权信息量模型的绿春县城地质灾害易发性评价",
 		"Author": [
@@ -12691,6 +13608,7 @@
 		"Source": "地质灾害与环境保护"
 	},
 	{
+		"Id": 918,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的东川区生态环境敏感性分析",
 		"Author": [
@@ -12704,6 +13622,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 919,
 		"SrcDatabase": "期刊",
 		"Title": "税源管理GIS系统的设计与实现",
 		"Author": [
@@ -12715,6 +13634,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 920,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的工程建设项目信息管理系统设计与实现",
 		"Author": [
@@ -12726,6 +13646,7 @@
 		"Source": "测绘技术装备"
 	},
 	{
+		"Id": 921,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的渭河流域居民点空间分布特征研究",
 		"Author": [
@@ -12737,6 +13658,7 @@
 		"Source": "测绘与空间地理信息"
 	},
 	{
+		"Id": 922,
 		"SrcDatabase": "期刊",
 		"Title": "三维GIS与无人机技术在边境管控中的应用——以北塔山牧场为试点",
 		"Author": [
@@ -12754,6 +13676,7 @@
 		"Source": "地矿测绘"
 	},
 	{
+		"Id": 923,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的复杂地形环境下EOSID虚拟仿真研究",
 		"Author": [
@@ -12769,6 +13692,7 @@
 		"Source": "信息技术与信息化"
 	},
 	{
+		"Id": 924,
 		"SrcDatabase": "期刊",
 		"Title": "测绘地理信息系统的架构与功能",
 		"Author": [
@@ -12783,6 +13707,7 @@
 		"Source": "电子测试"
 	},
 	{
+		"Id": 925,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS考虑居民满意度的垃圾车路径优化分析",
 		"Author": [
@@ -12796,6 +13721,7 @@
 		"Source": "交通与运输"
 	},
 	{
+		"Id": 926,
 		"SrcDatabase": "期刊",
 		"Title": "应用GIS对农田防护林防风效能评价",
 		"Author": [
@@ -12810,6 +13736,7 @@
 		"Source": "东北林业大学学报"
 	},
 	{
+		"Id": 927,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS网络分析的公园绿地布局优化研究——以包头市建成区为例",
 		"Author": [
@@ -12824,6 +13751,7 @@
 		"Source": "城市建筑空间"
 	},
 	{
+		"Id": 928,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的福建省2022年耕地后备资源调查评价研究",
 		"Author": [
@@ -12835,6 +13763,7 @@
 		"Source": "农业技术与装备"
 	},
 	{
+		"Id": 929,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的江苏省耕地质量等级评价",
 		"Author": [
@@ -12855,6 +13784,7 @@
 		"Source": "中国土壤与肥料"
 	},
 	{
+		"Id": 930,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的西宁地区1970—2019年日照时空变化规律",
 		"Author": [
@@ -12871,6 +13801,7 @@
 		"Source": "青海环境"
 	},
 	{
+		"Id": 931,
 		"SrcDatabase": "期刊",
 		"Title": "基于特高频传感器的GIS局放信号监测装置及定位方法",
 		"Author": [
@@ -12888,6 +13819,7 @@
 		"Source": "电气工程学报"
 	},
 	{
+		"Id": 932,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在矿山测绘中的应用研究",
 		"Author": [
@@ -12899,6 +13831,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 933,
 		"SrcDatabase": "期刊",
 		"Title": "解析矿山地质勘查中GIS技术的应用",
 		"Author": [
@@ -12910,6 +13843,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 934,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和AHP层次分析法的县域村庄发展综合潜力评价",
 		"Author": [
@@ -12924,6 +13858,7 @@
 		"Source": "南阳理工学院学报"
 	},
 	{
+		"Id": 935,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在地铁安全管理平台设计中的应用",
 		"Author": [
@@ -12935,6 +13870,7 @@
 		"Source": "无线互联科技"
 	},
 	{
+		"Id": 936,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS技术的地籍管理研究",
 		"Author": [
@@ -12946,6 +13882,7 @@
 		"Source": "中国高新科技"
 	},
 	{
+		"Id": 937,
 		"SrcDatabase": "期刊",
 		"Title": "时空GIS在路灯管网数据动态更新中的应用",
 		"Author": [
@@ -12960,6 +13897,7 @@
 		"Source": "现代测绘"
 	},
 	{
+		"Id": 938,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的云南省森林生态连清体系野外观测网络布局",
 		"Author": [
@@ -12979,6 +13917,7 @@
 		"Source": "生态学杂志"
 	},
 	{
+		"Id": 939,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和RS的郑州市土地利用变化及景观格局分析",
 		"Author": [
@@ -12993,6 +13932,7 @@
 		"Source": "黑龙江生态工程职业学院学报"
 	},
 	{
+		"Id": 940,
 		"SrcDatabase": "期刊",
 		"Title": "基于资源图模融合的离线电网GIS关键技术研究",
 		"Author": [
@@ -13008,6 +13948,7 @@
 		"Source": "电子设计工程"
 	},
 	{
+		"Id": 941,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的煤矿瓦斯大数据管理与分析系统",
 		"Author": [
@@ -13026,6 +13967,7 @@
 		"Source": "煤矿安全"
 	},
 	{
+		"Id": 942,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的厦漳泉闽南三角区生态敏感性分析",
 		"Author": [
@@ -13040,6 +13982,7 @@
 		"Source": "黑龙江生态工程职业学院学报"
 	},
 	{
+		"Id": 943,
 		"SrcDatabase": "期刊",
 		"Title": "国际联合虚拟教研室的组织模式与实践探索——以Web GIS教研为例",
 		"Author": [
@@ -13054,6 +13997,7 @@
 		"Source": "高等理科教育"
 	},
 	{
+		"Id": 944,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的管道应急态势标绘技术研究",
 		"Author": [
@@ -13069,6 +14013,7 @@
 		"Source": "石油化工自动化"
 	},
 	{
+		"Id": 945,
 		"SrcDatabase": "期刊",
 		"Title": "面向农业灌溉的小型水库三维GIS智慧管理平台研究",
 		"Author": [
@@ -13088,6 +14033,7 @@
 		"Source": "安徽农业科学"
 	},
 	{
+		"Id": 946,
 		"SrcDatabase": "期刊",
 		"Title": "抗氧剂对GIS用环氧浇注绝缘件性能的影响",
 		"Author": [
@@ -13104,6 +14050,7 @@
 		"Source": "化学推进剂与高分子材料"
 	},
 	{
+		"Id": 947,
 		"SrcDatabase": "期刊",
 		"Title": "微米级异物对GIS设备绝缘状态影响研究",
 		"Author": [
@@ -13120,6 +14067,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 948,
 		"SrcDatabase": "期刊",
 		"Title": "一起隔离开关机构失效引起的GIS绝缘故障分析",
 		"Author": [
@@ -13138,6 +14086,7 @@
 		"Source": "高压电器"
 	},
 	{
+		"Id": 949,
 		"SrcDatabase": "期刊",
 		"Title": "GIS算法课程实习虚拟仿真教学系统",
 		"Author": [
@@ -13153,6 +14102,7 @@
 		"Source": "教育教学论坛"
 	},
 	{
+		"Id": 950,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的大屏可视化策略",
 		"Author": [
@@ -13164,6 +14114,7 @@
 		"Source": "计算机系统应用"
 	},
 	{
+		"Id": 951,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的《读史方舆纪要》地名文化景观空间分布研究——以“南直隶”为例",
 		"Author": [
@@ -13180,6 +14131,7 @@
 		"Source": "建筑与文化"
 	},
 	{
+		"Id": 952,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在森林资源管理中的应用",
 		"Author": [
@@ -13191,6 +14143,7 @@
 		"Source": "温带林业研究"
 	},
 	{
+		"Id": 953,
 		"SrcDatabase": "期刊",
 		"Title": "220kV某GIS设备伸缩节的放电分析",
 		"Author": [
@@ -13208,6 +14161,7 @@
 		"Source": "电工电气"
 	},
 	{
+		"Id": 954,
 		"SrcDatabase": "期刊",
 		"Title": "金沙水电站数字化GIS开关站选型设计与应用",
 		"Author": [
@@ -13221,6 +14175,7 @@
 		"Source": "水利水电快报"
 	},
 	{
+		"Id": 955,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间模型的历史村庄传统堪舆格局识别与保护——以湖北省武汉市大余湾为例",
 		"Author": [
@@ -13234,6 +14189,7 @@
 		"Source": "小城镇建设"
 	},
 	{
+		"Id": 956,
 		"SrcDatabase": "期刊",
 		"Title": "生态环境检测发展与地理信息系统（GIS）技术应用研究",
 		"Author": [
@@ -13245,6 +14201,7 @@
 		"Source": "长江技术经济"
 	},
 	{
+		"Id": 957,
 		"SrcDatabase": "期刊",
 		"Title": "基于CWSEI的地理信息系统课程教学改革探索",
 		"Author": [
@@ -13261,6 +14218,7 @@
 		"Source": "测绘工程"
 	},
 	{
+		"Id": 958,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS技术在一重山提取中的应用研究",
 		"Author": [
@@ -13273,6 +14231,7 @@
 		"Source": "福建地质"
 	},
 	{
+		"Id": 959,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的油气管道无人机巡检平台研究",
 		"Author": [
@@ -13286,6 +14245,7 @@
 		"Source": "管道技术与设备"
 	},
 	{
+		"Id": 960,
 		"SrcDatabase": "期刊",
 		"Title": "新工科背景下水利类专业GIS课程考核体系的改革探索——评《地理信息系统原理》",
 		"Author": [
@@ -13298,6 +14258,7 @@
 		"Source": "灌溉排水学报"
 	},
 	{
+		"Id": 961,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的高县桑树生态气候适宜性分析",
 		"Author": [
@@ -13314,6 +14275,7 @@
 		"Source": "高原山地气象研究"
 	},
 	{
+		"Id": 962,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS高速公路机电设备在线监测系统设计与应用",
 		"Author": [
@@ -13327,6 +14289,7 @@
 		"Source": "云南水力发电"
 	},
 	{
+		"Id": 963,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS和MaxEnt模型分析气候变化背景下紫果云杉的潜在分布区",
 		"Author": [
@@ -13344,6 +14307,7 @@
 		"Source": "西北植物学报"
 	},
 	{
+		"Id": 964,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的贵阳地区美味猕猴桃种植气候适应性区划",
 		"Author": [
@@ -13364,6 +14328,7 @@
 		"Source": "贵州农业科学"
 	},
 	{
+		"Id": 965,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的宜宾市种植油用牡丹气候适应性分析",
 		"Author": [
@@ -13379,6 +14344,7 @@
 		"Source": "高原山地气象研究"
 	},
 	{
+		"Id": 966,
 		"SrcDatabase": "期刊",
 		"Title": "过程性考核在“GIS软件及其应用”课程中的应用与探索",
 		"Author": [
@@ -13393,6 +14359,7 @@
 		"Source": "科教导刊"
 	},
 	{
+		"Id": 967,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS模型构建器的影像批量裁剪方法研究",
 		"Author": [
@@ -13406,6 +14373,7 @@
 		"Source": "林业调查规划"
 	},
 	{
+		"Id": 968,
 		"SrcDatabase": "期刊",
 		"Title": "基于开源GIS的地震灾情速报信息收集与处置研究——以河南省地震局为例",
 		"Author": [
@@ -13420,6 +14388,7 @@
 		"Source": "震灾防御技术"
 	},
 	{
+		"Id": 969,
 		"SrcDatabase": "期刊",
 		"Title": "GIS在传染病方面的实时预警溯源系统",
 		"Author": [
@@ -13436,6 +14405,7 @@
 		"Source": "智慧健康"
 	},
 	{
+		"Id": 970,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在规划设计类课程中的应用探索",
 		"Author": [
@@ -13449,6 +14419,7 @@
 		"Source": "山西建筑"
 	},
 	{
+		"Id": 971,
 		"SrcDatabase": "期刊",
 		"Title": "基于云GIS的食用菌质量安全空间管理信息系统设计",
 		"Author": [
@@ -13466,6 +14437,7 @@
 		"Source": "现代电子技术"
 	},
 	{
+		"Id": 972,
 		"SrcDatabase": "期刊",
 		"Title": "地质灾害调查中的地理信息系统应用",
 		"Author": [
@@ -13477,6 +14449,7 @@
 		"Source": "信息与电脑(理论版)"
 	},
 	{
+		"Id": 973,
 		"SrcDatabase": "期刊",
 		"Title": "基于计算机技术的GIS技术研究",
 		"Author": [
@@ -13489,6 +14462,7 @@
 		"Source": "无线互联科技"
 	},
 	{
+		"Id": 974,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的合肥市老城区新增微型公共空间的选址与优化",
 		"Author": [
@@ -13504,6 +14478,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 975,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS/RS的中小型城市空间扩展及驱动因素研究",
 		"Author": [
@@ -13516,6 +14491,7 @@
 		"Source": "城市建筑"
 	},
 	{
+		"Id": 976,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS位置分配的城市应急避难场所责任区划分",
 		"Author": [
@@ -13529,6 +14505,7 @@
 		"Source": "清华大学学报(自然科学版)"
 	},
 	{
+		"Id": 977,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统在露天开采金属矿山测量中的应用",
 		"Author": [
@@ -13541,6 +14518,7 @@
 		"Source": "世界有色金属"
 	},
 	{
+		"Id": 978,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的洱海流域氮素时空分异特征及源结构解析",
 		"Author": [
@@ -13559,6 +14537,7 @@
 		"Source": "湖泊科学"
 	},
 	{
+		"Id": 979,
 		"SrcDatabase": "期刊",
 		"Title": "BIM+GIS及融合北斗定位数据在勘察管控中的应用",
 		"Author": [
@@ -13575,6 +14554,7 @@
 		"Source": "水运工程"
 	},
 	{
+		"Id": 980,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS空间分析的中小学学校区划和可达性研究——以汉中市主城区为例",
 		"Author": [
@@ -13588,6 +14568,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 981,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的电力通道资源设计研究与应用",
 		"Author": [
@@ -13602,6 +14583,7 @@
 		"Source": "城市勘测"
 	},
 	{
+		"Id": 982,
 		"SrcDatabase": "期刊",
 		"Title": "基于流域GIS空间建模的雨洪模拟方法",
 		"Author": [
@@ -13615,6 +14597,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 983,
 		"SrcDatabase": "期刊",
 		"Title": "大数据时代下《GIS空间分析》课程内容建设",
 		"Author": [
@@ -13627,6 +14610,7 @@
 		"Source": "地理空间信息"
 	},
 	{
+		"Id": 984,
 		"SrcDatabase": "期刊",
 		"Title": "模块化多组合GIS装配式基础设计方法与数值分析",
 		"Author": [
@@ -13644,6 +14628,7 @@
 		"Source": "合肥工业大学学报(自然科学版)"
 	},
 	{
+		"Id": 985,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的校园共享单车租赁点布局评价",
 		"Author": [
@@ -13660,6 +14645,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 986,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的会泽县土地景观格局动态变化分析",
 		"Author": [
@@ -13672,6 +14658,7 @@
 		"Source": "绿色科技"
 	},
 	{
+		"Id": 987,
 		"SrcDatabase": "期刊",
 		"Title": "地理信息系统GIS技术在房产测绘中应用分析",
 		"Author": [
@@ -13683,6 +14670,7 @@
 		"Source": "中国住宅设施"
 	},
 	{
+		"Id": 988,
 		"SrcDatabase": "期刊",
 		"Title": "超声波法在GIS设备带电检测中的应用",
 		"Author": [
@@ -13701,6 +14689,7 @@
 		"Source": "电力与能源"
 	},
 	{
+		"Id": 989,
 		"SrcDatabase": "期刊",
 		"Title": "GIS技术在水文水资源领域中的运用",
 		"Author": [
@@ -13712,6 +14701,7 @@
 		"Source": "黑龙江水利科技"
 	},
 	{
+		"Id": 990,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS+BIM的数字化地质调查软件开发与应用",
 		"Author": [
@@ -13726,6 +14716,7 @@
 		"Source": "铁路技术创新"
 	},
 	{
+		"Id": 991,
 		"SrcDatabase": "期刊",
 		"Title": "AR+BIM+GIS在铁路施工组织设计外业调查中的应用",
 		"Author": [
@@ -13739,6 +14730,7 @@
 		"Source": "铁路技术创新"
 	},
 	{
+		"Id": 992,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM+GIS的铁路征地拆迁系统综合应用研究",
 		"Author": [
@@ -13753,6 +14745,7 @@
 		"Source": "铁路技术创新"
 	},
 	{
+		"Id": 993,
 		"SrcDatabase": "期刊",
 		"Title": "基于RS和GIS的万源市生态保护红线划定方法研究",
 		"Author": [
@@ -13769,6 +14762,7 @@
 		"Source": "四川环境"
 	},
 	{
+		"Id": 994,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的中国传统村落空间分布与旅游发展要素关联性研究",
 		"Author": [
@@ -13782,6 +14776,7 @@
 		"Source": "东北农业大学学报(社会科学版)"
 	},
 	{
+		"Id": 995,
 		"SrcDatabase": "期刊",
 		"Title": "基于BIM与GIS融合设计的地质灾害治理系统",
 		"Author": [
@@ -13797,6 +14792,7 @@
 		"Source": "信息技术"
 	},
 	{
+		"Id": 996,
 		"SrcDatabase": "期刊",
 		"Title": "基于改进小波阈值的GIS局放监测抗干扰研究",
 		"Author": [
@@ -13811,6 +14807,7 @@
 		"Source": "自动化与仪表"
 	},
 	{
+		"Id": 997,
 		"SrcDatabase": "期刊",
 		"Title": "基于物联网与GIS的城市地下空间内涝监测预警系统研究",
 		"Author": [
@@ -13827,6 +14824,7 @@
 		"Source": "工业技术与职业教育"
 	},
 	{
+		"Id": 998,
 		"SrcDatabase": "期刊",
 		"Title": "基于5G无人机倾斜摄影和三维GIS技术水库监控系统研发及应用",
 		"Author": [
@@ -13838,6 +14836,7 @@
 		"Source": "红水河"
 	},
 	{
+		"Id": 999,
 		"SrcDatabase": "期刊",
 		"Title": "测绘工程专业GIS实验混合式教学方法探讨",
 		"Author": [
@@ -13851,6 +14850,7 @@
 		"Source": "测绘通报"
 	},
 	{
+		"Id": 1000,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS的采空塌陷区稳定性及地质灾害风险评价",
 		"Author": [
@@ -13865,6 +14865,7 @@
 		"Source": "科学技术创新"
 	},
 	{
+		"Id": 1001,
 		"SrcDatabase": "期刊",
 		"Title": "基于GIS分析江苏省夏秋季大气污染热点特征",
 		"Author": [
@@ -13883,6 +14884,7 @@
 		"Source": "环境监测管理与技术"
 	},
 	{
+		"Id": 1002,
 		"SrcDatabase": "期刊",
 		"Title": "基于三维GIS的数字化工厂管理系统设计与开发",
 		"Author": [
