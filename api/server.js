@@ -2,8 +2,8 @@
  * @Author: yizheng
  * @Date: 2022-11-26 16:24:56
  * @LastEditor: yizheng
- * @LastEditTime: 2022-11-28 17:27:14
- * @FilePath: /scholarflow-app/api/server.js
+ * @LastEditTime: 2022-11-28 22:13:58
+ * @FilePath: \5002Project\scholarflow-app\api\server.js
  * @Description:
  */
 
@@ -322,29 +322,81 @@ async function fetchGaodeGeocodingApi(res, qps) {
   writeJSON(filename, result);
 
   // console.log('result', result);
-  let resulatAll = fs.readFileSync('dataset/addressLngLatGaode.json', 'utf-8');
+  let resulatAll = fs.readFileSync('dataset/city.json', 'utf-8');
   resulatAll = JSON.parse(resulatAll);
   resulatAll = [...resulatAll, ...result];
   writeJSON('addressLngLatGaode.json', resulatAll);
   console.log('success');
 }
 
+async function fetchGaodeGeocodingApiForCity(res, qps) {
+  const addressData = fs.readFileSync('dataset/city.json', 'utf-8');
+  let addressJSON = JSON.parse(addressData);
+  let start = 0;
+  let end = 50;
+  let filename = 'city1.json';
+  addressJSON = addressJSON.slice(start, end);
+  let fetchArr = [];
+  console.log(addressJSON.length);
+
+  for (let i = 0; i < addressJSON.length; i++) {
+    fetchArr.push(
+      axios
+        .get(`https://restapi.amap.com/v3/geocode/geo?key=${GAODE_KEY}&address=${addressJSON[i].name}`)
+        .then((req) => {
+          let obj = addressJSON[i];
+          console.log('请求索引：', i);
+          if (req.data.status === '1') {
+            // obj.coordinate = req.data.result.location;
+            obj.coordinate = [
+              parseFloat(req.data.geocodes[0].location.split(',')[0]),
+              parseFloat(req.data.geocodes[0].location.split(',')[1]),
+            ];
+          } else {
+            obj.coordinate = [0, 0];
+          }
+          return obj;
+        })
+        .catch((err) => console.log('error', err))
+    );
+    if (i % qps === 0)
+      await new Promise(
+        (r) =>
+          setTimeout(() => {
+            r();
+          }),
+        1000
+      );
+  }
+
+  let result = await Promise.all(fetchArr);
+  writeJSON(filename, result);
+
+  // console.log('result', result);
+  let resulatAll = fs.readFileSync('dataset/cityGeocode.json', 'utf-8');
+  resulatAll = JSON.parse(resulatAll);
+  resulatAll = [...resulatAll, ...result];
+  writeJSON('cityGeocode.json', resulatAll);
+  console.log('success');
+}
+
 app.get('/', (req, res) => {
-  let resultJSON = fs.readFileSync('dataset/addressLngLatGaode.json', 'utf-8');
-  resultJSON = JSON.parse(resultJSON);
-  // res.send(resultJSON);
-  let newResultJSON = resultJSON.map((item) => {
-    let obj = item;
-    if (typeof obj.coordinate.longitude === 'string') {
-      obj.coordinate.longitude = parseFloat(obj.coordinate.longitude);
-      obj.coordinate.latitude = parseFloat(obj.coordinate.latitude);
-    }
-    return obj;
-  });
-  writeJSON('geocoding.json', newResultJSON);
-  let length = resultJSON.length;
-  console.log('length', length);
-  res.send(newResultJSON);
+  // let resultJSON = fs.readFileSync('dataset/addressLngLatGaode.json', 'utf-8');
+  // resultJSON = JSON.parse(resultJSON);
+  // // res.send(resultJSON);
+  // let newResultJSON = resultJSON.map((item) => {
+  //   let obj = item;
+  //   if (typeof obj.coordinate.longitude === 'string') {
+  //     obj.coordinate.longitude = parseFloat(obj.coordinate.longitude);
+  //     obj.coordinate.latitude = parseFloat(obj.coordinate.latitude);
+  //   }
+  //   return obj;
+  // });
+  // writeJSON('geocoding.json', newResultJSON);
+  // let length = resultJSON.length;
+  // console.log('length', length);
+  // res.send(newResultJSON);
+  fetchGaodeGeocodingApiForCity(res, 20);
 });
 
 app.get('/getCNKI', (req, res) => {
@@ -362,7 +414,5 @@ app.get('/getCNKI', (req, res) => {
 // });
 
 app.listen(3030, () => {
-  // initialData();
-  // CNKI_DATA_JSON = initialData();
   console.log('app listening on port 3030');
 });

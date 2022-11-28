@@ -26,14 +26,14 @@ function App() {
         setData(features);
       });
 
-    fetch(CNKI_DATA_URL, {
-      // credentials: 'include',
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Credentials': true,
-        // Accept: 'application/json',
-      },
-    }).then((response) => console.log('response', response));
+    // fetch(CNKI_DATA_URL, {
+    //   // credentials: 'include',
+    //   headers: {
+    //     'Content-Type': 'application/json',
+    //     'Access-Control-Allow-Credentials': true,
+    //     // Accept: 'application/json',
+    //   },
+    // }).then((response) => console.log('response', response));
   }, []);
 
   return (

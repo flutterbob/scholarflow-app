@@ -1,0 +1,11664 @@
+[
+	{
+		"name": "华北电力大学新能源电力系统国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网经济技术研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京信息科技大学自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南省海洋地质资源与环境重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南省地质调查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院地理信息与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司超高压分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京国环清华环境工程设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北水利水电大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中建七局安装工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华东理工大学基建处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网科学研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州科易光电技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "昆明理工大学机电工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东粤海珠三角供水有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "水利部水利水电规划设计总院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北工业大学太阳能高效利用及储能运行控制湖北省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥财经职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国移动通信集团江苏有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省科学技术情报研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国移动通信集团安徽有限公司六安分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏天地知识产权代理有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南华电金沙江中游水电开发有限公司梨园发电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力工程顾问集团西北电力设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省水利电力勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省弥勒市林业和草原局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南林业大学西南地区生物多样性保育国家林业局重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网四川省电力公司成都供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州市规划设计研究院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "池州学院旅游与历史文化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "池州学院生态经济与旅游发展研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "池州学院地理与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东建材勘察测绘研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "昆明市农业科学研究院资源与环境研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市知识产权服务中心(上海市知识产权援助中心)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南农业大学农学院/教育部作物生长发育调控重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南农业大学生命科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海电力大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学动力与机械学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家电网有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东泰开高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "晋能控股煤业集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖南省电力有限公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "变电智能运检国网湖南省电力有限公司实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉纺织大学机械工程与自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "叶城县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业气象台/新疆兴农网信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北方工业大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉联动设计股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省土壤污染防治中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省安阳生态环境监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省习水县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市地质研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市水科学技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网成都供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电力设备电气绝缘国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司超高压输电公司广州局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省核工业勘查技术总院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省陆浑水库管理局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东正元数字城市建设有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东港通工程管理咨询有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陆军军事交通学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国防大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃农业大学林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南石油大学地球科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南石油大学土木工程与测绘学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西铁路工程职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学新能源电力系统国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "豫章师范学院文化与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省自然资源政策调查评估中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南大学资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平顶山学院旅游与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市璧山区防汛抗旱调度中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "嘉兴数科测绘科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林建筑大学测绘与勘查工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北水利电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "唐山职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司青浦供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北水利水电大学地球科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏师范大学地理测绘与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学建筑与设计学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州西亚斯学院建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州工业应用技术学院建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学综合设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南工程职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "乌江渡发电厂",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京国网富达科技发展有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网黑龙江省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "正元地理信息集团股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "淮安市水利勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北工业大学新能源及电网装备安全监测湖北省工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网电力科学研究院武汉南瑞有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学动力与机械学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司电网环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南林业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省林业科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬中市环境监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东工贸职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南四达检测技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "高电压与电磁兼容北京市重点实验室(华北电力大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新能源电力系统国家重点实验室(华北电力大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司宁波供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京信息科技大学自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交第二航务工程勘察设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交(苏州)城市开发建设有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交水运规划设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家电力投资集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国石油集团东方地球物理勘探有限责任公司西南物探分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西壮族自治区地理信息测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省国土资源测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省自然资源科技协同创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南理工大学测绘与国土信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省制图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济宁市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省第一地质矿产勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东科技大学地球科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省物化探勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州中医药大学公共卫生与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省中医药局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河水土保持绥德治理监督局(绥德水土保持科学试验站)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北龟山广播电视发射台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国大唐集团科学技术研究院有限公司西北电力试验研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "开封文化艺术职业学院体育教学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南大学体育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中电建铁路建设投资集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏农牧学院高原生态研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏林芝高山森林生态系统国家野外科学观测研究站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏高原森林生态教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏生态安全联合重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东北林业大学园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部第一海洋研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家深海基地管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛海洋科学与技术试点国家实验室海洋地质过程与环境功能实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京大学地理与海洋科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东工业大学建筑与城市规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁道科学研究院集团有限公司节能环保劳卫研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中水北方勘测设计研究有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省水务投资有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南师范大学地理学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地震局地质研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江农林大学暨阳学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "地泰克工程勘察(上海)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省林业调查规划院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "楚雄州森林和草原资源监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桐城市规划建筑设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海师范大学青海省自然地理与环境过程重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青藏高原地表过程与生态保育教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林大学地球探测科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省水文工程地质勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南智联时空信息科技有限公司工程部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原理工大学水利科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学测绘遥感信息工程国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市静安区消防救援支队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华为终端有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁夏理工学院电气信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林省林业勘察设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "商洛学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省庄浪县自然资源局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南大学土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "建筑安全与节能教育部重点实验室(湖南大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "阿坝师范学院资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省屏南县林业局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省生态气象和卫星遥感中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省安顺市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学核资源与环境国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学江西省数字国土重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省地质局第十地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团西北勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省医疗器械检验所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "梧州水文中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司云浮供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "厦门理工学院体育部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长沙理工大学交通运输工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东北财经大学投资工程管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东北财经大学工程管理研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)地球科学与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国自然资源航空物探遥感中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川建筑职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南交通大学地球科学与环境工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南科技大学地理信息科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南科技大学地理空间信息技术国家地方联合工程实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北科技学院资源环境科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团华东勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原市国土资源勘测有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉电力职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉供电设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学环境科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学西南野生动植物资源保护教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学嘉陵江流域生态环境保护与污染防治南充市重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学生命科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省地质矿产勘查开发局区域地质调查队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省天府容大信息科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省豫北水利勘测设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "乌鲁木齐气象卫星地面站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆维吾尔自治区农业气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆维吾尔自治区测绘科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "赤峰水文水资源分中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽中烟工业有限责任公司蚌埠卷烟厂",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东电工电气集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东电工电气日立高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南省水利电力集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中水珠江规划勘测设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力建设集团华东勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市交通公用设施建设中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交一公局集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国自然资源航空物探遥感中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部航空地球物理与遥感地质重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "衡阳师范学院城市旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "建设综合勘察研究设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州全成多维信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南省气候中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南省南海气象防灾减灾重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网福建省电力有限公司泉州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新东北电气集团高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第五勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省地质测绘技术院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "招远市政府投资工程建设服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桥梁结构健康与安全国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁大桥科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市城市规划设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州市中心区交通项目管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东莞理工学院生态环境与建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁隧道局集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州一建建设集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西理工大学地理科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北大学陕西省地表系统与环境承载力重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京交通大学土木建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林建筑科技学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长春市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桂林理工大学土木与建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质科学院岩溶地质研究所/自然资源部广西岩溶动力学重点实验室/中国地质调查局岩溶塌陷防治重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市涪陵页岩气环保研发与技术服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市页岩气开发环境保护工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市涪陵区生态环境监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州民族大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南海石油联合服务总公司气象服务公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西水利电力勘测设计研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市宝安区沙井预防保健所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市疾病预防控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网西安供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学电气与自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东北石油大学化学化工学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国石油工程项目管理公司天津设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司上海电科院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海睿深电子科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东大学电气工程学院山东省特高压输变电技术与装备重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网重庆市电力公司检修分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆大学输配电装备及系统安全与新技术国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网重庆市电力公司市北供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "绍兴市炬鑫勘测规划设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建船政交通职业学院机械与智能制造学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中电普瑞电力工程有限公司研发中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中电普瑞电力工程有限公司工程中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中核第四研究设计工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中水东北勘测设计研究有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省无锡环境监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "无锡市汽车工程学校",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学体育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学体育学院(校本部)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学马克思主义理论博士后科研流动站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南阳师范学院体育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质调查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "烟台市地质环境监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "聊城大学农学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "聊城大学建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网安徽省电力有限公司超高压分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司临沂供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "ABB电网投资(中国)有限公司厦门分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州市城市规划勘测设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中电建十四局城市建设投资有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏农牧学院资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏高原森林生态教育部重点实验室(西藏农牧学院)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆策勒荒漠草地生态系统国家野外科学观测研究站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学水利与土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学经济与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学水利工程仿真与安全国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团昆明勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "马鞍山市人防工程建设管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "马鞍山勘察设计协会",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省交通工程集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉理工大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平芝高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏农牧学院高原生态研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏林芝高山森林生态系统国家野外科学观测研究站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏高原森林生态教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏自治区生态安全联合重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省林业和草原调查规划院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安电子科技大学通信工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省城乡规划设计研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河北省电力有限公司保定供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "石家庄华电供热集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司佛山供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司中山供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司中山供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平高电气股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电网有限责任公司研究生工作站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电力技术有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京林业大学汽车与交通工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "绍兴市勘察测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省自然资源征收中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "全球能源互联网研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨师范大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东建筑大学艺术学院风景园林科学研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省煤田地质局测绘大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电网有限责任公司大理供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省地质测绘技术院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华东冶金地质勘查局八一五地质队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省地质环境监测总站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西师范大学环境与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西师范大学可持续发展创新研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "岩溶生态与环境变化研究广西高校重点实验室广西师范大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省基础测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省柴达木综合地质矿产勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滇西应用技术大学地球科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省高校山地实景点云数据处理及应用重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国电南京自动化股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "厦门水务原水投资运营有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网江苏省电力有限公司沛县供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "景德镇市地质灾害应急中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉邮电科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省水利水电科学研究院广东省山洪灾害防治工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古电力勘测设计院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "水利部水利水电规划设计总院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院地质与地球物理研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "水电水利规划研究总院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南国土资源职业学院国土空间信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国水利水电第十四工程局有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南经贸外事职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "徐州工程学院管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省交通运输规划研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京师范大学电气与自动化工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南瑞集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司武汉分院电网环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东理工大学建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国交通通信信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院地理科学与资源研究所资源与环境信息系统国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三峡大学电气与新能源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁路设计集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京大学地理与海洋科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "晋中市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南电网有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省测绘资料档案馆",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽理工大学空间信息与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国建筑材料工业地质勘查中心青海总队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桂林理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西工勘岩土工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省煤田地质局测绘大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省勘察设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川九洲视讯科技有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省测绘技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部金矿成矿过程与资源利用重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省金属矿产成矿地质过程与资源利用重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团西北勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江鸿业远图地理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海克斯康测绘与地理信息系统(青岛)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "核工业华东二六三工程勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省自然资源档案馆",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省测绘工程院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东建筑大学测绘地理信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省测绘工程院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南机场集团有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杨凌职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省地下水工程及地热资源重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省地质环境监测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网冀北电力有限公司经济技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学经济与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北大学城市与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "咸阳市农业科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网电力科学研究院武汉南瑞有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆大学资源与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆大学绿洲生态教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学土木与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网辽宁省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网辽宁省电力有限公司物资分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "同济大学环境科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)土地科学技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部土地整治重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学草业与草原学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省岭南综合勘察设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省农业遥感与经济作物气象服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省气象局秦岭和黄土高原生态环境气象重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省土地工程建设集团有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国移动通信集团广东有限公司深圳分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东彼岸电力科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省高校国产高分卫星遥感地质工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学金山学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "复兴高级中学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华东师范大学第二附属中学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京中森国际工程咨询有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "漳州市龙文区自然资源局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "应急管理部天津消防研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)水资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省地矿局第四地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学(北京)国家煤矿水害防治工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北九华勘查测绘有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电力设备电气绝缘国家重点实验室(西安交通大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网江苏省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国海洋大学工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "齐鲁工业大学(山东省科学院)海洋仪器仪表研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司佛山供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省电力勘测设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉理工大学自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山西省电力公司检修分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山西省电力公司输电检修分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电力设备电气绝缘国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都师范大学资源环境与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都师范大学三维信息获取与应用教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "信阳师范学院地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川农业大学风景园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南农业大学资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省土壤肥料站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学环境与测绘学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "石家庄铁路职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学应用科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省资源环境信息工程重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司经济技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市长寿区气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海陆地理信息集成与应用国家地方联合工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学土木与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团西北勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛理工大学建筑与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京林业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁三局集团电务工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州交通大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省地质局水文地质工程地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省地质环境总站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "资源与生态环境地质湖北省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司青浦供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网吉安市吉安县供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京龙软科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京大学地球与空间科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省科学院地质自然灾害防治研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州大学资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地质灾害防治与地质环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国人民公安大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁省公安厅",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁警察学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州航空工业管理学院体育与公共艺术部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市生态环境局天桥分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "普卓环保科技(山东)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江长征职业技术学院智能技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江工业大学计算机科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司临沂供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杨凌职业技术学院交通与测绘工程分院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安地图出版社有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安云图信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西地理信息测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省测绘科学技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江省第五测绘地理信息工程院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省国土测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨陆军预备役炮兵旅",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质调查局沈阳地质调查中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁省建筑设计研究院岩土工程公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北理工大学矿业工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院地理信息与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "实景地理环境安徽省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "赣江上游水文水资源监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学资源与环境工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南师范大学新联学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "佛山世寰智能科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沙湾县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平芝高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学水利工程仿真与安全国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市建筑科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥学院旅游与会展学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州电网有限责任公司电力科学研究院中国",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉理工大学中国",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州电网有限责任公司凯里供电局中国",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北方工程设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司青浦供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥财经职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁东科电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网四川省电力公司泸州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网四川省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团西北勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "厦门市城市规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北工业大学建筑与艺术设计学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市政工程设计研究总院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津滨海高新技术产业开发区建设和交通局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力科学研究院广东省电力装备可靠性企业重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学新能源电力系统国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学北京市高电压与电磁兼容重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "卡迪夫大学先进高压工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力公司勉县供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学电气与自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网重庆市电力公司江北供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网重庆市电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆师范大学地理与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "地理信息系统应用研究重庆市高校重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质调查局牡丹江自然资源综合调查中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市燃气集团股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南师范大学地理学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地震局地质研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁路设计集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河交通学院艺术设计系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江大学水利电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江大学寒区地下水研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林省水利水电勘测设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西壮族自治区地质环境监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉轻工大学土木工程与建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宝鸡文理学院陕西省灾害监测与机理模拟重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东生态工程职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中山大学地理科学与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省公共安全与灾害工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国气象局广州热带海洋气象研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中冶集团武汉勘察研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清远蓄能发电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学深地科学与工程教育部重点实验室四川大学建筑与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省水利电力勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "连云港港口工程设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "连云港港口控股集团技术研发中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "连云港港口控股集团赣榆有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交第一航务工程勘察设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桂林理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆交通大学土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国移动通信集团设计院有限公司黑龙江分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京传媒学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江农林大学环境与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省龙泉市林业局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江农林大学省部共建亚热带森林培育国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省达州市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省大竹县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省南充市高坪区气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方丘区节水农业研究四川省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省林业调查规划院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省长江造林局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(武汉)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网辽宁省电力有限公司辽阳供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北美术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济宁市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州闽地勘测规划有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省杭州市临安区农林技术推广中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州市房产档案馆",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "信阳师范学院地理科学学院/河南省水土环境污染协同防治重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网天津市电力公司电缆分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杨凌职业技术学院动物工程分院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杨陵区行政审批服务局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州资源环境职业技术学院测绘与地理信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北师范大学地理与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省第三地质矿产勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "台湾大学建筑与城乡规划所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "厦门理工学院设计艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江大学建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京市长江河道管理处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "泰州市自然资源和规划局泰州市自然资源信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳城市建设学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁二院工程集团有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁西北科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市农业科学院生态环境保护研究所农业部上海农业环境与耕地保育科学观测实验站上海市农业环境保护监测站上海低碳农业工程技术研究中心上海市设施园艺技术重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海海洋大学海洋生态与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网青海省电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黔南民族师范学院旅游与资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古自治区地图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黔南景区溶洞资源开发与生态环境保护工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中南林业科技大学风景园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省交通运输厅规划与项目办公室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省交通科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电力设备电气绝缘国家重点实验室(西安交通大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安西电开关电气有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省基础地理信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都师范大学资源环境与地理信息系统北京市重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都师范大学三维信息获取与应用教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都师范大学城市环境过程与数字模拟国家重点实验室培育基地",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京国图信息产业有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国民用航空飞行学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网雄安新区供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兴城市自然资源事务服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京铁路通信技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司滨州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建工程学院建筑与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州大学建筑与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京外企科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安市自然资源和规划信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津城建大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交水运规划设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力调度控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网数字电网研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北工业大学新能源及电网装备安全监测湖北省工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电网环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学电气自动化与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳供电局有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网辽宁省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "厦门理鹭信息产业有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁师范大学教育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁警察学院安全保卫系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳大学湾区教育研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁夏气象防灾减灾重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省送变电工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖南省电力有限公司益阳供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "明阳智慧能源集团股份公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司中山供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国民用航空青岛空中交通管理站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省水利电力勘测设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江空间信息技术工程有限公司(武汉)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团成都勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽农业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省国土空间规划院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京交通大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北大学地质学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大陆动力学国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳农业大学经济管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "赤峰市红山区东城街道办事处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "92228部队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海军工程大学舰船综合试验训练基地",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省交通规划勘察设计院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南大学历史与档案学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院实景地理安徽省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海第二工业大学计算机与信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京航空航天大学计算机科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏师范大学地理测绘与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北农业大学国土资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南华电鲁地拉水电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省国土资源技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "徐州市伟思水务科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏建筑职业技术学院信电工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省地矿局测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学土壤生态系统健康与调控高校重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平江县长寿生态林场",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家林业和草原局昆明勘察设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "枣庄学院旅游与资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江省气象灾害防御技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛理工大学建筑与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(武汉)地理与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳航空航天大学能源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳市勘察测绘研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨市平房区智慧城市服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网北京检修公司设备状态监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "奉节县水利局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国建筑材料工业地质勘查中心江西总队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京建工国通建设工程有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网黑龙江哈尔滨市双城供电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大连东软信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "邢台市气象灾害防御中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平乡县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西师范大学地理科学与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江勘测规划设计研究有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江空间信息技术工程有限公司(武汉)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省水利信息感知与大数据工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃农业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州市城乡规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国农业大学土地科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省地质调查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京林业大学风景园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "临矿集团株柏煤矿",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北环境工程学院环境科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "秦皇岛职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学环测学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "佛山科学技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学土木与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南宁市勘察测绘地理信息院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "镇江市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西壮族自治区地理信息测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京森林警察学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏警官学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省南京市公安局栖霞分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁二院工程集团有限责任公司BIM中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃电器科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省环境科学研究设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省农业科学院水产研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省特种水产工程技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃建筑职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省自然资源规划研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "朝阳区消防救援支队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司嘉定供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省测绘产品质量监督检验中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司恩施供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北方源东力电力科学研究有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽理工大学土木建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国环境科学研究院环境基准与风险评估国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北大学城市与环境学院陕西省地表系统与环境承载力重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院地理科学与资源研究所陆地水循环及地表过程重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院武汉岩土力学研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(武汉)工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第一勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "龙源贵州风力发电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东正元地球物理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东置信勘测规划信息工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省地球物理空间信息研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省地下空间探测信息工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学建筑与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏师范大学地理测绘与城乡规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津农学院基础科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安山地测绘规划工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力调度控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网数字电网研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力调度控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网数字电网研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河勘测规划设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山西省电力公司检修分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山西省电力公司输电检修分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳工业大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网西安供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力公司经济技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电力设备电气绝缘国家重点实验室(西安交通大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海思源弘瑞自动化有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江门职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃四维测绘工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司宁波供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长缆电工科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "临沂矿业集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中水北方勘测设计研究有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京师范大学地理科学学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "易智瑞信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "地理信息世界",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省地图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桂林理工大学测绘地理信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川建筑职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省地质环境勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河水利委员会黄河水利科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河水利委员会水旱灾害防御局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北方工业大学电气与控制工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质调查局牡丹江自然资源综合调查中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长春师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院西北生态环境资源研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州大学资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华南理工大学电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网科学研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁建大桥设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁建股份有限公司桥梁工程实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省地质环境监测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学水利与建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学旱区农业水土工程教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海电力大学电子与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海格鲁布科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海电机学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国人民解放军战略支援部队信息工程大学地理空间信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省环境科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院西北生态环境资源研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学电气与自动化工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "积成电子股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网内蒙古东部电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北水利水电大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南工程学院南水北调与黄河流域生态环境研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海交通大学电子信息与电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电力传输与功率变换控制教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "地质灾害防治与地质环境保护国家重点实验室(成都理工大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江勘测规划设计研究有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家大坝安全工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学大禹学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质矿产勘查开发局第二水文地质工程地质大队/山东省鲁北地质工程勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省动物疫病预防控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西师范大学生命科学学院西北濒危药材资源开发国家工程实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家科技基础条件平台中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网江苏省电力有限公司建设分公司项目管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃中医药大学公共卫生学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃中医药大学经贸与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网新疆电力有限公司乌鲁木齐供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南大学电气与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网福建省电力有限公司莆田供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江水利水电学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省有色金属地质勘查局张掖矿产勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "深圳市水务规划设计院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海宝冶集团有限公司建筑设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中南大学地球科学与信息物理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省城市空间信息工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省测绘科学技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "台州市地理信息测绘中心有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "临海市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "创辉达设计股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省不动产登记中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东农业大学信息科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省物化探勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质勘查工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省土壤地球化学工程试验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "曲阜师范大学地理与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院科技战略咨询研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学电气与电子工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方电网科学研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河北省电力有限公司超高压分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "渭南师范学院物理与电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南金田建筑规划设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吕梁学院生命科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国农业科学院农业经济与发展研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国测绘科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网安徽省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网安徽省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川赛康智能科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第一勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "轨道交通工程信息化国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州市林业产业发展中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华中农业大学园艺林学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北林业信息工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安西电开关电气有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司超高压输电公司柳州局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司超高压公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司直流中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国水利水电第七工程局有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁路北京局集团有限公司科技和信息化部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大庆油田呼伦贝尔分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省特种设备检验研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省国土测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省气象防灾减灾重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省气象灾害防御技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省第八地质矿产勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津理工大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津生态城国有资产经营管理有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大连海事大学航海学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东交通职业技术学院机电工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东汉佳信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古科技大学信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京华天机电研究所有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古自治区光热与风能发电重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国华电集团公司江苏望亭发电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江航道规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北交通投资集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京交通大学土木建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西理工大学地理科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆大学输配电装备及系统安全与新技术国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西国防工业职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西应用科技学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山西省电力公司超高压输电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南测绘职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江空间信息技术工程有限公司(武汉)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院地理信息与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省测绘科学技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滇西科技师范学院智能与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海市大数据中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁工程技术大学测绘与地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "昆明冶金高等专科学校测绘学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南师范大学地理学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学资源与地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西能源凉水井矿业有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省核工业地质局辐射环境监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东核力工程勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南国土资源职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电力设备电气绝缘国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥市测绘设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "银川市勘察测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆理工大学车辆工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆长安汽车股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海交通大学电子信息与电气工程学院电气工程系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "全球能源互联网欧洲研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海山南勘测设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省水文水资源勘测局徐州分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁夏送变电工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安西电电工材料有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖南省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学电气与电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆师范大学地理与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京电子科技职业学院经济管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市第三十五中学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古自治区宁城县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市勘测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国能朔黄铁路发展有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁道科学研究院集团有限公司铁道建筑研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁道科学研究院集团有限公司铁道建筑研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州大学林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学公共管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中南大学土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司超高压输电公司广州局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中南大学土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司超高压输电公司广州局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省地质测绘地理信息院青海省高原测绘地理信息新技术重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省环境地质勘查局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南农业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省有机茶产业智能工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省高校智能有机茶园建设重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省农业科学院茶叶研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "传奇电气(沈阳)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司潍坊供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海民族大学生态环境与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海民族大学土地资源勘测与规划实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省青藏高原生态环境研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津师范大学地理与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "高原与盆地暴雨旱涝灾害四川省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省气候中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市历城区疾病预防控制中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "瑞金市大柏地乡人民政府",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "瑞金市谢坊镇人民政府",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海金山供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学电力工程系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河池市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京林业大学汽车与交通工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河交通学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江理工大学建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江青墨工程勘察设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安高压电器研究院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海口海洋地质调查中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北冶金地质研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北电力大学高电压与电磁兼容北京市重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省干旱生境作物学重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃农业大学资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国移动通信集团江西有限公司信息技术部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都信息工程大学大气科学学院高原大气与环境四川省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南方丘区节水农业研究四川省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "德阳市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省农业气象中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省送变电工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网冀北电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "庆阳长庆工程检测有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西应用科技学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(武汉)工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省汕尾生态环境监测站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京大学遥感与地理信息系统研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中煤能源研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京龙软科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中煤陕西榆林能源化工有限公司大海则煤矿",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江理工大学建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南天士力三七药业有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津天士力现代中药资源有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市中药资源研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省水利水电勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安建筑科技大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清华大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "城市水资源与水环境国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨工业大学环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "嘉兴市国土空间规划研究有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江华云信息科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国计量大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东电力研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网山东省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "寿光市地理信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州城市信息研究所有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆维吾尔自治区第一测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏农牧学院高原生态研究所/西藏林芝高山森林生态系统国家野外科学观测研究站/西藏高原森林生态教育部重点实验室/西藏自治区生态安全联合实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "渭南职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安工业大学机电工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市测绘设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "城市空间信息工程北京市重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中南建筑设计院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "正元地理信息集团股份有限公司研发中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东莞市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁省自然资源事务服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽理工大学空间信息与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宿州学院资源与土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "苍穹数码技术股份有限公司合肥分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省地质矿产勘查开发局水文地质工程地质勘察院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平高电气股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁桥隧技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南充水务投资(集团)有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网陕西省电力有限公司建设分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北农业大学国土资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北易县自然资源和规划局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北农业大学资源与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省农田生态环境重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国防科技大学气象海洋学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西省气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "95903部队气象台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西省红枣重点实验室延安大学生命科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院西北生态环境资源研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国人民解放军92001部队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海军大连舰艇学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中煤科工集团常州研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天地(常州)自动化股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司广州供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "咸阳师范学院设计学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安高压电器研究院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清华四川能源互联网研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州理工大学电气工程与信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江工业大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安文理学院生物与环境工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市滨海新区规划编制研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院空天信息创新研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "津然华润燃气有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南科技大学园艺与植物保护学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "洛阳市生态景观设计重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁道科学研究院集团有限公司电子计算技术研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业科学院土壤肥料与农业节水研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆九圣禾种子标准研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东钢铁集团日照有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京大学地球科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆大学地理与遥感科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆大学新疆绿洲生态重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司广州供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆交通大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "绵阳师范学院生态安全与保护四川省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省甘孜州白玉县林业和草原局白玉县自然保护区服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学传播科学与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内江师范学院地理与资源科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内江师范学院国际教育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北方工业大学建筑与艺术学院建筑系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古科技大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西壮族自治区河池市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天峨县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网甘肃省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国投小三峡发电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省烟草公司文山州公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省农业科学院农业环境资源研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东交通学院交通与物流工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南农业大学风景园林与艺术学院河南省风景园林国际联合实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南农业大学园林园艺学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "匈牙利农业与生命科学大学风景园林和景观生态学博士院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄河交通学院艺术设计系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉市政工程设计研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东粤路勘察设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "伊通满族自治县国土空间利用服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海城建城市运营(集团)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海浦江桥隧运营管理有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西大学历史文化学院暨民间文献与研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原师范学院历史地理与环境变迁研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原师范学院山西省城乡统筹协同创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三和数码测绘地理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市勘察测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "忻州市生态环境局东部区域监测技术保障中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省交通勘察设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "交通运输部BIM技术应用行业研发中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都大学建筑与土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "茂名市环境技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网青海省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "临沧市水利水电勘测设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西国土资源规划设计集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华蓝设计(集团)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中山大学地理科学与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华南师范大学地理科学学院/亚洲地理研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华南师范大学北斗研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学园林学院海峡美丽乡村人居环境研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省农林工业勘察设计研究总院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北省林业科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限荆州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司孝感供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "白鹤滩水力发电厂",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉理工大学自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电网环境保护国家重点实验室(中国电力科学研究院有限公司)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华中科技大学电气与电子工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市消防救援支队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁工程技术大学矿业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大连工业大学艺术设计学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大连市自然资源事务服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁德职业技术学院茶学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平芝高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国建筑科学研究院有限公司建筑防火研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国城市规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京师范大学减灾与应急管理研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南宁市勘测设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南宁市城市建设档案馆",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省有色金属和核工业地质局地质勘测设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省浙南综合工程勘察测绘院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "萍乡市国土资源勘测设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江地理信息工程院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "嘉应学院计算机学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国南方电网有限责任公司超高压输电公司广州局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西藏大学理学院工学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省基础地理信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华中科技大学公共管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华中科技大学体育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南公共交通集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨国铁科技集团股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳水务集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市工程咨询有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省水利水电勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林师范大学旅游与地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳燃气有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁工程技术大学测绘与地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州市政府信息资源管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京华星勘查新技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建船政交通职业学院机械与智能制造学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网福建省电力有限公司福州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网青海省电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省航空物探遥感中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国民航中南地区空中交通管理局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国煤炭地质总局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁建房地产集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁房地产集团设计咨询有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽建筑大学建筑与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南电网有限责任公司昆明供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院烟台海岸带研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院海岸带环境过程与生态修复重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省海岸带环境过程重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东师范大学地理与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长沙迪迈数码科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学农学院农林有害生物监测与安全防控重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省森林培育与保护利用重点实验室/广东省林业科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "桂林理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳农业大学土地与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学地球科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学江苏省水资源环境遥感监测评估工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "信息工程大学地理空间信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "信息工程大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州轻工业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "镇江市地震台",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "大连市气象信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院地理信息与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司嘉兴供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中核核电运行管理有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安顺学院资源与环境工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安顺学院经济与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省娄底市森林资源监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南文理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "遵义市水利水电勘测设计研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳建筑大学交通与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳建筑大学高等教育研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东北林业大学工程技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京晓庄学院环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京师范大学虚拟地理环境教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团昆明勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南联合电力开发有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西医科大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林大学公共卫生学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西医科大学公共卫生学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学公共政策与管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司营销服务中心(计量中心)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司经济技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司直流中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽建筑大学环境与能源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省城乡绿色发展和城市更新研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省智慧城市工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京市工程地质研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西兰花同宝煤业有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原理工大学水利科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "太原理工大学矿业工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省地质环境监测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省地质矿产勘查开发局117地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质调查局武汉地质调查中心(中国地质科技创新中心)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州工程应用技术学院矿业工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西理工大学土木与测绘工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学综合设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网浙江省电力有限公司温州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中建材西南勘测设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北经济学院智慧建造中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北经济学院法商学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆市电力公司璧山供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网甘肃省电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国投小三峡发电有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "苏州市自来水有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁二十四局集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省计算机研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网江苏省电力有限公司镇江供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学能源与电气学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国航空规划设计研究总院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北农业大学林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山合林(北京)水土保持技术有限公司水利部沙棘开发管理中心(水利部水土保持植物开发管理中心)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北金洋环境科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华中师范大学信息管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广州电力设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁北方精密装备有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新程(营口)精密设备有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新泰(辽宁)航天精铸有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁北方精密装备有限公司沈阳分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安欧亚学院人居环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江科技大学矿业工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江科技大学安全工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黑龙江工业学院资源工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "凉城县档案史志馆",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家税务总局凉城县税务局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司浦东供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南华大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南省健康城市营造工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "岳阳市自然资源和规划局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长沙理工大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南师范大学地理学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院成都山地灾害与环境研究所山地灾害与地表过程重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国科学院大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑煤集团新郑煤电有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "正元地理信息集团股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南科技大学环境与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁工程技术大学电气与控制工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网冀北电力有限公司北京超高压公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁省朝阳水文局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州电网有限责任公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质调查局成都地质调查中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北地质大学资源与环境工程研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南四达检测技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南宇鸿林业规划设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "海南大学林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏地质矿产设计研究院(中国煤炭地质总局检测中心)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海交通大学电气工程系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "赤峰市自然资源储备中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部黑龙江基础地理信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北水利水电大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建师范大学旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南科技大学环境与资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地质灾害防治与地质环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃交通职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学土木与水利工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "温州市瓯海测绘工程院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网天津市电力公司电缆分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东华理工大学地球科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省华亭市自然资源局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京速测信息科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "楚雄师范学院资源环境与化学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省地矿测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "航天宏图信息技术股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "延边大学融合学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨师范大学寒区地理环境监测与空间信息服务黑龙江省重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林市城乡规划研究院规划信息所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "延边大学人文社会科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安高压电器研究院股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清华四川能源互联网研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新东北电气集团高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学电气与自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "东南大学能源与动力工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网天津市电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "特变电工中发上海高压开关有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网重庆市电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆大学材料科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京森林警察学院治安系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "晋能控股装备制造集团科技信息部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新东北电气集团高压开关有限公司沈阳电力科技开发分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "呼伦贝尔市林业和草原科学研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "呼伦贝尔市林业和草原事业发展中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "承德市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北石油职业技术大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省公路规划勘察设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南交通大学土木工工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁路上海铁路局集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国广电河南网络有限公司融媒业务事业部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省职工医院院办",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省职工医院科研教学科",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省职工医院护理部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省职工医院神经内科",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "许昌学院信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东省岭南综合勘察设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西省临汾生态环境监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江泓一环保科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杭州市环境保护有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省环境科学学会",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青岛西海岸新区自然资源局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "邯郸科技职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北广电网络集团邯郸有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电力设备电气绝缘国家重点实验室(西安交通大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南测绘职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州大学水利科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省地矿局第四水文工程地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京龙软科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京大学地球与空间科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北工业大学电气与电子工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南四达电力设备股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网甘肃省电力公司兰州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网甘肃省电力公司发展事业部(经济技术研究院)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖南超高压变电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "变电智能运检国网湖南省电力有限公司实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖南省电力有限公司益阳供电分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南宁市勘测设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建水利电力职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黎明职业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林体育学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京南瑞继保电气有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃工业职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江省台州市自然资源和规划局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电子科技集团公司第五十四研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁波大学潘天寿建筑与艺术设计学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "宁夏大学地理科学与规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市房产测绘研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "济南市城乡建设发展服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "延吉市规划勘测设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳市城市测绘有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "杭州市规划和自然资源调查监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西应用科技学院建工学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "吉林农业科技学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学水文水资源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学地理空间智能与流域科学研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河海大学地理信息科学与工程研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "水利部防洪抗旱减灾工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国水利水电科学研究院防洪抗旱减灾研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "哈尔滨师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网青海省电力公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学艺术学院园林学院合署",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网安徽省电力有限公司建设分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京汇智通科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "泰瑞天际科技(北京)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源部信息中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖北工业大学新能源及电网装备安全监测湖北省工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网电力科学研究院武汉南瑞有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉大学动力与机械学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "电网环境保护国家重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平顶山学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽理工大学土木建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "潍坊市规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "潍坊市自然资源和规划局奎文分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省地图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北师范大学地理与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古自治区气象服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "易景环境科技(天津)股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东工贸职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳市勘察测绘研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北普冠地理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "凯里学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南农业大学大数据学院/云南省农业大数据工程技术研究中心/绿色农产品大数据智能信息处理工程研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网天津市电力公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市电力物联网企业重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安交通大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉市勘察设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽省煤田地质局勘查研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中煤新集能源股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽理工大学地球与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省水文水资源测报中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "交通运输部规划研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东建筑大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清华大学电机工程与应用电子技术系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清华四川能源互联网研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京南瑞信息通信科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北地质大学土地科学与空间规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省农业干旱遥感监测国际联合研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "湖南环境生物职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "威海市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省国土测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "61206部队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学农学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆维吾尔自治区中药民族药研究所国家中医药管理局新疆中药民族药资源重点研究室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家电网有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网福建省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家电网有限公司东北分部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳工程学院电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "滁州学院地理信息与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "苏州中材建设有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省地质测绘地理信息院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省高原测绘地理信息新技术重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)水资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京矿产地质研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华北地质勘查局五一四地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质环境监测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆大学建筑城规学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆大学山地城镇建设与新技术教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆农业大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东润丰海洋工程咨询有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地图出版社有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学资源环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西北农林科技大学旱区农业水土工程教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北水利电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北省工业机械手控制与可靠性技术创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沧州市工业机械手控制与可靠性技术创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省甘孜卫生学校",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学生命科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学环境科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西华师范大学管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "安徽三联学院交通工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学·园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "闽南师范大学·生物科学与技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南林业大学生态与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南农业大学资源与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南开放大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州交通大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁师范大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西大学黄土高原研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京工业大学北京市物联网软件与系统工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京工业大学信息学部",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳工业大学电气工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川大学中国西部边疆安全与发展协同创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州师范大学历史与政治学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网思极神往位置服务(北京)有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司石嘴山供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "天津市测绘院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安思源学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东师范大学信息科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京交通大学土木建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "石河子大学水利建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京交通大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第一勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学经济管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南中医药大学信息技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国建筑材料工业地质勘查中心辽宁总队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三和数码测绘地理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长安大学地测学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "盘锦市水利勘测设计有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网福建省电力有限公司建设分公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福州大学电气工程与自动化学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "延边大学地理与海洋科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "延边大学东北亚研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "自然资源权益调查监测院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电建集团成都勘测设计研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国电力科学研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网黑龙江省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学资源与环境工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网甘肃省电力公司白银供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国电南瑞南京控制系统有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "晋能控股集团大斗沟煤业公司地测科",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海大学农牧学院农林系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三明市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三明市林业局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "昆明理工大学国土资源工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南地矿工程勘察集团公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南土地资源评价与监测重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川师范大学地理与资源科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建经纬测绘信息有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "沈阳市勘察测绘研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省水利勘测设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆地质矿产勘查开发局测绘大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "新疆宝地测绘有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国民用航空飞行学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "首都国际机场股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国海警局东海分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国航海图书出版社",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州交通大学交通运输学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "森林生态系统可持续经营教育部重点实验室(东北林业大学)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国城市规划设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京新航城智慧生态技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省地质测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省耕地质量与农业环境保护站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州地恒科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州市耕地质量保护站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省农业科学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "青海省气象服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网苏州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "华乘电气科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三和数码测绘地理信息技术有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省第三地质矿产勘查院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学建筑与艺术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学数字人居环境研究实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "苏州科技大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省菏泽市牡丹区自然资源局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南通市测绘院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南通市城市照明管理处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京林业大学信息学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国林业科学研究院森林生态环境与自然保护研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家林业和草原局森林生态环境重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西大岗山森林生态系统国家野外科学观测研究站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省林业与草原科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学园林学院艺术学院(合署)",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广东电网有限责任公司广州供电局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京大学地球与空间科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京龙软科技股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "平安煤炭开采工程技术研究院有限责任公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建农林大学园林学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南大学地理与环境学院/环境与规划国家级实验教学示范中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家管网北方管道公司管道科技研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁水利水电规划设计集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江西武大扬帆科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "生态环境部华南环境科学研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南平高电气股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家电网平高集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网宁夏电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司电力科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网湖北省电力有限公司检修公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京信息工程大学长望学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京信息工程大学地理科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京信息工程大学应用气象学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "广西壮族自治区地图院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三江学院历史与文化地图研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "三江学院科研处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京师范大学社会发展学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "辽宁省开原市自然资源保护事务服务中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网河南省电力公司郑州供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "郑州祥龙电力股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省能投攀枝花水电开发有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉市园林建筑规划设计研究院有限公司综合九院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉市规划研究院区域规划所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "枣庄市市中生态环境监控中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南理工大学测绘与国土信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "福建省地质调查研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省国土测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省特种设备检验研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "扬州大学水利科学与工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省高县气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省宜宾市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省达州市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国水利水电第十四工程局有限公司晋红高速公路运营管理中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃省白龙江林业科学研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "甘肃白龙江森林生态系统国家定位观测研究站",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "兰州大学生命科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省果树科学研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "清镇市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州省环境科学研究设计院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "乌当区气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵阳市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省宜宾市气象局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "嘉应学院地理科学与旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "嘉应学院教务处",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省林业调查规划院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省地震局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河北水利电力学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄山学院建筑工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "黄山学院旅游学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "贵州师范大学喀斯特研究院/地理与环境科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国家喀斯特石漠化防治工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南省资源环境调查一院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "泰山职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西安建筑科技大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "内蒙古科技大学建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "武汉理工大学安全科学与应急管理学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南测绘职业学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "西南林业大学生态与环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省水文水资源局大理分局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南开放大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中交第二航务工程勘察设计院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长江武汉航道工程局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "陕西理工大学地理科学系",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "常州市测绘院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "常州市地理信息智能技术中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京大学建筑与城市规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海营邑城市规划设计股份有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国地质大学(北京)信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网安徽省电力有限公司经济技术研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "合肥工业大学土木与水利工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "先进钢结构技术与产业化协同创新中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆交通大学土木工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "重庆交通大学建筑与城市规划学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "河南理工大学测绘与国土信息工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "云南省会泽县林业与草原局",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国建筑材料工业地质勘查中心内蒙古总队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "国网上海市电力公司市区供电公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "上海格鲁布科技有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山东省地质矿产勘查开发局第六地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第四勘察设计院集团有限公司地质路基设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第四勘察设计院集团有限公司工程勘察研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁二院工程集团有限责任公司工程经济设计研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国铁建BIM工程实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中铁第一勘察设计院集团有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "四川省生态环境科学研究院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学地球探测与信息技术教育部重点实验室",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "成都理工大学环境学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "北京农学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "浙江华东建设工程有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "山西大学电力与建筑学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "唐山工业职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "唐山市滨海软土工程技术研究中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "泉州市区应急备用水源调配中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "长沙理工大学",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省地质矿产局第五地质大队",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "中国矿业大学环境与测绘学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京大学大气科学学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏省苏州环境监测中心",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京工程学院电力工程学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "南京浦蓝大气环境研究院有限公司",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "江苏建筑职业技术学院",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"name": "建筑工业化与信息化应用技术研究所",
+		"coordinate": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	}
+]

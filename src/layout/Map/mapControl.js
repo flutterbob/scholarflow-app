@@ -2,13 +2,13 @@
  * @Author: yizheng
  * @Date: 2022-11-22 20:03:03
  * @LastEditor: yizheng
- * @LastEditTime: 2022-11-28 17:40:47
- * @FilePath: /scholarflow-app/src/layout/Map/mapControl.js
+ * @LastEditTime: 2022-11-28 21:24:42
+ * @FilePath: \scholarflow-app\src\layout\Map\mapControl.js
  * @Description:
  */
 
 /* global fetch */
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { Map } from 'react-map-gl';
 import DeckGL from '@deck.gl/react';
 import { GeoJsonLayer, ArcLayer } from '@deck.gl/layers';
@@ -24,7 +24,6 @@ export const inFlowColors = [
   [34, 94, 168],
   [12, 44, 132],
 ];
-
 
 export const outFlowColors = [
   [255, 255, 178],
@@ -92,8 +91,13 @@ export const MapControl = (props) => {
   const arcs = useMemo(() => calculateArcs(data, selectedCounty), [data, selectedCounty]);
 
   const filePath = './../../dataset/CNKI.txt';
-  CommonUtils.fileReader(filePath);
+  // CommonUtils.fileReader(filePath);
 
+  useEffect(() => {
+    // CommonUtils.getScholarInit();
+    CommonUtils.getScholarCityLink();
+    CommonUtils.getScholarProvinceLink();
+  }, []);
   const layers = [
     new GeoJsonLayer({
       id: 'geojson',
