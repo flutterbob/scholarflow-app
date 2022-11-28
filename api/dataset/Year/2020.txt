@@ -1,0 +1,3993 @@
+SrcDatabase-来源库:  期刊
+Title-题名:  基于FME的城市规划数据格式转换应用研究
+Author-作者:  于菲菲;
+Organ-单位:  福州市勘测院;
+Source-文献来源:  城市勘测
+Keyword-关键词:  FME;;规划数据;;CAD;;GIS;;格式转换
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  我校学子荣获“第十八届SuperMap杯高校GIS大赛”命题开发组挑战奖
+Organ-单位:  河北水利电力学院计算机科学与信息工程学院;
+Source-文献来源:  河北水利电力学院学报
+Keyword-关键词:  SuperMap;GIS;
+Year-年:  2020
+
+SrcDatabase-来源库:  辑刊
+Title-题名:  GIS遥感技术在建筑选址环节中的教学实践
+Author-作者:  汤煜;石铁矛;石羽;
+Organ-单位:  沈阳建筑大学建筑与规划学院;沈阳建筑大学空间规划与设计研究院;沈阳建筑大学设计艺术学院;
+Source-文献来源:  中国建筑教育
+Keyword-关键词:  GIS遥感技术;;建筑选址;;教学实践;;遥感影像;;场地分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在中学地理地图教学中的教育功能
+Author-作者:  薛敏;
+Organ-单位:  赣州市第四中学;
+Source-文献来源:  知识窗(教师版)
+Keyword-关键词:  GIS;;中学地理;;地图教学
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在水库溃坝淹没区域模拟及避难所设计
+Author-作者:  于洋洋;
+Organ-单位:  辽宁省防汛抗旱指挥部办公室;
+Source-文献来源:  水利科技与经济
+Keyword-关键词:  GIS;;水库;;淹没区域;;体积法;;避难所;;设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一种应用于GIS内部局部放电检测的新型光学传感系统
+Author-作者:  沈龙;钱国超;周仿荣;彭兆裕;马御棠;代维菊;夏昌杰;
+Organ-单位:  云南电网有限责任公司电力科学研究院;西安交通大学电气工程学院;
+Source-文献来源:  光电子技术
+Keyword-关键词:  气体绝缘组合电器设备;;局部放电;;光测法;;硅光电倍增器;;局部放电相位分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  高压电缆GIS终端环氧套管典型缺陷仿真与故障分析
+Author-作者:  周凤争;孟峥峥;宋鹏先;朱晓辉;李旭;朱明正;于洋;房晟辰;
+Organ-单位:  国网天津市电力公司电力科学研究院;
+Source-文献来源:  合成材料老化与应用
+Keyword-关键词:  高压电缆GIS终端;;环氧套管;;典型缺陷;;绝缘故障;;仿真分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和RS的保定市土地利用时空变化研究
+Author-作者:  卢秀丽;冀松;刘强;
+Organ-单位:  保定理工学院;
+Source-文献来源:  内蒙古科技与经济
+Keyword-关键词:  保定市;;土地利用时空变化;;地学信息图谱
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在钦廉林场森林资源管理中的应用
+Author-作者:  龙洁琼;
+Organ-单位:  广西壮族自治区国有钦廉林场;
+Source-文献来源:  乡村科技
+Keyword-关键词:  GIS技术;;森林资源管理;;资源清查;;档案管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的中学地理教学研究——以“喀斯特、海岸和冰川地貌”的教学为例
+Author-作者:  沈定洲;何彦雨;
+Organ-单位:  浙江省仙居县盂溪中学;澳门城市大学教育学院;
+Source-文献来源:  中小学实验与装备
+Keyword-关键词:  中学地理教学;人地协调观;GIS;地理核心素养;ArcGIS;GoogleEarth;区域认知;喀斯特;
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的环鄱阳湖生态经济区社会经济与地学背景空间相关分析
+Author-作者:  占莎莎
+Organ-单位:  东华理工大学
+Source-文献来源:  东华理工大学
+Keyword-关键词:  环鄱阳湖生态经济区;;社会经济;;地学背景;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于“三位一体”的GIS研究生创新能力培养研究与实践
+Author-作者:  刘美玲;刘湘南;
+Organ-单位:  中国地质大学(北京)信息工程学院;
+Source-文献来源:  测绘地理信息
+Keyword-关键词:  研究生;;创新能力;;思想理念;;培养方法;;培养过程
+Year-年:  2022
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS建模的城市盲道现状分析——以宁波市海曙区为例
+Author-作者:  高乐乐;王兴乐;周开晴;莫金文;
+Organ-单位:  宁波大学建筑工程与环境学院;
+Source-文献来源:  测绘地理信息
+Keyword-关键词:  盲道;;障碍点;;盲道现状;;盲道的GIS表达
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的宁夏路网空间特征研究
+Author-作者:  高玉祥;董晓峰;梁颖;
+Organ-单位:  北京交通大学土木建筑工程学院;北京交通大学建筑与艺术学院;
+Source-文献来源:  干旱区地理
+Keyword-关键词:  路网;;空间特征;;GIS;;改进网络分析法;;宁夏
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS与信息熵的长春市城市用地演变特征研究
+Author-作者:  吴旭影;张延军;于华岩;韦兰屹;程子朗;
+Organ-单位:  吉林大学地球科学学院;建银工程咨询有限责任公司吉林分公司;
+Source-文献来源:  世界地质
+Keyword-关键词:  城市用地;;规模;;结构;;长春市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在农业面源污染研究中的应用
+Author-作者:  黄瑜;刘佩诗;甘曼琴;Nebiyou Legesse;王慧慧;甘晓玉;郭龙;马友华;
+Organ-单位:  安徽农业大学资源与环境学院;
+Source-文献来源:  中国土壤与肥料
+Keyword-关键词:  农业面源污染;;GIS(地理信息系统);;大数据可视化;;模型;;空间分布与空间差异性;;污染风险评估及预警预测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  运用GIS的商品销售时空分布特征分析
+Author-作者:  张世良;
+Organ-单位:  宁德师范学院信息与机电工程学院;
+Source-文献来源:  宁德师范学院学报(自然科学版)
+Keyword-关键词:  时空分析;;Moran’s I指数;;自相关;;核密度
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统 (GIS) 在自然资源调查中的运用策略
+Author-作者:  侯见丁;
+Organ-单位:  交城县自然资源局;
+Source-文献来源:  智能城市
+Keyword-关键词:  地理信息系统;;GIS;;自然资源调查
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于电网GIS与气象数据融合的共享应用平台及其内嵌系统设计
+Author-作者:  伍弘;刘世涛;郝金鹏;杨凯;
+Organ-单位:  国网宁夏电力有限公司电力科学研究院;
+Source-文献来源:  宁夏电力
+Keyword-关键词:  电网GIS;;气象数据;;融合分析;;电网环境专题图;;风险预警
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  GIS内隔离开关故障检测系统的研发
+Author-作者:  杨凌志
+Organ-单位:  沈阳工程学院
+Source-文献来源:  沈阳工程学院
+Keyword-关键词:  GIS;;隔离开关;;机械特性;;分合闸;;故障诊断
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  桐庐县公墓用地空间格局时空演变特征研究
+Author-作者:  马凯丽
+Organ-单位:  浙江农林大学
+Source-文献来源:  浙江农林大学
+Keyword-关键词:  公墓;;GIS;;时空演变;;空间格局
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在工程地质测量中的应用分析
+Author-作者:  曹旋;
+Organ-单位:  新疆维吾尔自治区有色地质勘查局七0六队;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  GIS技术;;工程地质测量;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的遵义县域多维贫困测度及空间格局研究
+Author-作者:  史文涛;周林荣;马艳玲;
+Organ-单位:  遵义师范学院管理学院;
+Source-文献来源:  遵义师范学院学报
+Keyword-关键词:  多维贫困;;空间格局;;GIS;;遵义
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的唐山市主城区医疗资源空间格局分析
+Author-作者:  闫超群;刘亚静;
+Organ-单位:  华北理工大学矿业工程学院;
+Source-文献来源:  华北理工大学学报(自然科学版)
+Keyword-关键词:  医疗资源;;唐山市主城区;;空间格局;;均衡性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于格网GIS与灰色关联模型的崩滑流灾害孕灾环境研究
+Author-作者:  钱立辉;臧淑英;
+Organ-单位:  哈尔滨师范大学寒区地理环境监测与空间信息服务黑龙江省重点实验室;中国建筑材料工业地质勘查中心吉林总队;
+Source-文献来源:  地理信息世界
+Keyword-关键词:  长白朝鲜族自治县;;孕灾环境;;指标体系;;格网GIS;;灰色关联模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的秭归县地质灾害易发性分区评价
+Author-作者:  魏东;杨德一;
+Organ-单位:  湖北省地质局水文地质工程地质大队;
+Source-文献来源:  资源环境与工程
+Keyword-关键词:  地质灾害;;易发性分区;;GIS;;秭归县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的水库库坝区岩溶发育特征分析
+Author-作者:  卢功臣;张蕊;
+Organ-单位:  陕西省水利电力勘测设计研究院;
+Source-文献来源:  水科学与工程技术
+Keyword-关键词:  水库;;GIS;;遥感解译;;岩溶
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  跨GIS平台空间数据符号化及快速制图关键技术应用研究
+Author-作者:  王志强;刘伟;王学;倪元龙;
+Organ-单位:  山东省国土空间数据和遥感技术中心;山东元鸿勘测规划设计有限公司;
+Source-文献来源:  信息技术与信息化
+Keyword-关键词:  跨GIS平台;;空间数据;;符号化;;快速制图
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于RNN的故障预测算法及在GIS上的应用
+Author-作者:  张子贤;李敏;苗红霞;孙宁;
+Organ-单位:  河海大学物联网工程学院;国家电网江苏省电力公司检修分公司;
+Source-文献来源:  计算机测量与控制
+Keyword-关键词:  故障预测;;循环神经网络;;异常点;;气体绝缘开关
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于集聚度和GIS技术的江苏省医疗卫生资源公平性分析
+Author-作者:  王高玲;刘军军;严蓓蕾;朱笑笑;
+Organ-单位:  南京中医药大学卫生经济管理学院;盐城市第三人民医院办公室;江苏护理职业学院;南通市第三人民医院;
+Source-文献来源:  中国卫生统计
+Keyword-关键词:  医疗卫生资源;;空间集聚;;熵权TOPSIS法;;GIS;;公平性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS火灾风险评估——以南京市溧水区为例
+Author-作者:  张磊;
+Organ-单位:  南京市规划设计研究院有限责任公司;
+Source-文献来源:  科技与创新
+Keyword-关键词:  GIS;;火灾风险评估;;消防;;溧水区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于BIM+GIS的桥梁施工三维图形引擎的应用
+Author-作者:  蒋海里;付武荣;刘攀攀;
+Organ-单位:  上海公路桥梁(集团)有限公司;
+Source-文献来源:  中国市政工程
+Keyword-关键词:  BIM;;GIS;;桥梁施工;;全景展现;;管理平台
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的京杭大运河杭州段旅游景点空间分布特征分析
+Author-作者:  徐人杰;朱骏;钱思羽;
+Organ-单位:  浙江水利水电学院测绘与市政工程学院;
+Source-文献来源:  浙江水利水电学院学报
+Keyword-关键词:  京杭大运河;;旅游景点;;分布特征;;空间分析;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  分析GIS技术及其在道路交通信息化中的应用
+Author-作者:  展英达;
+Organ-单位:  苏交科集团股份有限公司;
+Source-文献来源:  数字技术与应用
+Keyword-关键词:  GIS技术;;道路交通信息化;;数据深层统一管理;;道路空间信息
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  利用遥感和GIS对伊朗最大红树林群体的变化进行检测和模拟（英文）
+Author-作者:  KOUROSH NIYA Ali;黄金良;
+Organ-单位:  厦门大学海洋与海岸带发展研究院;
+Source-文献来源:  华东师范大学学报(自然科学版)
+Keyword-关键词:  红树林;;土地变化模型;;格什姆岛;;波斯湾;;伊朗
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统与数字模型集成技术在变电站布置方案优化中的应用
+Author-作者:  乔卫东;陈博;张恒;魏晋;张栋;
+Organ-单位:  国网上海经研院;上海蓝色星球电力科技有限公司;
+Source-文献来源:  建筑技术开发
+Keyword-关键词:  变电站;;地理信息系统;;数字模型;;布置方案优化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统建设与应用探讨
+Author-作者:  黄燕娥;
+Organ-单位:  厦门集恩图造信息科技股份有限公司;
+Source-文献来源:  厦门科技
+Keyword-关键词:  地理信息系统;地理数据;地理信息数据库;地理信息系统软件;建设与应用;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  死因监测地理信息系统设计与实现
+Author-作者:  章诗韵;罗俊;陈晶;肖鹏;庞延辉;
+Organ-单位:  武汉市疾病预防控制中心;
+Source-文献来源:  医学信息学杂志
+Keyword-关键词:  武汉市;;死因;;监测;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于BIM+GIS的公路改扩建施工管理应用
+Author-作者:  李向阳;赵杰;申威;
+Organ-单位:  泰安市公路事业发展中心;山东省交通规划设计院有限公司全寿命周期BIM技术应用研发中心;
+Source-文献来源:  山东交通科技
+Keyword-关键词:  BIM+GIS;;公路改扩建;;施工管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的地下金属管线信息系统设计
+Author-作者:  李飞;
+Organ-单位:  广东科学技术职业学院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  GIS;;地下;;金属管线;;信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅析测绘工程地理信息系统GIS的应用
+Author-作者:  李晖;
+Organ-单位:  山东省第五地质矿产勘查院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  测绘工程;;地理信息系统;;GIS;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  体育设施特征与老年人体力活动的关系——基于加速度计和GIS的客观评估
+Author-作者:  张学桐;王竹影;孙洁莹;
+Organ-单位:  南京师范大学体育科学学院;
+Source-文献来源:  山东体育学院学报
+Keyword-关键词:  体力活动;;物质环境;;体育设施;;老年人
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  少角度X光成像三维重构算法在GIS检测中的应用
+Author-作者:  王志川;
+Organ-单位:  国网四川省电力公司;
+Source-文献来源:  全国智能用电工程建设经验交流会论文集(2020年)
+Keyword-关键词:  GIS;;X光成像;;三维重构
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的自然资源监测辅助系统设计与实现
+Author-作者:  吴飞;龚知凡;王伟凡;
+Organ-单位:  福建省基础地理信息中心;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  自然资源监测;;遥感;;地理信息系统;;信息化;;Addin
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地方高校GIS专业程序设计技能培养
+Author-作者:  胡最;
+Organ-单位:  衡阳师范学院城市与旅游学院;Department of Z-GIS University of Salzburg;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  GIS专业;;程序设计技能;;特征;;途径;;经验
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于高德API的轻量级控制点GIS系统研究
+Author-作者:  王凯;王宏涛;
+Organ-单位:  北京市勘察设计研究院有限公司;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  API;;控制点;;WebGIS;;Html5
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于格网GIS的五华县生态脆弱性评价
+Author-作者:  吴冰莲;钟广锐;
+Organ-单位:  嘉应学院地理科学与旅游学院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  格网GIS;;评价单元;;生态脆弱性;;评价体系;;五华县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于云平台的舰船地理信息系统智能化管理技术
+Author-作者:  尹素清;钱丽璞;
+Organ-单位:  河北体育学院计算机教研室;
+Source-文献来源:  舰船科学技术
+Keyword-关键词:  舰船地理信息系统GIS;;云计算;;云平台;;智能化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在城市规划中的应用
+Author-作者:  崔雪梅;崔贵玉;
+Organ-单位:  华北理工大学;阳原县自然资源和规划局;
+Source-文献来源:  智能建筑与智慧城市
+Keyword-关键词:  GIS;;城市规划
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于BIM+GIS的预应力混凝土管桩物料跟踪应用研究
+Author-作者:  郑好;王硕;吴建新;张涛;谢应强;
+Organ-单位:  中建一局集团第五建筑有限公司;
+Source-文献来源:  2020年全国土木工程施工技术交流会论文集（上册）
+Keyword-关键词:  BIM技术;;GIS;;协同管理平台;;物料跟踪;;预应力管桩;;总承包管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的南京市溧水区三生用地空间结构分析
+Author-作者:  冯新惠;夏敏;
+Organ-单位:  南京农业大学公共管理学院;
+Source-文献来源:  农村经济与科技
+Keyword-关键词:  三生用地;;空间结构;;溧水区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  交通规划中的GIS技术应用探讨
+Author-作者:  贾鹏鹏;
+Organ-单位:  交通运输部规划研究院;
+Source-文献来源:  综合运输
+Keyword-关键词:  交通规划;;GIS;;数据管理;;空间分析;;可视化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的不同时期冰川旅游服务潜力评价——以新疆维吾尔自治区为例
+Author-作者:  王世金;周蓝月;窦文康;颉佳;马兴刚;
+Organ-单位:  中国科学院西北生态环境与资源研究院冰冻圈科学国家重点实验室;中国科学院大学资源环境学院;
+Source-文献来源:  遥感技术与应用
+Keyword-关键词:  冰川;;旅游服务;;潜力评价;;新疆
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于排水模型与GIS技术的城市内涝预测方法
+Author-作者:  杨芳;刘长鑫;陈坤;
+Organ-单位:  苏州航天系统工程有限公司;
+Source-文献来源:  物联网技术
+Keyword-关键词:  城市内涝;;排水模型;;GIS;;内涝预测;;气象数据;;实时监测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  新疆智慧草原辅助决策评价系统开发与应用
+Author-作者:  李刚勇;彭建;闫洋;张楚婕;
+Organ-单位:  新疆维吾尔自治区草原总站;
+Source-文献来源:  草学
+Keyword-关键词:  智慧草原;;系统平台;;开发与应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于Web GIS的人员运动轨迹回放技术
+Author-作者:  李夏;
+Organ-单位:  煤炭科学技术研究院有限公司;煤矿应急避险技术装备工程研究中心;北京市煤矿安全工程技术研究中心;
+Source-文献来源:  煤矿安全
+Keyword-关键词:  Web GIS;;GeoServer;;OpenLayers;;运动轨迹回放;;A*搜索算法;;精确人员定位
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于无人机遥感和GIS技术的公路线路评估系统设计研究
+Author-作者:  余再富;李元松;闫海涛;戴哲;王玉;李新坤;
+Organ-单位:  武汉工程大学土木工程与建筑学院;中交第二公路勘察设计研究院有限公司;
+Source-文献来源:  路基工程
+Keyword-关键词:  无人机遥感;;GIS技术;;三维可视化;;地质选线;;地质灾害
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的巨厚煤层顶板突水危险性预测
+Author-作者:  龙良良;王生全;肖乐乐;牛超;
+Organ-单位:  西安科技大学地质与环境学院;陕西省煤炭绿色开采利用地质保障重点实验室;
+Source-文献来源:  煤矿安全
+Keyword-关键词:  顶板突水危险性;;GIS;;洛河组含水层;;富水性分区;;裂采比
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的金华市居民生活饮用水水碘地理空间分布情况分析
+Author-作者:  余新图;陈强;李文龙;
+Organ-单位:  金华市疾病预防控制中心;
+Source-文献来源:  中国公共卫生管理
+Keyword-关键词:  饮用水水碘;;GIS;;地理分布;;空间分析;;防控措施
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的隧道洞口边坡的稳定性分析
+Author-作者:  魏新江;张阳;陈浙江;韩同春;
+Organ-单位:  浙江大学建筑工程学院;浙江大学城市学院土木工程学系;金华市公路管理局;金华市交通投资集团有限公司;
+Source-文献来源:  公路工程
+Keyword-关键词:  隧道工程;;洞口段;;地理信息系统(GIS);;边坡稳定分析;;三维边坡模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和层次分析法的清原县地质灾害易发性评价
+Author-作者:  朱霞;张戈;颜秉英;张旭升;
+Organ-单位:  辽宁师范大学;黑龙江科技大学;辽宁省水文地质工程地质勘察院;
+Source-文献来源:  河北地质大学学报
+Keyword-关键词:  清原县;;地质灾害;;层次分析;;影响因子;;易发性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于北斗和GIS的定向运动服务系统设计
+Author-作者:  姜礼俊;夏光平;曹楠;王金鑫;
+Organ-单位:  郑州大学水利科学与工程学院;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  北斗;;定向运动;;GIS;;应急救援
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的海上溢油决策分析及评估系统的设计与实现
+Author-作者:  杜平;
+Organ-单位:  辽宁省自然资源事务服务中心辽宁省基础测绘院;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  GIS;;交通网络分析;;最短路径分析;;ArcGIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于DRASTIC-GIS 模型的成都典型区域地下水脆弱性评价
+Author-作者:  唐学芳;吴勇;陈晶;邓东平;
+Organ-单位:  成都理工大学环境与土木工程学院;地质灾害防治与地质环境保护国家重点实验室;四川省地质工程勘察院;
+Source-文献来源:  环境监测管理与技术
+Keyword-关键词:  地下水;;脆弱性;;DRASTIC-GIS模型;;成都
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM+GIS的大场景坐标转换与三维可视化应用
+Author-作者:  罗勇;
+Organ-单位:  广西荔玉高速公路有限公司;
+Source-文献来源:  中国公路
+Keyword-关键词:  BIM;;GIS;;坐标转换;;公路工程;;三维可视化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS可视化的林业有害生物飞机防治指挥系统的研发与应用
+Author-作者:  唐金玉;张棋;任柯伶;罗娇;毛俪颖;
+Organ-单位:  西南石油大学;
+Source-文献来源:  现代商贸工业
+Keyword-关键词:  林业;;飞防;;有害生物防治;;GIS;;智能系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备发热研究进展
+Author-作者:  黄孟丹;肖纯;杨芷宁;庞文龙;吴细秀;
+Organ-单位:  武汉理工大学自动化学院;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS设备;;发热现状;;发热机理;;发热检测方法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS汇控柜冷凝除湿控制策略研究
+Author-作者:  孙庆峰;沈佳;汤义勤;盛军锋;黄秋宇;鲁旷达;魏燕定;
+Organ-单位:  杭州意能电力技术有限公司;浙江省电力锅炉压力容器检验所有限公司;浙江大学机械工程学院;国网浙江省电力公司台州供电公司;浙江容大电力工程有限公司;国网浙江省电力有限公司电力科学研究院;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS汇控柜;;冷凝除湿;;模拟实验;;控制策略
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  220 kV GIS中VFTO传播特性的影响因素研究
+Author-作者:  洪志湖;彭庆军;钱国超;程志万;马仪;青言;张束华;
+Organ-单位:  云南电网有限责任公司电力科学研究院;云南电网有限责任公司红河供电局;重庆大学输配电装备及系统安全与新技术国家重点实验室;
+Source-文献来源:  高压电器
+Keyword-关键词:  特快速暂态过电压;;有限元仿真;;辐射电场;;测量
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  252 kV GIS变电站外壳环流特性分析及有限元计算方法
+Author-作者:  张豪;刘亚培;徐凯宏;刘书瀚;黄冬冬;李江涛;
+Organ-单位:  平高集团有限公司;西安交通大学电力设备电气绝缘国家重点实验室;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS外壳环流;;故障分析;;EMTP;;有限元计算
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  含有裂纹缺陷的GIS盆式绝缘子的静力特性及其影响因素分析
+Author-作者:  高晋文;叶严军;于卓琦;段星辉;蔡新景;潘龙雨;
+Organ-单位:  国网山西省电力公司检修分公司;东北电力大学电气工程学院;吉林市能兴电力设备有限公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  盆式绝缘子;;静力;;有限元;;裂纹;;母线温度;;应力集中
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  盆式绝缘子外注防水胶工艺不良导致GIS设备漏气原因分析与治理措施
+Author-作者:  王栋;邱志斌;牛田野;李杰;王海祥;
+Organ-单位:  国网河南省电力公司电力科学研究院;南昌大学能源与电气工程系;国网河南省电力公司检修公司;国网济源供电公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS;;盆式绝缘子;;外注防水胶;;漏气
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起220 kV GIS刀闸悬浮放电缺陷案例分析
+Author-作者:  周波;高竣;杨红权;刘彦琴;蔡川;程鹏;郭超;林岑;刘军军;胡迪;
+Organ-单位:  国网四川电力成都供电公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS;;刀闸;;拨叉;;特高频;;悬浮放电
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的光缆线路故障监测及管理系统设计
+Author-作者:  吴安安
+Organ-单位:  南京邮电大学
+Source-文献来源:  南京邮电大学
+Keyword-关键词:  光缆监测系统;;机器学习;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的顺义区土地利用类型变化与用水量响应关系研究
+Author-作者:  王茜;张航;陈鹏;黄敬梅;
+Organ-单位:  北京市郊区水务事务中心;北京市水科学技术研究院;北京市水资源调度中心;
+Source-文献来源:  北京水务
+Keyword-关键词:  土地利用类型;;用水量;;产业结构;;顺义区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的乡村振兴区域开发敏感性评价——以广西环江毛南族自治县明伦镇为例
+Author-作者:  陈秉乾;
+Organ-单位:  广西地图院;
+Source-文献来源:  南方国土资源
+Keyword-关键词:  乡村振兴;;GIS;;区域开发敏感性评价;;明伦镇
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的城市扩展及预测——以万山区为例
+Author-作者:  杨艺;
+Organ-单位:  铜仁市自然资源局;
+Source-文献来源:  住宅与房地产
+Keyword-关键词:  城市扩展;;GIS;;万山区;;Markov Chain模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  应用型本科高校GIS专业竞赛与就业质量关系的实证研究
+Author-作者:  江月;戴仕宝;谷家川;孟瑶瑶;
+Organ-单位:  滁州学院地理信息与旅游学院;
+Source-文献来源:  辽宁科技学院学报
+Keyword-关键词:  GIS技能大赛;;毕业生调查;;就业
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的贵州省土壤侵蚀危险性评价
+Author-作者:  陈起伟;熊康宁;兰安军;
+Organ-单位:  贵州师范大学喀斯特研究院;国家喀斯特石漠化防治工程技术研究中心;贵州师范学院地理与资源学院;
+Source-文献来源:  长江科学院院报
+Keyword-关键词:  土壤侵蚀;;喀斯特区;;危险性评价;;危险度指数(SEPDI);;地理信息系统(GIS);;贵州省
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的空间分析在现实中各领域的应用及分析
+Author-作者:  王子烨;王鹏飞;杨能榜;
+Organ-单位:  石家庄铁道大学土木工程学院;
+Source-文献来源:  电子测试
+Keyword-关键词:  地理信息系统;;空间分析;;应用领域
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于Android端的电力GIS巡检机器人控制系统设计
+Author-作者:  严宇;邹德华;江维;周展帆;王远笛;方子豪;
+Organ-单位:  国网湖南省电力有限公司检修公司;国网湖南省电力有限公司输电检修分公司;武汉纺织大学机械工程与自动化学院;
+Source-文献来源:  武汉纺织大学学报
+Keyword-关键词:  Android端;;GIS;;机器人;;控制系统;;物理样机
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于3D-GIS的数字孪生技术在供热系统的应用
+Author-作者:  李更生;刘海涛;陈立明;刘兰斌;张邯北;刘亚萌;
+Organ-单位:  泰山城区热力有限公司;北京科技大学;北京暖流科技有限公司;
+Source-文献来源:  区域供热
+Keyword-关键词:  集中供热;;管网;;3D-GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  三维GIS技术在油气站场勘测数据处理中的应用
+Author-作者:  袁婧;
+Organ-单位:  中石油管道有限责任公司西部兰州输气分公司;
+Source-文献来源:  现代盐化工
+Keyword-关键词:  勘察测量;;三维GIS;;一体化处理;;三维分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和RS的吉林省农村居民点空间分布的区域差异性研究
+Author-作者:  李冰心;张琦琦;
+Organ-单位:  吉林建筑大学;
+Source-文献来源:  建筑与文化
+Keyword-关键词:  农村居民点;;GIS/RS分析方法;;空间分布特点;;区域差异性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于不动产GIS的办公用房用地管理一体化数据库模型应用研究
+Author-作者:  胡晓曦;
+Organ-单位:  河北省第二测绘院;
+Source-文献来源:  矿山测量
+Keyword-关键词:  办公用房用地一体化管理;;不动产GIS;;物权分离;;数据组织模型;;数据仓库
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的安义县暴雨洪涝空间特征分析
+Author-作者:  吕希希;张春菊;尤子全;于涵;
+Organ-单位:  合肥工业大学土木与水利工程学院;河南大学黄河中下游数字地理技术教育部重点实验室;
+Source-文献来源:  矿山测量
+Keyword-关键词:  GIS;;频率比;;暴雨洪涝;;空间特征;;哨兵一号
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  三维GIS在地质建模方面的研究与发展
+Author-作者:  潘雅静;
+Organ-单位:  青岛理工大学;
+Source-文献来源:  土工基础
+Keyword-关键词:  二维GIS;;三维GIS;;地质建模;;空间分析;;可视化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  工程侧基于GIS网络资源录入管理实践
+Author-作者:  刘毅;
+Organ-单位:  江苏省广电有线信息网络股份有限公司无锡分公司;
+Source-文献来源:  中国有线电视
+Keyword-关键词:  网络资源录入;;上岗证制度;;工程项目流程管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的黄山市传统村落空间分布及影响因素研究
+Author-作者:  刘磊;徐志强;姚林;
+Organ-单位:  河北工业大学建筑与艺术设计学院;安徽建筑大学建筑与规划学院;
+Source-文献来源:  河北工业大学学报
+Keyword-关键词:  传统村落;;空间分布;;影响因素;;GIS;;黄山市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM系统与GIS技术在公路选线设计中的应用
+Author-作者:  田伟峰;黄远泽;刘涛;
+Organ-单位:  中水东北勘测设计研究有限责任公司;
+Source-文献来源:  东北水利水电
+Keyword-关键词:  BIM;;水电工程;;GIS;;公路
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM+GIS技术在公路工程中的应用研究
+Author-作者:  何鑫;
+Organ-单位:  山西省交通规划勘察设计院有限公司;
+Source-文献来源:  山西交通科技
+Keyword-关键词:  BIM技术;;GIS技术;;公路工程;;数据融合;;监造决策
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  气体绝缘全封闭组合电器GIS在电厂的应用
+Author-作者:  花婷婷;
+Organ-单位:  江苏方天电力技术有限公司;
+Source-文献来源:  冶金与材料
+Keyword-关键词:  气体绝缘全封闭组合电器;;电力系统;;断路器;;内部放电
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的三调数据成果管理应用系统设计与开发
+Author-作者:  方铮;李立娜;
+Organ-单位:  四川省国土科学技术研究院(四川省卫星应用技术中心);西昌学院资源与环境学院;
+Source-文献来源:  资源与人居环境
+Keyword-关键词:  数据成果;管理与应用;空间分析方法;开发包;GIS;ArcGIS;土地利用变更;地类图斑;空间统计分析;系统设计与开发;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅析地理信息系统在土地资源管理中的应用
+Author-作者:  吴薇;
+Organ-单位:  贵州省地质矿产勘查开发局112地质大队;
+Source-文献来源:  有色金属设计
+Keyword-关键词:  地理信息系统;;土地资源管理;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  现代GIS技术及其在工程测量中的应用
+Author-作者:  岳军红;李梅;王晓东;
+Organ-单位:  陕西铁路工程职业技术学院;西宁市测绘院;
+Source-文献来源:  化学工程与装备
+Keyword-关键词:  GIS;;工程测量;;地图制图
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于移动GIS的社区突发事件预警疏散系统设计
+Author-作者:  王德宇;张子民;周英;曹端广;
+Organ-单位:  山东建筑大学测绘地理信息学院;
+Source-文献来源:  山东建筑大学学报
+Keyword-关键词:  移动GIS;;社区突发事件;;预警与疏散
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在城市测绘中的应用研究
+Author-作者:  钱伶俐;
+Organ-单位:  长江工程职业技术学院;
+Source-文献来源:  现代制造技术与装备
+Keyword-关键词:  地理信息系统;;城市测绘;;规划建设
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  水利工程BIM+GIS与施工进度动态计划关联方法及实现
+Author-作者:  耿振云;李端阳;刘珊;于航;欧阳乐颖;
+Organ-单位:  中水北方勘测设计研究有限责任公司;天津大学水利工程仿真与安全国家重点实验室;
+Source-文献来源:  水资源与水工程学报
+Keyword-关键词:  水利工程;;BIM+GIS;;施工进度计划;;动态关联;;系统设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS全国青少年校园足球特色学校空间分布特征研究
+Author-作者:  齐立斌;聂劲松;
+Organ-单位:  湖南财政经济学院体育学院;湖南教育科学研究院博士后工作站;
+Source-文献来源:  吉林体育学院学报
+Keyword-关键词:  青少年校园足球特色学校;;GIS;;空间分布特征
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的浙江省台州市黄岩区林地保护等级调整研究
+Author-作者:  马雪清;卢金宝;夏云飞;金鑫;
+Organ-单位:  浙江省台州市黄岩区林业局;浙江省台州市林业局;
+Source-文献来源:  华东森林经理
+Keyword-关键词:  台州市黄岩区;;GIS;;林地保护等级;;调整
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在空间组织中的应用分析研究
+Author-作者:  李东和;刘春路;赵继龙;孔亚暐;刘甦;
+Organ-单位:  迪肯大学建筑与环境学院;山东建筑大学建筑城规学院;
+Source-文献来源:  山东建筑大学学报
+Keyword-关键词:  GIS技术;;产业园;;空间组织;;应用分析;;优势
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS风貌敏感性分析的色彩空间结构构建——太原主城色彩规划实践性研究
+Author-作者:  张春芳;王崇恩;朱向东;胡川晋;
+Organ-单位:  太原理工大学建筑学院;天津大学;太原理工大学;
+Source-文献来源:  现代城市研究
+Keyword-关键词:  耦合关系;;太原主城;;色彩风貌敏感性分析;;GIS;;层次分析法;;色彩空间结构
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和SWMM的城市雨洪模型构建模拟与效益评价——以厦门市马銮湾片区为例
+Author-作者:  周红;林孟;陈江畅;
+Organ-单位:  厦门大学建筑与土木工程学院;
+Source-文献来源:  现代城市研究
+Keyword-关键词:  ArcGIS;;SWMM;;雨洪模型;;综合效益评价;;海绵城市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的湖南省滑坡灾害风险和损失评估
+Author-作者:  申怀飞;杨清洁;魏亿鑫;闫旭倩;闵家森;吴宇琛;
+Organ-单位:  许昌学院城市与环境学院;
+Source-文献来源:  水土保持通报
+Keyword-关键词:  滑坡;;GIS空间分析;;风险评估;;AHP分析法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的哈尔滨市城市扩建方向研究
+Author-作者:  孙景霞;
+Organ-单位:  哈尔滨师范大学;
+Source-文献来源:  哈尔滨师范大学自然科学学报
+Keyword-关键词:  GIS;;城市扩建;;哈尔滨市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在气象领域中的应用
+Author-作者:  王悦;牛忠清;
+Organ-单位:  黑龙江省人工影响天气办公室;
+Source-文献来源:  黑龙江气象
+Keyword-关键词:  气象领域;气象行业;GIS;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的消防隐患排查薄弱区分析探讨
+Author-作者:  王献忠;杨扬;邱俊儒;
+Organ-单位:  吉林省消防救援总队;江苏省消防救援总队;
+Source-文献来源:  消防科学与技术
+Keyword-关键词:  GIS;;聚类分析;;核密度估计;;消防隐患排查
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的哈尔滨市118路公交站点选址优化
+Author-作者:  于梦鸽;
+Organ-单位:  哈尔滨师范大学;
+Source-文献来源:  哈尔滨师范大学自然科学学报
+Keyword-关键词:  地理信息系统;;公交站点;;选址;;缓冲区分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的贵阳市餐饮空间分布特征研究
+Author-作者:  张英佳;熊天霞;韩会庆;
+Organ-单位:  贵州理工学院建筑与城市规划学院;
+Source-文献来源:  云南地理环境研究
+Keyword-关键词:  贵阳市;;餐饮业;;兴趣点;;标准差椭圆;;核密度估计;;平均最近邻距离分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的竹类森林公园景观生态评价研究——以宜兴竹海风景名胜区为例
+Author-作者:  姜小雨;范少辉;黄兰鹰;王树梅;官凤英;
+Organ-单位:  国际竹藤中心国家林业和草原局竹藤科学与技术重点实验室;
+Source-文献来源:  竹子学报
+Keyword-关键词:  GIS;;竹类森林公园;;景观生态评价;;视觉敏感度评价;;生态敏感度评价;;AHP
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和RS大庆市辖区土地利用动态变化研究
+Author-作者:  吴昊;黄凤荣;
+Organ-单位:  辽宁师范大学辽宁省自然地理与空间信息科学重点实验室;
+Source-文献来源:  科学技术创新
+Keyword-关键词:  土地利用动态变化;;大庆市辖区;;土地利用状况
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的都柳江风景区滑坡灾害易发性评价
+Author-作者:  宋华艳;梁兴蓉;潘网生;
+Organ-单位:  黔南民族师范学院旅游与资源环境学院;
+Source-文献来源:  科学技术创新
+Keyword-关键词:  景区;;滑坡;;GIS;;层次分析法;;模糊综合评价法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Evaluation of Traffic Network between Tourist Attractions Based on GIS in Tai'an City
+Author-作者:  GAO Zhikang;ZHAO Weijun;LIU Xiaomei;ZHANG Guanghe;LV Zhenghui;WU Sizheng;QU Yunzan;
+Organ-单位:  Key Laboratory of Tourism and Resources Environment; Taishan University;
+Source-文献来源:  Journal of Landscape Research
+Keyword-关键词:  GIS;;Tourist attraction;;Traffic network analysis
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于Crystal Ball和GIS的湖北省新冠疫情时空特征研究
+Author-作者:  吕振华;程绍文;
+Organ-单位:  华中师范大学城市与环境科学学院;
+Source-文献来源:  华中师范大学学报(自然科学版)
+Keyword-关键词:  Crystal Ball;;GIS;;湖北省;;新冠疫情;;时空特征
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Climatic Regionalization of Orange Osmanthus in Pucheng County Based on GIS
+Author-作者:  Da YING;Hezhang CAI;Junliang ZHENG;Gang TANG;Dan LI;
+Organ-单位:  Fujian's Meteorological Disaster Prevention Technology Center;Pucheng Meteorological Burea;Meteorology Science Institute in Fujian;
+Source-文献来源:  Agricultural Biotechnology
+Keyword-关键词:  Orange osmanthus;;GIS;;Index factor;;Suitability evaluation;;Climatic regionalization
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS和RS在城市地表温度研究中的应用——以福州市为例
+Author-作者:  周依婷;李小梅;
+Organ-单位:  福建师范大学环境科学与工程学院;
+Source-文献来源:  福建轻纺
+Keyword-关键词:  福州;;地表温度;;空间自相关;;主成分分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  西门子blue GIS气体绝缘开关设备：拥抱未来绿色配电;助力中国实现碳中和
+Organ-单位:  电气技术
+Source-文献来源:  电气技术
+Keyword-关键词:  气体绝缘开关设备;blue GIS;碳中和;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的电力系统供电可靠性信息管理平台的研究
+Author-作者:  谢晓明;杨炎标;李飞;
+Organ-单位:  广东电网揭阳普宁供电局有限责任公司;
+Source-文献来源:  科技资讯
+Keyword-关键词:  GIS;;电力运营;;可靠性信息管理;;电力系统模型
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于无人机遥感与GIS的生态保护红线校核与优化
+Author-作者:  马青;
+Organ-单位:  镇江市勘察测绘研究院;
+Source-文献来源:  江苏省测绘地理信息学会2020年学术年会论文集
+Keyword-关键词:  生态保护红线;;无人机影像;;GIS;;优化调整
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于“一带一路”历史地理信息系统的视觉传达设计
+Author-作者:  刘立新;钟京玉;王雪莹;战功;
+Organ-单位:  青岛博海数字创意研究院;北京第二外国语大学;
+Source-文献来源:  工业工程设计
+Keyword-关键词:  “一带一路”;;再设计;;视觉传达;;信息可视化;;三维地图“;;沉浸式”
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS水文信息管理系统的设计与实现
+Author-作者:  戴彦群;
+Organ-单位:  成都理工大学工程技术学院;
+Source-文献来源:  计算机技术与发展
+Keyword-关键词:  地理信息系统;;水文信息;;空间数据;;空间分析;;统计分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在村庄国土空间规划的应用——以吉林省延边州图们市月晴镇杰满村为例
+Author-作者:  杨彧;程驿桐;
+Organ-单位:  吉林建筑大学建筑与规划学院;
+Source-文献来源:  四川建材
+Keyword-关键词:  国土空间;;GIS技术;;生态空间;;村庄规划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在水文水资源管理中的应用
+Author-作者:  李星;黄镇中;
+Organ-单位:  上饶市水利电力勘测设计院;江西省武大扬帆科技有限公司;
+Source-文献来源:  工程技术研究
+Keyword-关键词:  水文水资源管理;;GIS技术;;可持续利用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  500 kV GIS变电一次检修安全措施
+Author-作者:  卓旺权;祝石厚;马越燕;杨大铭;丁可为;
+Organ-单位:  国网浙江省电力有限公司检修分公司;
+Source-文献来源:  电工技术
+Keyword-关键词:  GIS设备;;配合检修解锁;;安全
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起220 kV变电站GIS母线故障分析
+Author-作者:  邓明锋;魏登峰;
+Organ-单位:  国网福建省电力有限公司电力科学研究院;
+Source-文献来源:  电工技术
+Keyword-关键词:  支柱绝缘子;;放电击穿;;对角循环紧固
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  110 kV GIS开关操作过电压对系统的影响
+Author-作者:  张向军;马娟;
+Organ-单位:  南京南瑞继保电气有限公司;国网重庆市电力公司武隆供电分公司;
+Source-文献来源:  电工技术
+Keyword-关键词:  GIS;;快速暂态过电压;;ATP-EMTP;;仿真分析;;开关操作
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS母线导体放电问题的分析和处理
+Author-作者:  常越;孟珍政;唐华超;汤伟;魏俊梅;
+Organ-单位:  特变电工中发上海高压开关有限公司;
+Source-文献来源:  电气时代
+Keyword-关键词:  导体表面;GIS;电场强度;导体放电;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  运用GIS培养区域认知素养的实践探索——以制作《中国各省级行政区GDP及增长速度专题图》为例
+Author-作者:  蔡珍树;唐婉荣;
+Organ-单位:  江苏省海州高级中学;江苏省无锡市玉祁高级中学;
+Source-文献来源:  中学地理教学参考
+Keyword-关键词:  GIS;;区域认知;;实践探索
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于多传感融合的GIS内隔离开关故障诊断方法研究
+Author-作者:  曹双鹏
+Organ-单位:  沈阳工程学院
+Source-文献来源:  沈阳工程学院
+Keyword-关键词:  GIS内隔离开关;;DTW(动态时间规整);;小波包分解;;包络谱;;故障诊断
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理师范专业GIS本科课程教学改革路径研究——基于中学地理教学GIS应用需求视角
+Author-作者:  孙艳伟;
+Organ-单位:  宁波大学;
+Source-文献来源:  黑龙江教育(高教研究与评估)
+Keyword-关键词:  GIS;;中学地理;;地理师范专业;;教学改革
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS与RS信息技术在农业土地整治工程中的应用与研究
+Author-作者:  孙周亭;
+Organ-单位:  济宁经济技术开发区管委会;
+Source-文献来源:  农机使用与维修
+Keyword-关键词:  信息化;;农业;;区域经济
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS-based evaluation of landslide susceptibility using a novel hybrid computational intelligence model on different mapping units
+Author-作者:  ZHANG Ting-yu;MAO Zhong-an;WANG Tao;
+Organ-单位:  Shaanxi Provincial Land Engineering Construction Group Land Survey Planning and Design Institute Co.; Ltd.;
+Source-文献来源:  Journal of Mountain Science
+Keyword-关键词:  Kernel logistic regression model;;Landslide susceptibility;;GIS;;Fractal dimension
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备局放源定位方法研究与应用
+Author-作者:  袁海阳;王继鹏;刘海东;刘云龙;
+Organ-单位:  国网河南省电力公司洛阳供电公司;
+Source-文献来源:  河南电力
+Keyword-关键词:  GIS;;局放源定位;;联合定位
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  110 kV变电站内GIS设备特高频局部放电检测方法研究
+Author-作者:  郭文涛;王予疆;陈勇胜;包宇喆;
+Organ-单位:  国网河南省电力公司郑州供电公司;
+Source-文献来源:  大众标准化
+Keyword-关键词:  变电站;;GIS设备;;局部放电;;特高频;;检测方法
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS和Lingo模型的现代农业园区规划技术探索
+Author-作者:  权胜男
+Organ-单位:  河北农业大学
+Source-文献来源:  河北农业大学
+Keyword-关键词:  现代农业园区;;用地适宜性;;规划设计;;生态价值;;GIS空间分析;;Lingo优化求解
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS规划模型的药材种植效益问题研究——以甘肃省定西市陇西县为例
+Author-作者:  冯德鸿;党学凤;
+Organ-单位:  三峡大学理学院3S研究所;三峡大学理学院数学系;
+Source-文献来源:  安徽农业科学
+Keyword-关键词:  中药材;;种植效益;;线性规划;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备SF_6气体压力降低的分析与处理
+Author-作者:  隋新世;
+Organ-单位:  国网山东寿光市供电公司;
+Source-文献来源:  农村电工
+Keyword-关键词:  气体压力;CVT;变电运维人员;气体检漏;气室压力;GIS;分析与处理;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  三维GIS技术让不动产“立”起来
+Author-作者:  汤梦霞;
+Organ-单位:  苍穹数码技术股份有限公司;
+Source-文献来源:  城乡建设
+Keyword-关键词:  不动产登记;GIS;电子证照;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  城市规划测绘中地理信息系统的运用
+Author-作者:  张龙洁;
+Organ-单位:  速度时空信息科技股份有限公司;
+Source-文献来源:  居舍
+Keyword-关键词:  城市规划测绘;;地理信息系统;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在史学的研究与应用
+Author-作者:  王凯;
+Organ-单位:  内蒙古科技大学包头师范学院;
+Source-文献来源:  学理论
+Keyword-关键词:  GIS;;史学;;研究;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  面向智慧城市的GIS框架
+Author-作者:  郭仁忠;林浩嘉;贺彪;赵志刚;
+Organ-单位:  武汉大学资源与环境科学学院;深圳大学智慧城市研究院;
+Source-文献来源:  武汉大学学报(信息科学版)
+Keyword-关键词:  GIS;;智慧城市;;三元空间;;空间智能
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和RS的张掖市水土流失变化分析
+Author-作者:  刘颖;施冬;
+Organ-单位:  长江大学地球科学学院;
+Source-文献来源:  中国水土保持
+Keyword-关键词:  水土流失;;GIS;;RS;;张掖市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起220 kV GIS气体泄漏缺陷的处理及原因分析
+Author-作者:  于春雷;杨翔;秦福峰;杨道培;
+Organ-单位:  国网浙江省电力有限公司温州供电公司变电检修室;温州电力建设有限公司;
+Source-文献来源:  电世界
+Keyword-关键词:  变电站;;隔离开关;;故障
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的传统村落选址及用地适宜性评价——以山西省平定县宁艾村为例
+Author-作者:  马煜;王金平;李士伟;
+Organ-单位:  太原理工大学建筑学院;
+Source-文献来源:  城市建筑
+Keyword-关键词:  GIS;;宁艾村;;村落选址;;布局优化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  物联网和GIS的地下管网三维实时监控系统分析
+Author-作者:  李士武;刘旭;陈晓爽;
+Organ-单位:  正元地理信息集团股份有限责任公司;
+Source-文献来源:  科技视界
+Keyword-关键词:  物联网和GIS;;地下管网;;三维实时监控系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  220kV GIS断路器拒分故障分析与解决办法
+Author-作者:  杨斌;
+Organ-单位:  国网江苏省电力有限公司检修分公司;
+Source-文献来源:  电子测试
+Keyword-关键词:  220kV;;断路器;;故障分析;;解决办法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和RUSLE的滇南山区土壤侵蚀时空演变——以云南省元阳县为例
+Author-作者:  陈峰;李红波;
+Organ-单位:  中交星宇科技有限公司;中国交通信息科技集团有限公司;华中农业大学土地管理学院;
+Source-文献来源:  应用生态学报
+Keyword-关键词:  土壤侵蚀;;GIS;;通用土壤流失方程;;元阳县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于指数分析和GIS方法的垃圾填埋场地下水环境影响分析
+Author-作者:  贾超;杨霄;刘森;王松涛;王辉辉;刘建章;
+Organ-单位:  山东大学海洋研究院;山东省第四地质矿产勘查院;
+Source-文献来源:  环境工程
+Keyword-关键词:  垃圾渗滤液;;环境影响评估;;地下水污染;;数值模拟
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  燃气地理信息系统(GIS)与客户关系管理系统(CRM)数据共享方案
+Author-作者:  何鹏;陈斌;
+Organ-单位:  常州港华燃气有限公司;
+Source-文献来源:  2020年燃气安全交流研讨会论文集、调研报告
+Keyword-关键词:  维修工单;;二级无气;;资源
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  燃气管网GIS系统实际应用及思考
+Author-作者:  张策茗;
+Organ-单位:  重庆两江新区燃气有限责任公司;
+Source-文献来源:  2020年燃气安全交流研讨会论文集、调研报告
+Keyword-关键词:  燃气管网;GIS;燃气管道;实际应用;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的水府庙流域生物安全格局研究
+Author-作者:  许砚梅;刘惊涛;
+Organ-单位:  中南大学建筑与艺术学院;
+Source-文献来源:  中外建筑
+Keyword-关键词:  水府庙流域;;生物安全格局;;GIS空间分析;;生态廊道;;生态源地
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在市政排水管网管控中的应用
+Author-作者:  楚颖;
+Organ-单位:  太原学院建筑与环境工程系;
+Source-文献来源:  信息记录材料
+Keyword-关键词:  GIS技术;;市政排水官网管控;;优化措施
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备现场交流耐压试验闪络定位技术分析
+Author-作者:  谢同平;刘兴华;孙鹏;于洋;何腾;
+Organ-单位:  国网淄博供电公司;
+Source-文献来源:  电子技术与软件工程
+Keyword-关键词:  电力系统;;GIS设备
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  J软件公司GIS产品市场营销策略研究
+Author-作者:  王润雨
+Organ-单位:  桂林电子科技大学
+Source-文献来源:  桂林电子科技大学
+Keyword-关键词:  J软件公司;;营销策略;;SWOT分析;;优化组合
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  千山镇空间格局现状的城镇景观问题分析与优化策略
+Author-作者:  李珍
+Organ-单位:  沈阳农业大学
+Source-文献来源:  沈阳农业大学
+Keyword-关键词:  GIS;;空间格局;;城镇景观;;视觉分析
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS与空间句法的沈阳市北陵公园可达性分析
+Author-作者:  赵露莹
+Organ-单位:  沈阳农业大学
+Source-文献来源:  沈阳农业大学
+Keyword-关键词:  可达性;;Arcgis网络分析法;;空间句法;;北陵公园
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的川藏公路鲁朗-通麦段滑坡易发性评价
+Author-作者:  孟兆兴
+Organ-单位:  河北工程大学
+Source-文献来源:  河北工程大学
+Keyword-关键词:  滑坡;;易发性评价;;空间逻辑回归;;逻辑回归模型;;信息量模型
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的道路标线管理系统设计
+Author-作者:  焦亚彭
+Organ-单位:  河北科技大学
+Source-文献来源:  河北科技大学
+Keyword-关键词:  道路标线;;GIS;;OpenLayers;;Django;;信息管理系统
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS空间分析的徐州市生态安全格局构建研究
+Author-作者:  孙强
+Organ-单位:  中国矿业大学
+Source-文献来源:  中国矿业大学
+Keyword-关键词:  生态安全;;生态安全格局;;徐州市
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的采空塌陷区稳定性及地质灾害风险评价
+Author-作者:  卜朦朦
+Organ-单位:  中国矿业大学
+Source-文献来源:  中国矿业大学
+Keyword-关键词:  采煤沉陷区;;GIS技术;;地质灾害风险;;层次分析-信息量法
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  浅析GIS“一张图”在煤矿安全生产管理中的应用
+Author-作者:  韦书凯;张军安;赵军业;
+Organ-单位:  平煤股份一矿;
+Source-文献来源:  煤矿自动化与信息化--第29届全国煤矿自动化与信息化学术会议暨第10届中国煤矿信息化与自动化高层论坛论文集
+Keyword-关键词:  GIS"一张图";;安全管理系统;;综合监测预警系统
+Year-年:  2020
+
+SrcDatabase-来源库:  博士
+Title-题名:  基于InSAR/GIS的矿区地下非法开采监测关键技术研究
+Author-作者:  夏元平
+Organ-单位:  中国矿业大学
+Source-文献来源:  中国矿业大学
+Keyword-关键词:  雷达遥感;;地理信息系统;;时空数据模型;;开采沉陷;;地下非法采矿
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS技术的老城区绿道慢行系统选线研究
+Author-作者:  杨昊彧
+Organ-单位:  天津大学
+Source-文献来源:  天津大学
+Keyword-关键词:  老城区;;绿道慢行系统;;ArcGIS;;选线;;贵阳市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  遥感图像融合技术在更新GIS数据库中的应用分析
+Author-作者:  唐宁芳;
+Organ-单位:  徐州市勘察测绘研究院;
+Source-文献来源:  数码世界
+Keyword-关键词:  遥感图像融合;;地理信息系统数据库;;图像配准
+Year-年:  2020
+
+SrcDatabase-来源库:  博士
+Title-题名:  场域视野下北京南城雅俗文化及宗教建筑历史与保护研究
+Author-作者:  郭岩
+Organ-单位:  天津大学
+Source-文献来源:  天津大学
+Keyword-关键词:  北京老城;;雅俗文化;;场域;;GIS;;宗教建筑;;文化遗产保护
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在林业资源管理中的应用分析
+Author-作者:  范健超;
+Organ-单位:  乌海市治沙站;
+Source-文献来源:  山西农经
+Keyword-关键词:  GIS;;林业资源管理;;应用分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的南京市历史地名文化景观空间分布
+Author-作者:  张琪;
+Organ-单位:  江苏省测绘地理信息局信息中心;
+Source-文献来源:  江苏科技信息
+Keyword-关键词:  地名;;文化景观;;GIS;;空间分布;;南京市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在林业制图中的应用分析
+Author-作者:  李霞;
+Organ-单位:  云南省林业调查规划院;
+Source-文献来源:  绿色科技
+Keyword-关键词:  GIS技术;;林业制图;;应用分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM和GIS技术在某高速公路施工建设管理中的应用
+Author-作者:  王维高;朱明;赵见;聂上森;
+Organ-单位:  四川省交通勘察设计研究院有限公司;
+Source-文献来源:  山西建筑
+Keyword-关键词:  BIM;;GIS;;高速公路;;施工建设管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在国内外旅游空间分析中的应用研究综述
+Author-作者:  李会琴;郭亭宏;谢雪莲;
+Organ-单位:  中国地质大学经济管理学院;
+Source-文献来源:  国土与自然资源研究
+Keyword-关键词:  GIS;;旅游空间分析;;研究展望
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  某220kV变电站GIS伸缩节固定螺杆断裂分析
+Author-作者:  程翔;王若民;陈国宏;李小龙;邢明军;王勇;
+Organ-单位:  安徽新力电业科技咨询有限责任公司;国网安徽省电力有限公司电力科学研究院;
+Source-文献来源:  机械设计
+Keyword-关键词:  GIS伸缩节;;固定螺杆;;碳化物;;膨胀收缩;;断裂
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于MIM+BIM+GIS(3D+T+N)大数据架构的智慧工厂
+Author-作者:  阎伟;
+Organ-单位:  国家超级计算天津中心;
+Source-文献来源:  机械设计
+Keyword-关键词:  数字工厂;;智慧工厂;;MIM;;BIM;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和USLE模型的安庆市水土流失敏感性评价
+Author-作者:  李青;
+Organ-单位:  安庆水文水资源局;
+Source-文献来源:  水利科技与经济
+Keyword-关键词:  水土流失;;USLE模型;;安庆市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  矿山法隧道BIM+GIS技术的应用研究
+Author-作者:  潘传宇;宗朝阳;周旋;
+Organ-单位:  中建铁路投资建设集团有限公司;
+Source-文献来源:  工程建设与设计
+Keyword-关键词:  矿山法隧道;;爆破;;BIM+GIS技术;;断面测量
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的明长城紫荆关防区防御性聚落空间特征研究
+Author-作者:  解丹;张铭昊;谭立峰;
+Organ-单位:  河北工业大学建筑与艺术设计学院;雄安城市规划设计研究院有限公司;天津大学建筑学院;
+Source-文献来源:  中国文化遗产
+Keyword-关键词:  紫荆关防区;;防御性聚落;;空间特征;;地理选址特征;;明长城;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的高速公路隧道水文地质数据管理与应用
+Author-作者:  赵卫华;郭俊慧;王建华;李艳萍;
+Organ-单位:  云南保泸高速公路有限公司;同济大学土木工程学院地下建筑与工程系;
+Source-文献来源:  低温建筑技术
+Keyword-关键词:  高速公路隧道;;水文地质;;GIS数据管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  校企协同育人中真实项目对GIS课程学习动机的激发与培养
+Author-作者:  张海龙;王潇雅;
+Organ-单位:  商洛学院城乡规划与建筑工程学院;商洛学院经济管理学院;
+Source-文献来源:  系统仿真技术
+Keyword-关键词:  协同育人;;真实项目;;学习动机;;激发与培养;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的楚雄市公共交通现状研究
+Author-作者:  范积玉;杨丽雪;董国胜;薄春东;杨正源;
+Organ-单位:  楚雄师范学院;
+Source-文献来源:  智能城市
+Keyword-关键词:  公共交通;;GIS;;楚雄市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的南岸区公立医疗资源空间分布研究
+Author-作者:  苏欣;黄雁;
+Organ-单位:  重庆市地理信息和遥感应用中心;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  公立医疗资源;;空间分布;;优势度模型;;南岸区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于激光点云的真三维模型在GIS中的应用
+Author-作者:  廖中平;蔡晨光;陈立;
+Organ-单位:  长沙理工大学交通运输工程学院;内蒙古申科国土集团公司;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  Cyclone软件;;点云;;三维模型;;三维GIS;;语音播报
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的长兴水库移民信息管理系统研究
+Author-作者:  李亚斌;
+Organ-单位:  吉林省水利水电勘测设计研究院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  GIS;;移民;;长兴水库
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的五华县旅游发展空间分析
+Author-作者:  陈燕奎;刘敏纯;许紫彤;刘俊浩;洪妍;
+Organ-单位:  嘉应学院地理科学与旅游学院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  乡村振兴;;旅游;;GIS技术;;发展路径;;五华县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的地名信息采集系统设计
+Author-作者:  陶彣君;熊忠招;龚元夫;周治雄;曹永桃;
+Organ-单位:  湖北省国土测绘院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  地名信息;;地名信息采集系统;;地名数据库;;总数据库;;子数据库
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于RS和GIS的阳城县生态环境质量评价
+Author-作者:  张晨硕;薛文辉;化馨悦;张杰;何耐;
+Organ-单位:  山西师范大学地理科学学院;
+Source-文献来源:  环境与发展
+Keyword-关键词:  生态环境质量评价;;主成分分析;;RSEI遥感生态指数;;阳城县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  扫频电流下不同电流频率对GIS电磁分布特性的影响
+Author-作者:  赵晋飞;张壮壮;刘琛硕;周亦君;李宏祥;祝令瑜;
+Organ-单位:  电力设备电气绝缘国家重点实验室(西安交通大学);内蒙古电力(集团)有限责任公司包头供电局;
+Source-文献来源:  电力工程技术
+Keyword-关键词:  气体绝缘开关设备(GIS);;有限元模型;;扫频电流;;磁场分布;;电磁力分布
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  光纤GIS局放超声检测系统相位反馈控制
+Author-作者:  张猛;周宏扬;马国明;李成榕;吴昱怡;崔博源;
+Organ-单位:  华北电力大学新能源电力系统国家重点实验室;中国电力科学研究院有限公司;
+Source-文献来源:  高电压技术
+Keyword-关键词:  GIS;;局部放电;;Michelson干涉;;相位反馈;;局部放电超声检测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS固体绝缘不同类型气隙缺陷的放电特征
+Author-作者:  何宁辉;李秀广;周秀;赵晨昊;丁培;马飞越;
+Organ-单位:  国网宁夏电力有限公司电力科学研究院;国网天津市电力公司电缆分公司;
+Source-文献来源:  高电压技术
+Keyword-关键词:  GIS;;绝缘;;气隙缺陷;;特高频;;放电特性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  汽车产业大数据GIS地图表达应用研究
+Author-作者:  陈宗娟;孙二鑫;李晋津;
+Organ-单位:  中汽数据(天津)有限公司;
+Source-文献来源:  数字技术与应用
+Keyword-关键词:  汽车产业;;大数据;;GIS;;地图表达
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的配网非测控区故障快速定位方法的研究
+Author-作者:  王鹏;
+Organ-单位:  广东电网有限责任公司惠州供电局;
+Source-文献来源:  电工技术
+Keyword-关键词:  配电网;;粗糙集理论;;GIS系统;;非测控区故障定位
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS分析结果可靠性研究
+Author-作者:  赵宁;宋国伟;张小玉;李维宇;
+Organ-单位:  武威市自然资源局;
+Source-文献来源:  工程技术研究
+Keyword-关键词:  结果可靠性;;数据;;分析方法;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS支持下的玉米种植区土地生态适宜性评价
+Author-作者:  王珊;廖桂堂;邓勇刚;涂俊誉;许晓康;何刚;李琳玲;代林佳;
+Organ-单位:  内江师范学院地理与资源科学学院;浙江农林大学环境与资源学院;成都信息工程大学资源环境学院;四川省宜宾市农业农村局;四川省高县农业农村局;
+Source-文献来源:  中国农业资源与区划
+Keyword-关键词:  玉米;;GIS;;生态适宜性;;耕地地力评价;;层次分析法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  变电站GIS设备的故障类型及预防措施
+Author-作者:  向宇;
+Organ-单位:  深圳供电局有限公司;
+Source-文献来源:  电工技术
+Keyword-关键词:  变电站;;GIS设备;;全生命周期;;预防
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  水电站GIS母线接地故障分析及处理
+Author-作者:  练炤懿;
+Organ-单位:  广东珠荣工程设计有限公司;
+Source-文献来源:  内蒙古水利
+Keyword-关键词:  水电站;;GIS;;母线接地;;故障分析与处理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于WebGL的矿山地理信息系统设计与实现
+Author-作者:  张晖;王金媛;
+Organ-单位:  甘肃省地质矿产勘查开发局测绘勘查院;甘肃地矿科技信息中心;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  WebGL;;矿山;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在岩土工程勘察中的应用
+Author-作者:  王杰;
+Organ-单位:  河北省水文工程地质勘查院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  GIS技术;;岩土工程勘察;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  大数据地理信息系统:框架、技术与挑战
+Author-作者:  张雪英;闾国年;叶鹏;
+Organ-单位:  南京师范大学虚拟地理环境教育部重点实验室;江苏省地理信息资源开发与利用协同创新中心;
+Source-文献来源:  现代测绘
+Keyword-关键词:  大数据GIS;;时空大数据;;大数据挖掘;;信息聚合
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  常州轨道交通工程全生命周期GIS与BIM结合应用研究
+Author-作者:  赵尘衍;陈法仲;刘全海;冉慧敏;
+Organ-单位:  常州市测绘院;常州市地理信息智能技术中心;常州市轨道交通发展有限公司;
+Source-文献来源:  现代测绘
+Keyword-关键词:  常州轨道交通工程;;全生命周期;;GIS;;BIM;;结合应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的公交线网优化分析——以上海青浦为例
+Author-作者:  高宁波;许文波;徐兰花;
+Organ-单位:  江苏智城慧宁交通科技有限公司;
+Source-文献来源:  运输经理世界
+Keyword-关键词:  公交线网;;GIS;;城市交通运输;;优化分析
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  三维实景GIS平台在水电站设计中的应用探索
+Author-作者:  黄文钰;尚海兴;王明;
+Organ-单位:  中国电建集团西北勘测设计研究院有限公司;
+Source-文献来源:  抽水蓄能电站工程建设文集2020
+Keyword-关键词:  三维建模;;倾斜摄影;;可视化实景;;辅助设计
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  适用于抽水蓄能电站的GIS交流耐压试验装置设计及应用
+Author-作者:  黄明浩;
+Organ-单位:  南方电网调峰调频发电有限公司检修试验分公司;
+Source-文献来源:  抽水蓄能电站工程建设文集2020
+Keyword-关键词:  蓄能电站;;交流耐压;;GIS;;串联谐振;;气体绝缘罐式电抗器
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于微分进化算法的GIS属性数据精度检测方法研究
+Author-作者:  陈欣;刘文龙;卢海宏;
+Organ-单位:  中国地震局第一监测中心;
+Source-文献来源:  自动化与仪器仪表
+Keyword-关键词:  微分进化算法;;GIS属性数据;;数据精度;;精度检测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在城市交通规划中的应用
+Author-作者:  李琦;
+Organ-单位:  石家庄铁道大学交通运输学院;
+Source-文献来源:  交通世界
+Keyword-关键词:  地理信息系统;;城市交通规划;;道路扩建
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  城市规划中地理信息系统的应用研究
+Author-作者:  董恩娟;
+Organ-单位:  速度时空信息科技股份有限公司;
+Source-文献来源:  居舍
+Keyword-关键词:  城市规划;;地理信息系统;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS与Surfer支持下的南京市住房价格空间可视化研究
+Author-作者:  杨君;
+Organ-单位:  三江学院土木工程学院;
+Source-文献来源:  科技与创新
+Keyword-关键词:  可视化;;GIS;;Surfer;;房价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  融合GPS和GIS的车辆管理系统
+Author-作者:  鞠津京;
+Organ-单位:  上海勘测设计研究院有限公司;
+Source-文献来源:  北京测绘
+Keyword-关键词:  全球定位系统(GPS);;地理信息系统(GIS);;车辆管理;;网络(Web)
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统工程坐标系统研究
+Author-作者:  刘枭华;
+Organ-单位:  甘肃省科学院地质自然灾害防治研究所;
+Source-文献来源:  测绘通报
+Keyword-关键词:  长度变形;;椭球面;;高程归化;;高斯平面;;高斯投影
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的泉州市人口空间分布及其与地形关系研究
+Author-作者:  黄耀裔;
+Organ-单位:  泉州师范学院资源与环境科学学院;
+Source-文献来源:  科技和产业
+Keyword-关键词:  回归分析法;;加权最小二乘估计;;人口网格化;;地形起伏度;;泉州市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  移动GIS技术在国土资源管理中的应用
+Author-作者:  余正华;黄递全;王铁军;
+Organ-单位:  自然资源部重庆测绘院;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  国土资源;;移动地理信息系统;;离线应用;;土地整治;;移动决策
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的共享单车管理系统实现及应用
+Author-作者:  孟俊贞;刘野;赵继伟;
+Organ-单位:  华北水利水电大学地球科学与工程学院;华北水利水电大学水利学院;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  共享单车;;管理调度;;GIS;;百度地图API
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于对地观测技术的城市扩张监测与模拟研究进展
+Author-作者:  李方;
+Organ-单位:  西南大学人工智能学院;
+Source-文献来源:  智能建筑与智慧城市
+Keyword-关键词:  对地观测技术;;城市扩张;;遥感;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的高新区基本生态控制线划定
+Author-作者:  毛鹍;翟康;李姣;芮科;李秋华;徐宪根;
+Organ-单位:  常州市环境科学研究院;江苏常环环境科技有限公司;常州市生态环境监控中心;常州市高新区(新北)生态环境局;常州滨江经济开发区化工产业管理局;
+Source-文献来源:  广东化工
+Keyword-关键词:  GIS;;高新区;;生态安全格局;;基本生态控制线
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS及主成分熵权法的底板突水危险性评价
+Author-作者:  刘伟韬;孙茜;徐百超;
+Organ-单位:  山东科技大学安全与环境工程学院;
+Source-文献来源:  矿业研究与开发
+Keyword-关键词:  底板突水;;危险性评价;;主成分分析;;熵权法;;脆弱性指数
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的典型南方红壤区水土流失风险评价
+Author-作者:  廖帅;
+Organ-单位:  江西省景德镇市水利投资有限公司;
+Source-文献来源:  地下水
+Keyword-关键词:  南方红壤区;;水土流失风险;;熵权综合指数法;;GIS空间分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS可视化的柳州市城镇建设用地增加与人口城镇化相关性研究
+Author-作者:  叶嘉媛;罗国玮;
+Organ-单位:  南宁师范大学地理科学与规划学院;
+Source-文献来源:  科技资讯
+Keyword-关键词:  城镇建设用地增加规模;;户籍人口城镇化;;城镇化率;;GDP;;相关性分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于边缘计算的GIS母线热特性状态辨识研究
+Author-作者:  程占峰;夏博;李波涛;王兴江;朱思尧;
+Organ-单位:  国网冀北电力有限公司张家口供电公司;中国矿业大学;
+Source-文献来源:  电力大数据
+Keyword-关键词:  边缘计算;;母线;;热特性;;温升;;状态辨识
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS技术的文化景观整体价值保护方法国际动态研究
+Author-作者:  赵晨思;杨晨;
+Organ-单位:  同济大学建筑与城市规划学院景观系;同济大学建筑与城市规划学院景观学系;
+Source-文献来源:  中国风景园林学会2020年会论文集（下册）
+Keyword-关键词:  文化景观;;遗产保护;;价值评估;;国际趋势;;整体性保护;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的贵阳市开敞空间布局适宜性研究
+Author-作者:  梁晨;李加忠;龚宇;
+Organ-单位:  中国风景园林学会2020年会论文集（下册）
+Source-文献来源:  中国风景园林学会2020年会论文集（下册）
+Keyword-关键词:  城市开敞空间;;可达性;;布局;;适宜性
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的城市建成区绿道规划研究——以杭州城东新城区域绿道规划为例
+Author-作者:  段金玉;谭欣;
+Organ-单位:  中国风景园林学会2020年会论文集（下册）
+Source-文献来源:  中国风景园林学会2020年会论文集（下册）
+Keyword-关键词:  公平及效率;;城市建成区;;GIS;;绿道规划
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS和地统计学的城市公园绿地土壤性质空间变异性研究
+Author-作者:  刘秀萍;李新宇;戴子云;赵松婷;
+Organ-单位:  中国风景园林学会2020年会论文集（下册）
+Source-文献来源:  中国风景园林学会2020年会论文集（下册）
+Keyword-关键词:  土壤性质;;地统计学;;GIS;;空间分布;;变异性
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的景观生态风险评估——以北京市浅山区为例
+Author-作者:  倪畅;周凯;郑曦;
+Organ-单位:  中国风景园林学会2020年会论文集（下册）
+Source-文献来源:  中国风景园林学会2020年会论文集（下册）
+Keyword-关键词:  风景园林;;城市浅山地区;;景观生态风险;;空间主成分分析
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  以GIS手段探究省历史文化名村选址特征规律原因
+Author-作者:  杨燕;赵健彬;
+Organ-单位:  太原理工大学建筑学院;
+Source-文献来源:  2020年工业建筑学术交流会论文集（中册）
+Keyword-关键词:  山西省;;历史文化名村;;选址
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS分析的太原市防灾公园可达性研究
+Author-作者:  李颖祺;高宇波;
+Organ-单位:  太原理工大学建筑学院;
+Source-文献来源:  2020年工业建筑学术交流会论文集（下册）
+Keyword-关键词:  太原市;;防灾避难公园;;GIS;;网络分析法;;空间可达性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS盆式绝缘子应力超声检测技术应用与展望
+Author-作者:  何伟明;郝艳捧;邹舟诣奥;阳林;王国利;高超;周福升;李立浧;
+Organ-单位:  华南理工大学电力学院;南方电网科学研究院有限责任公司;
+Source-文献来源:  广东电力
+Keyword-关键词:  盆式绝缘子;;应力;;超声检测技术;;临界折射纵波
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在水文水资源领域中的应用分析
+Author-作者:  韩忠;
+Organ-单位:  山东省第六地质矿产勘查院;
+Source-文献来源:  农业灾害研究
+Keyword-关键词:  GIS;;水文水资源领域;;实际应用
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的耕地等别更新评价
+Author-作者:  段继雯
+Organ-单位:  山东科技大学
+Source-文献来源:  山东科技大学
+Keyword-关键词:  耕地质量等别;;金乡县;;GIS;;耕地质量变化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术支持下智慧风景区植被规划与仿真
+Author-作者:  张诚;朱昌平;马新;张志伟;
+Organ-单位:  安徽省教育厅无人机开发及数据应用重点实验室(皖江工学院);皖江工学院艺术设计学院;重庆大学城市科技学院建筑学院;
+Source-文献来源:  西南大学学报(自然科学版)
+Keyword-关键词:  地理信息系统(GIS);;智慧景区;;植被规划;;仿真设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于CAD/GIS集成的电力勘测制图技术研究与应用
+Author-作者:  凃道勇;黄进航;王骏;
+Organ-单位:  中国电建集团福建省电力勘测设计院有限公司;
+Source-文献来源:  电力勘测设计
+Keyword-关键词:  CAD/GIS集成;;工程制图;;电力勘测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS/GIL内微米级金属粉尘动力学行为与诱发放电特性研究进展
+Author-作者:  梁瑞雪;刘衡;胡琦;王健;李庆民;
+Organ-单位:  新能源电力系统国家重点实验室(华北电力大学);北京市高电压与电磁兼容重点实验室(华北电力大学);
+Source-文献来源:  中国电机工程学报
+Keyword-关键词:  金属粉尘;;动力学特性;;闪络;;爆炸;;粉尘抑制
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统(GIS)在中医药领域的应用进展
+Author-作者:  高倩;徐燎宇;
+Organ-单位:  上海中医药大学;上海市中医文献馆;
+Source-文献来源:  中国中医药科技
+Keyword-关键词:  中药资源普查;空间分析;中医药服务;可及性;GIS;地理信息系统;应用进展;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS叠加分析的洪水避险转移分析
+Author-作者:  谭钢;
+Organ-单位:  国元农业保险股份有限公司;
+Source-文献来源:  科学技术创新
+Keyword-关键词:  GIS叠加分析;;洪水淹没;;避险转移
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于Maxent模型和GIS的马缨丹在中国的适生区预测
+Author-作者:  张华纬;赵健;阎波杰;邹杰;李志鹏;
+Organ-单位:  福州大学空间数据挖掘与信息共享教育部重点实验室;福建省农业科学院数字农业研究所;闽江学院海洋学院;
+Source-文献来源:  生态与农村环境学报
+Keyword-关键词:  潜在分布;;最大熵模型;;地理信息系统;;刀切法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的山西有效积温时空变化分析
+Author-作者:  芦艳珍;韩小英;张蕾;张小宁;王娟玲;
+Organ-单位:  山西农业大学山西有机旱作农业研究院;山西农业大学农业经济管理学院;山西农业大学;
+Source-文献来源:  山西农业科学
+Keyword-关键词:  GIS;;有效积温;;精细化模拟;;时空变化
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  地理信息技术在初中地理教学中的应用研究
+Author-作者:  郎嘉慧
+Organ-单位:  西南大学
+Source-文献来源:  西南大学
+Keyword-关键词:  GIS技术;;教学案例;;教学设计;;地理教学;;初中地理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS隔离开关特快速瞬态过电压试验重复击穿全过程仿真模型研究
+Author-作者:  赵琳;叶丽雅;詹花茂;李志兵;段绍峰;
+Organ-单位:  国网浙江省电力有限公司电力科学研究院;国网浙江省电力有限公司培训中心;华北电力大学;中国电力科学研究院;广东电网有限责任公司梅州供电局;
+Source-文献来源:  高压电器
+Keyword-关键词:  隔离开关;;特快速瞬态过电压;;击穿特性;;双指数高频电弧电阻;;全过程仿真
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS中自由金属微粒缺陷局部放电信号特征分析
+Author-作者:  史文;杨正理;陈海霞;陆朱卫;王栋;辛伟峰;李军浩;
+Organ-单位:  三江学院;国网河南省电力公司电力科学研究院;西安交通大学电气工程学院;
+Source-文献来源:  高压电器
+Keyword-关键词:  气体绝缘组合电器;;自由金属微粒;;局部放电;;特征分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  气体绝缘变电站空间电磁场计算
+Author-作者:  赵雪;林莘;郝莎;田野;翟文鹏;
+Organ-单位:  沈阳工业大学电气工程学院;辽宁电力科学研究院;
+Source-文献来源:  高压电器
+Keyword-关键词:  气体绝缘变电站;;隔离开关;;倒闸操作;;空间电磁场;;时域有限积分
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  220 kV某变电站GIS单相接地故障分析及处理措施
+Author-作者:  王栋;邱志斌;魏巍;路向东;卢祖文;
+Organ-单位:  国网河南省电力公司电力科学研究院;南昌大学能源与电气工程系;国网三门峡供电公司;国网安阳供电公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS;;变电站;;单相接地;;故障分析;;隔离开关
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于多频段局放检测的GIS电缆终端联合诊断
+Author-作者:  刘凤莲;丁登伟;陈凌;何良;朱军;马啟潇;张涵轶;曾宏;
+Organ-单位:  国网四川省电力公司电力科学研究院;清华四川能源互联网研究院;国网成都供电公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS电缆终端;;特高频;;高频;;联合诊断;;解体分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的内蒙古半农半牧区地名景观空间分布特征研究
+Author-作者:  苏都尔;那顺达来;其力木格;东方杰;
+Organ-单位:  内蒙古师范大学地理科学学院;内蒙古蒙古高原灾害与生态安全重点实验室;
+Source-文献来源:  干旱区地理
+Keyword-关键词:  GIS;;地名;;核密度估计;;冷热点分析;;扎鲁特旗
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Assessment of drought hazard; vulnerability and risk in Iran using GIS techniques
+Author-作者:  Esmail HEYDARI ALAMDARLOO;Hassan KHOSRAVI;Sahar NASABPOUR;Ahmad GHOLAMI;
+Organ-单位:  Department of Arid and Mountainous Regions Reclamation; Faculty of Natural Resources; University of Tehran;Department of Organic & Polymer Chemistry; Faculty of Chemistry; Kharazmi University;
+Source-文献来源:  Journal of Arid Land
+Keyword-关键词:  climate map;;standardized precipitation index;;analytical hierarchy process;;fuzzy membership;;weight
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的无人机超低空飞行航线规划方法
+Author-作者:  徐明;宋明;马德友;
+Organ-单位:  解放军63850部队;
+Source-文献来源:  火力与指挥控制
+Keyword-关键词:  GIS;;超低空飞行;;地形匹配;;地形跟随
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在森林资源保护与监测中的应用研究
+Author-作者:  龙成;
+Organ-单位:  广东省连山林场;
+Source-文献来源:  林业科技情报
+Keyword-关键词:  GIS技术;;森林资源;;保护;;监测;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的吕梁山区贫困县生态环境敏感性评价
+Author-作者:  张会霞;刘丽荣;
+Organ-单位:  太原师范学院地理科学学院;
+Source-文献来源:  生态科学
+Keyword-关键词:  吕梁山区;;生态敏感性评价;;变异系数;;加权叠加
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS平台的东山岛生态保护红线划定研究
+Author-作者:  张亚丽;胡希军;陈存友;
+Organ-单位:  邵阳学院;中南林业科技大学;
+Source-文献来源:  生态科学
+Keyword-关键词:  GIS;;生态红线;;生态功能重要性;;生态敏感性;;东山岛
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的青藏高原人居环境自然适宜性评价
+Author-作者:  许长军;金孙梅;王英;
+Organ-单位:  青海省地理空间信息技术与应用重点实验室青海省地理信息中心;青海师范大学地理科学学院青藏高原地表过程与生态保育重点实验室;青海省地理信息产业发展有限公司;
+Source-文献来源:  生态科学
+Keyword-关键词:  GIS;;青藏高原;;人居环境;;适宜性评价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的徐州市交通网络分形特征
+Author-作者:  李保杰;陈莉;
+Organ-单位:  江苏师范大学地理测绘与城乡规划学院;
+Source-文献来源:  江苏师范大学学报(自然科学版)
+Keyword-关键词:  徐州;;交通网络;;分形;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS空间分析的济源市地质环境承载力评价与分区
+Author-作者:  王利;焦红军;杨坡;
+Organ-单位:  河南省地质调查院;河南省城市地质工程技术研究中心;河南省地矿局第一环境地质调查院;
+Source-文献来源:  河南科学
+Keyword-关键词:  地质环境承载力;;空间分析;;济源市;;指标体系;;层次分析法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Development and application of a GIS-based artificial neural network system for water quality prediction:a case study at the Lake Champlain area
+Author-作者:  LU Fang;ZHANG Haoqing;LIU Wenquan;
+Organ-单位:  Shandong Provincial Key Laboratory of Marine Environment and Geological Engineering; Ocean University of China;Laboratory for Marine Geology; Qingdao National Laboratory for Marine Science and Technology;Key Laboratory of Marine Environment and Ecology; Ministry of Education;Key Laboratory of Marine Sedimentology and Environmental Geology; First Institute of Oceanography; Ministry of Natural Resources (MNR);
+Source-文献来源:  Journal of Oceanology and Limnology
+Keyword-关键词:  water quality prediction;;Geographical Information System (GIS);;artificial neural network;;integration;;system development
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的武威地区乡村聚落地名文化景观分析
+Author-作者:  王雨菡;党国锋;
+Organ-单位:  西北师范大学地理与环境科学学院;西北师范大学甘肃省地名研究中心;
+Source-文献来源:  贵州师范大学学报(自然科学版)
+Keyword-关键词:  空间分析;;空间分布;;地名文化景观;;GIS;;武威
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的地下水资源分区研究及承载本底评价
+Author-作者:  高萌萌;李瑞敏;刘琼;王轶;李小磊;
+Organ-单位:  中国地质环境监测院;
+Source-文献来源:  水文地质工程地质
+Keyword-关键词:  承载本底;;地下水;;资源分区;;评价单元;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的陇东黄土高原地区干旱灾害风险综合评估
+Author-作者:  赵冬青;李政璇;余瀚;张永凯;
+Organ-单位:  甘肃省农业农村厅;兰州财经大学农林经济管理学院;
+Source-文献来源:  农业科技与信息
+Keyword-关键词:  陇东黄土高原地区;;干旱灾害;;风险评估
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和最大熵模型的河北省油松适宜性分布分析
+Author-作者:  张晨星;张炜;徐晶晶;杨新兵;
+Organ-单位:  河北农业大学林学院;河北省林业和草原调查规划设计院;
+Source-文献来源:  地理与地理信息科学
+Keyword-关键词:  油松;;适宜区;;环境因子;;MaxEnt模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  真三维GIS技术研究
+Author-作者:  苏玮;谢宇;
+Organ-单位:  广东省土地调查规划院;
+Source-文献来源:  电子世界
+Keyword-关键词:  气象数据;红树林湿地;GIS;二维地图;水环境监测;预警信息;地理数据;湿地水环境;数据库;预警方案;不同维度;二三维联动;真三维;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  城市供水管网改造工程中GIS技术研究
+Author-作者:  胡凯;吴国平;刘凯伦;
+Organ-单位:  中国水利水电第十四工程局有限公司;
+Source-文献来源:  云南水力发电
+Keyword-关键词:  供水管网;;GIS系统;;数据库;;运行管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS+BIM技术的中心型轨道站点地下空间设计
+Author-作者:  袁红;付飞;姚强;余亿;何媛;
+Organ-单位:  西南交通大学建筑与设计学院;
+Source-文献来源:  地下空间与工程学报
+Keyword-关键词:  城市中心型轨道站点;;地下空间;;GIS+BIM;;系统化设计;;集成管理平台
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于BIM+GIS的市政工程规建管一体化应用研究
+Author-作者:  李谧;贺晓钢;李博涵;敖翔;
+Organ-单位:  中国电建集团成都勘测设计研究院有限公司;
+Source-文献来源:  地下空间与工程学报
+Keyword-关键词:  规建管;;BIM;;GIS;;一体化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅析GIS断路器油泵漏油的原因及运维措施
+Author-作者:  孙浩;
+Organ-单位:  中国南方电网超高压输电公司天生桥局;
+Source-文献来源:  机电信息
+Keyword-关键词:  GIS;;油泵;;渗漏油
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  220 kV GIS间隔双断口母线隔离开关技术在变电站中的应用研究
+Author-作者:  程子豪;毛毳闽;姜文;王家鹏;殷建刚;鄢旭冉;
+Organ-单位:  湖北省电力勘测设计院有限公司;国网湖北省电力有限公司;电子科技大学;
+Source-文献来源:  机电信息
+Keyword-关键词:  双断口母线隔离开关;;通用性;;经济性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备在电力系统中的应用及状态检修
+Author-作者:  夏樾;
+Organ-单位:  国网江苏省电力有限公司淮安供电分公司;
+Source-文献来源:  电子测试
+Keyword-关键词:  GIS设施;;电力结构;;运营;;状态检修;;方法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GB/T 12777—2019的实施对GIS/GIL波纹管补偿器的影响
+Author-作者:  李秋;杨知我;张宇航;邢卓;韩新博;曹玉奎;王军;
+Organ-单位:  沈阳汇博热能设备有限公司;沈阳仪表科学研究院有限公司;
+Source-文献来源:  管道技术与设备
+Keyword-关键词:  标准;;波纹管;;补偿器;;无损检测;;疲劳寿命;;焊接
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于Web GIS的H市矿山信息管理系统设计与实现
+Author-作者:  边庆平
+Organ-单位:  山东科技大学
+Source-文献来源:  山东科技大学
+Keyword-关键词:  Web GIS;;矿山信息管理系统;;矿山数据模型;;矿山数据库;;设计与实现
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在城市规划测绘中的应用
+Author-作者:  杨光源;
+Organ-单位:  柳州市国土规划测绘院;
+Source-文献来源:  智能城市
+Keyword-关键词:  城市规划;;测绘;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS信息量法在地质灾害分区评价中的应用
+Author-作者:  高杨;
+Organ-单位:  山西省地质勘查局二一二地质队;
+Source-文献来源:  西部探矿工程
+Keyword-关键词:  地质灾害;;危险性分区;;GIS;;信息量法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在水文水资源领域中的应用及发展趋势
+Author-作者:  汪洁晶;王丹志;郭连峰;于际凯;
+Organ-单位:  徐州市水利建筑设计研究院;
+Source-文献来源:  工程技术研究
+Keyword-关键词:  GIS技术;;水文水资源;;应用功能
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  某大型水电站500 kV GIS设备大修和问题处理
+Author-作者:  陆建宏;李国正;张卓;
+Organ-单位:  雅砻江流域水电开发有限公司;
+Source-文献来源:  电工技术
+Keyword-关键词:  GIS;;大修;;弧触头
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS空间分析的地质环境承载能力评价——以泰安市高新区为例
+Author-作者:  李晓波;赵新卓;郄亮;李静;
+Organ-单位:  山东省第五地质矿产勘查院;中国地质大学(武汉);
+Source-文献来源:  山东国土资源
+Keyword-关键词:  地质环境;;GIS空间分析;;承载能力评价;;国土空间规划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统软件在物流地理教学中的应用研究
+Author-作者:  蔡丽玲;缪桂根;
+Organ-单位:  湖南现代物流职业技术学院;
+Source-文献来源:  物流科技
+Keyword-关键词:  物流地理;;地理信息系统;;实践教学
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  赣南客家古村落宗祠空间格局的GIS分析
+Author-作者:  张润飞;郑著彬;杜超;李建忠;林琳;杨虹;邹娇;
+Organ-单位:  赣南师范大学地理与环境工程学院;赣南师范大学环境工程技术研究中心;
+Source-文献来源:  赣南师范大学学报
+Keyword-关键词:  古村落宗祠;;空间格局;;GIS分析;;赣南地区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS、GIL结构有限元仿真技术准确性研究
+Author-作者:  杨勇;王洪川;郭政;
+Organ-单位:  西安西电开关电气有限公司;
+Source-文献来源:  电气时代
+Keyword-关键词:  隔离开关;平均应力;应力线性化;GIL;GIS;有限元仿真技术;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备SF_6气体监测分析
+Author-作者:  管福巧;周挺乾;温新叶;
+Organ-单位:  国网浙江平阳县供电有限责任公司;
+Source-文献来源:  农村电气化
+Keyword-关键词:  变电站;;SF_6气体;;监测手段
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在果树生态适应性区划的应用概述
+Author-作者:  王达菲;王玺;李敏生;孙慧英;李亮;
+Organ-单位:  山西农业大学果树研究所;
+Source-文献来源:  果树资源学报
+Keyword-关键词:  GIS;;果树;;生态适应性;;区划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术构建农业气象灾害监测预警系统
+Author-作者:  李轶群;马丽莉;
+Organ-单位:  福建省福安市气象局;福建省屏南县气象局;
+Source-文献来源:  河北农机
+Keyword-关键词:  GIS技术;;农业气象灾害监测预警
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于改进FAST-ICA算法的GIS混合局部放电信号分离方法研究
+Author-作者:  郑祥;刘鑫;朱宁宁;
+Organ-单位:  大连交通大学电气信息工程学院;
+Source-文献来源:  电子测量技术
+Keyword-关键词:  气体绝缘组合电器;;混合局放信号;;改进FAST-ICA算法;;盲源分离
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的静宁县耕地后备资源调查评价研究
+Author-作者:  张珍;石转弟;
+Organ-单位:  静宁县自然资源局;
+Source-文献来源:  安徽农业科学
+Keyword-关键词:  耕地后备资源;;GIS;;调查;;评价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起GIS非典型局放波形图谱的故障分析
+Author-作者:  陈苏彬;
+Organ-单位:  广东电网有限责任公司揭阳供电局;
+Source-文献来源:  技术与市场
+Keyword-关键词:  GIS;;非典型局放;;故障分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS平台下的重金属矿区生态敏感性可视化评价
+Author-作者:  刘炳攸;汪结明;彭文罡;
+Organ-单位:  湖南科技大学建筑与艺术设计学院;
+Source-文献来源:  环境科学与技术
+Keyword-关键词:  永州东湘桥;;重金属矿区;;生态敏感性;;可视化分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的甘肃省甘南州垃圾填埋场适宜性分析
+Author-作者:  刘佳敏;李月诗;肖彬;吕成彬;焦继宗;
+Organ-单位:  兰州大学资源环境学院;
+Source-文献来源:  甘肃科技
+Keyword-关键词:  GIS;;层次分析法;;垃圾填埋场;;甘南州;;适宜性分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS分析的草原城镇公共设施绩效评价——以明安图镇为例
+Author-作者:  孙佩;严璐;
+Organ-单位:  内蒙古工业大学建筑学院;
+Source-文献来源:  城市建筑
+Keyword-关键词:  乡村振兴;;草原城镇;;公共设施;;GIS技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS滑坡地质灾害易发性评价方法综述
+Author-作者:  陶伟;孙岳;
+Organ-单位:  东华理工大学地球科学学院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  地质灾害;;滑坡;;GIS;;评价方法
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  GIS路径分析在轨道交通维修资源调度的应用
+Author-作者:  芦彬;
+Organ-单位:  北京全路通信信号研究设计院集团有限公司;
+Source-文献来源:  第十五届中国智能交通年会科技论文集（2）
+Keyword-关键词:  地理信息系统;;ArcGIS Engine网络分析最短路径;;轨道交通;;维修资源调度
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  利用无人机航测技术更新中石油地理信息系统(A4)中的基础地理数据
+Author-作者:  徐兹正;杨风学;王潇;
+Organ-单位:  大庆油田工程有限公司;武汉鑫诚鼎泰科技有限公司;
+Source-文献来源:  石油天然气勘察技术中心站第二十八次技术交流研讨会论文集
+Keyword-关键词:  无人机航测;;数字像控平板数字调绘平板中国石油地理信息系统(A4);;GodWork-AT;;EOSDSM/DOM
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的油气站场数字化信息管理平台设计与实现
+Author-作者:  段雅萍;张林杰;
+Organ-单位:  青岛中油岩土工程有限公司;
+Source-文献来源:  石油天然气勘察技术中心站第二十八次技术交流研讨会论文集
+Keyword-关键词:  地理信息技术;;油气站场;;数字化信息管理平台
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在医学统计领域应用的发展方向——以老年患者为例
+Author-作者:  王进进;邹巍;朱麟奇;
+Organ-单位:  长春师范大学;大庆师范学院;
+Source-文献来源:  科技与创新
+Keyword-关键词:  GIS;;医学统计;;老年疾病;;时空分布
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  矿业权坐标数据GIS管理系统的设计与实现
+Author-作者:  侯莉;
+Organ-单位:  山西省矿山调查测量队;
+Source-文献来源:  华北自然资源
+Keyword-关键词:  矿业权;;Gmap.Net;;PostgreSql;;PostGIS;;坐标数据;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  试论城市测绘中地理信息系统的应用
+Author-作者:  侯博;
+Organ-单位:  山西省煤炭资源地质局;
+Source-文献来源:  华北自然资源
+Keyword-关键词:  城市测绘;;地理信息系统;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  配电网地理信息系统的功能分析
+Author-作者:  李金哲;
+Organ-单位:  国网大连供电公司;
+Source-文献来源:  大众用电
+Keyword-关键词:  配电网设备;配电网系统;地理信息管理;地理信息系统;馈线自动化;功能分析;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的高等教育中外合作办学规模的空间分布及其影响因素分析
+Author-作者:  李灿美;冯遵永;
+Organ-单位:  江苏师范大学江苏圣理工学院;
+Source-文献来源:  江苏高教
+Keyword-关键词:  高等教育中外合作办学规模;;空间分布;;影响因素;;均衡发展;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的白龙江流域舟曲—武都段的滑坡危险性评价
+Author-作者:  刘杰;武震;
+Organ-单位:  中国地震局地球物理野外观测研究站;中国地震局兰州岩土地震研究所;甘肃省地震局;
+Source-文献来源:  地震工程学报
+Keyword-关键词:  滑坡;;GIS;;危险性评价;;白龙江流域;;信息量模型;;频率比;;逻辑回归模型;;人工神经网络
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于RS和GIS的三峡库区滑坡易发程度与土地利用变化的关系研究
+Author-作者:  叶润青;李士垚;郭飞;付小林;牛瑞卿;
+Organ-单位:  中国地质调查局武汉地质调查中心(中南地质科技创新中心);三峡大学土木与建筑学院;中国地质大学地球物理与空间信息学院;防灾减灾湖北省重点实验室(三峡大学);
+Source-文献来源:  工程地质学报
+Keyword-关键词:  遥感影像;;土地利用;;滑坡面积模数比;;滑坡易发程度;;三峡库区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的常德市生态系统服务空间分异研究
+Author-作者:  胡逸哲;陈立芳;贺伦尊;陈欣林;陈端吕;
+Organ-单位:  湖南文理学院资源环境与旅游学院;
+Source-文献来源:  天津农业科学
+Keyword-关键词:  生态系统服务;;空间分异;;空间自相关;;常德市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  集成地理信息系统数据的地图制图技术
+Author-作者:  张金华;
+Organ-单位:  南京国图信息产业有限公司;
+Source-文献来源:  信息记录材料
+Keyword-关键词:  数字地图;;地图制图技术;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在交通气象服务产品制作系统中的应用
+Author-作者:  鲁静;谭静;敖银银;陈英英;
+Organ-单位:  湖北省气象服务中心;
+Source-文献来源:  电子技术与软件工程
+Keyword-关键词:  GIS技术;;交通气象;;C/S架构;;制作系统
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS和RS技术对巢湖流域生态地质环境动态监测
+Author-作者:  郁智
+Organ-单位:  昆明理工大学
+Source-文献来源:  昆明理工大学
+Keyword-关键词:  生态地质环境;;遥感;;层次分析法;;巢湖流域
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  上海市农用地动态管理关键技术研究
+Author-作者:  周钰坤
+Organ-单位:  华东师范大学
+Source-文献来源:  华东师范大学
+Keyword-关键词:  农用地;;GIS;;遥感解译;;土地利用分类;;地理要素编码
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于RS/GIS的海绵城市生态适宜性评价研究
+Author-作者:  李健
+Organ-单位:  合肥学院
+Source-文献来源:  合肥学院
+Keyword-关键词:  生态适宜性;;海绵城市;;RS;;叠加分析;;组合赋权法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于微服务架构的防汛地理信息系统设计与实现——以安徽省为例
+Author-作者:  王封祚;刘朋俊;王新福;姜成桢;
+Organ-单位:  黄河勘测规划设计研究院有限公司;
+Source-文献来源:  工程勘察
+Keyword-关键词:  微服务架构;;安徽防汛;;地理信息;;ArcGIS for JavaScript;;Spring
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的山西古城系统的设计与实现
+Author-作者:  薛江帆;张会霞;牛俊杰;
+Organ-单位:  太原师范学院地理科学学院;太原师范学院汾河流域中心;
+Source-文献来源:  中华建设
+Keyword-关键词:  ArcGIS;矢量化;属性查询;GIS;数据库连接;属性数据库;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于“gis数据分析”的防火及灭火救援体系构建——以福州市中心城区及福州新区消防专项规划为例
+Author-作者:  林明昊;
+Organ-单位:  福州市规划设计研究院;
+Source-文献来源:  福建建筑
+Keyword-关键词:  防火安全体系;;灭火救援体系;;消防专项规划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的南昌市社区养老设施多维度空间分布研究
+Author-作者:  李小云;赵佳明;张晓霞;刘一流;
+Organ-单位:  江西师大城建学院;江西省城乡规划设计研究总院;江西省社会科学院社会学研究所;江西建设职业技术学院;
+Source-文献来源:  中外建筑
+Keyword-关键词:  社区养老设施;;多维度;;空间布局;;GIS;;南昌市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于不动产GIS的办公用房用地一体化管理平台开发研究
+Author-作者:  胡晓曦;毕晓美;
+Organ-单位:  河北省第二测绘院;
+Source-文献来源:  城市勘测
+Keyword-关键词:  不动产GIS;;物权分离;;办公用房用地一体化管理;;平台研究
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  本科GIS专业第三学期协同培养模式的探索
+Author-作者:  刘鹏程;
+Organ-单位:  华中师范大学城市与环境科学学院;
+Source-文献来源:  城市勘测
+Keyword-关键词:  第三学期;;协同培养模式;;课程体系;;GIS专业
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS网络分析的城市医疗设施服务的可达性研究——以咸阳市为例
+Author-作者:  张帅;吴红波;
+Organ-单位:  陕西理工大学地理科学系;
+Source-文献来源:  城市勘测
+Keyword-关键词:  网络分析;;医疗设施;;可达性;;时间成本;;距离成本;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于微信小程序的移动端轻量GIS系统的实现
+Author-作者:  解意;
+Organ-单位:  沈阳市勘察测绘研究院有限公司;
+Source-文献来源:  城市勘测
+Keyword-关键词:  微信小程序;;移动端轻量GIS系统;;系统发布
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的长江中游城市群交通可达性研究
+Author-作者:  吕尧;
+Organ-单位:  山东科技大学测绘科学与工程学院;
+Source-文献来源:  城市勘测
+Keyword-关键词:  可达性;;加权平均交通时间;;长江中游城市群
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于IoT+GIS技术的校园弱电管网智能监控管理系统设计和应用
+Author-作者:  李子木;陆川;王继龙;李风华;
+Organ-单位:  清华大学信息化技术中心;
+Source-文献来源:  深圳大学学报(理工版)
+Keyword-关键词:  物联网;;地理信息系统;;弱电管网;;智慧校园
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的海南省农业面源污染时空分异研究
+Author-作者:  邓春梅;李玉萍;李茂芬;叶露;姚伟;
+Organ-单位:  中国热带农业科学院科技信息研究所/海南省热带作物信息技术应用研究重点实验室;
+Source-文献来源:  南方农业学报
+Keyword-关键词:  农业面源污染;;空间特征;;时空分布;;海南省
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  《地理信息系统原理》课程教学改革初探
+Author-作者:  陶国芳;蒋兆恒;林燕琳;潘广欣;李梦琪;
+Organ-单位:  通化师范学院历史与地理学院;吉林大学地球探测科学与技术学院;
+Source-文献来源:  科技风
+Keyword-关键词:  地理信息系统;;教学改革;;教学模式;;考核方式;;综合评价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在水文水资源领域的应用研究
+Author-作者:  李伟;
+Organ-单位:  甘肃省水文水资源局;
+Source-文献来源:  农业科技与信息
+Keyword-关键词:  GIS;;水文水资源领域;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS分析的老旧小区适老化改造选址研究
+Author-作者:  储虹;
+Organ-单位:  南京林业大学土木工程学院;
+Source-文献来源:  建设科技
+Keyword-关键词:  老旧小区;;适老化改造;;GIS;;选址
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  新冠病毒“战疫”背后的GIS力量
+Author-作者:  方晴雯;郭剑峰;
+Organ-单位:  浙江省江山中学;浙江省教育厅教研室;
+Source-文献来源:  浙江省地理学会2020年学术年会暨环境与健康高峰论坛论文摘要集
+Keyword-关键词:  新冠病毒;;疫情;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  水利工程信息化与BIM+GIS融合应用的研究进展
+Author-作者:  苏本谦;于德湖;孙宝娣;于诰方;徐阳;杨淑娟;
+Organ-单位:  青岛理工大学土木工程学院;青岛理工大学建筑与城乡规划学院;青岛市水利勘测设计研究院有限公司;青岛理工大学信息与控制工程学院;
+Source-文献来源:  青岛理工大学学报
+Keyword-关键词:  “BIM+GIS”融合技术;;水利工程;;信息化建设;;研究进展
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  新型500kV GIS配电装置端部出线结构及应用
+Author-作者:  黎功华;
+Organ-单位:  四川电力设计咨询有限责任公司;
+Source-文献来源:  工程建设与设计
+Keyword-关键词:  500kV GIS设备;;端部出线结构;;斜向双层结构;;反向出线
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  云与开源技术应用于GIS教学实践研究
+Author-作者:  杨叶涛;
+Organ-单位:  中国地质大学(武汉)地球物理与空间信息学院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  云服务;;GIS教学;;开源GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  测绘专业地理信息系统实践教学改革研究
+Author-作者:  张献伟;刘卫军;石磊;辛修建;刘盟;
+Organ-单位:  新疆工程学院土木工程学院;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  地理信息系统;;实践教学;;教学改革
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的天津市主城区公园绿地景观格局
+Author-作者:  蔡春雨;冯潇;
+Organ-单位:  北京林业大学园林学院;
+Source-文献来源:  中国城市林业
+Keyword-关键词:  公园绿地;;景观格局;;GIS;;天津市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS盆式绝缘子热分解动力学参数计算方法
+Author-作者:  彭鹏;任鹏;李庆民;张蔚;丛浩熹;金虎;
+Organ-单位:  新能源电力系统国家重点实验室(华北电力大学);南方电网科学研究院有限责任公司;
+Source-文献来源:  高电压技术
+Keyword-关键词:  GIS;;老化;;盆式绝缘子;;热分析动力学;;热动力学参数
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备常见两起故障分析
+Author-作者:  李大江;
+Organ-单位:  国投甘肃小三峡发电有限公司;
+Source-文献来源:  机械研究与应用
+Keyword-关键词:  GIS设备;;故障分析;;故障处理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  750 kV GIS隔离开关用绝缘拉杆炸裂原因分析
+Author-作者:  徐玉华;牛勃;马飞越;田禄;怡凯;
+Organ-单位:  国网宁夏电力有限公司电力科学研究院;
+Source-文献来源:  宁夏电力
+Keyword-关键词:  绝缘拉杆;;GIS;;隔离开关;;X射线检测;;电场仿真
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  采用声电联合检测GIS断路器局放缺陷诊断分析
+Author-作者:  周志昊;杨芳芳;
+Organ-单位:  国网冀北电力有限公司廊坊供电公司;
+Source-文献来源:  电力科学与工程
+Keyword-关键词:  GIS;;局部放电;;特高频;;超声波;;声电联合
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在精准农业模式的应用与研究
+Author-作者:  文晔;王松妍;
+Organ-单位:  大连理工大学城市学院;
+Source-文献来源:  经纬天地
+Keyword-关键词:  GIS;;精准农业;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的高速公路建管维全寿命周期信息化应用
+Author-作者:  张忠刚;钟德超;李一锋;刘荣;谭军;
+Organ-单位:  中铁开发投资集团有限公司;中国中铁二院工程集团有限责任公司;成都金隧自动化工程有限责任公司;
+Source-文献来源:  四川建筑
+Keyword-关键词:  GIS;;高速公路;;设备监控;;信息化;;营运管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于RS和GIS的峨眉山风景区生态风险评价
+Author-作者:  黄诗曼;胡庆武;李海东;王少华;
+Organ-单位:  武汉大学遥感信息工程学院;生态环境部南京环境科学研究所;
+Source-文献来源:  环境科学研究
+Keyword-关键词:  生态风险评价;;峨眉山;;遥感(RS);;地理信息系统(GIS)
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在林业资源管理中的应用
+Author-作者:  杨爱国;
+Organ-单位:  湖南省衡阳市衡阳县林业局;
+Source-文献来源:  热带农业工程
+Keyword-关键词:  GIS ;;林业;;资源管理;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  唐代茶叶种植地域变化的探究——基于GIS制图技术的分析
+Author-作者:  罗岸芷;肖正广;丁以寿;
+Organ-单位:  安徽农业大学茶与食品科技学院;
+Source-文献来源:  农业考古
+Keyword-关键词:  唐代;;茶叶;;地理信息系统(GIS);;种植地域变化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS定量分析的高层建筑布局方法研究——以荆州市高层建筑布局规划为例
+Author-作者:  陈龙;
+Organ-单位:  荆州市城市规划设计研究院;
+Source-文献来源:  中国高新科技
+Keyword-关键词:  高层建筑布局;;影响因素;;GIS定量分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在土地管理中应用和发展的新方向
+Author-作者:  黄小庆;
+Organ-单位:  河源市国土资源信息中心;
+Source-文献来源:  住宅与房地产
+Keyword-关键词:  GIS;;土地管理;;面临问题;;新方向
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS空间数据的自动更新技术研究
+Author-作者:  宁玉文;朱艳华;张原瑞;李小康;
+Organ-单位:  空军军医大学信息技术室;陕西青年职业学院公共事业系;西北大学网络和数据中心;空军军医大学政治工作处;
+Source-文献来源:  自动化与仪器仪表
+Keyword-关键词:  数据自动更新技术;;GIS数据;;数据字节;;空间关系
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS系统在林业资源管理中的应用
+Author-作者:  张一丹;
+Organ-单位:  江阴市自然资源和规划局;
+Source-文献来源:  现代园艺
+Keyword-关键词:  地理位置系统;;林业资源管理;;应用于发展
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS专业“测绘学基础”课程思政的探索与实践
+Author-作者:  周爱华;逯燕玲;付晓;张远索;
+Organ-单位:  北京联合大学应用文理学院;
+Source-文献来源:  北京测绘
+Keyword-关键词:  测绘学基础;;课程思政;;思政元素挖掘;;教学设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的数字电网平台设计与应用
+Author-作者:  熊雄;黄晓莉;
+Organ-单位:  电力规划总院有限公司;
+Source-文献来源:  电力信息与通信技术
+Keyword-关键词:  数字电网平台;;GIS;;停电信息池;;低电压治理;;大数据
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM+GIS集成可视化性能优化技术
+Author-作者:  陈明娥;崔海福;黄颖;郭明强;庄灿;
+Organ-单位:  深圳市中地软件工程有限公司;中国地质大学(武汉)地理与信息工程学院;武汉中地数码科技有限公司;武汉中地先进技术研究院有限公司;
+Source-文献来源:  地理信息世界
+Keyword-关键词:  建筑信息模型;;地理信息系统;;集成;;渲染
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于差分精准定位技术和GIS平台的铁路安全生产管理系统运用实践
+Author-作者:  王新钟;
+Organ-单位:  神华新准铁路有限责任公司;
+Source-文献来源:  铁路通信信号工程技术
+Keyword-关键词:  铁路安全生产管理系统;;差分精准定位技术;;GIS平台;;融合通信平台
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于MA-DBN算法的GIS故障预测
+Author-作者:  王宁;黄新波;朱永灿;吴明松;马玉涛;
+Organ-单位:  西安工程大学电子信息学院;
+Source-文献来源:  西安工程大学学报
+Keyword-关键词:  气体绝缘金属封闭开关设备(GIS);;移动平均模型;;深度信念网络(DBN);;故障预测;;SF_6分解气体
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于220 kV GIS间隔双断口母线隔离开关技术的试验方法研究
+Author-作者:  程子豪;吴丹;曾凡兴;付磊;杨洸;孙铭;
+Organ-单位:  湖北省电力勘测设计院有限公司;
+Source-文献来源:  湖南电力
+Keyword-关键词:  双断口隔离开关;;耐压试验;;扩建不停电
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  特高压GIS变电站接地设计影响因素研究
+Author-作者:  刘铜锤;姜龙;
+Organ-单位:  国家电网公司宁波供电公司;
+Source-文献来源:  山东电力技术
+Keyword-关键词:  集中入地;;分布入地;;接地性能;;垂直接地极
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅谈GIS+BIM+数据平台在基础设施项目施工中的应用
+Author-作者:  胡亚军;张跃君;
+Organ-单位:  中国建筑第二工程局有限公司;
+Source-文献来源:  智能建筑与智慧城市
+Keyword-关键词:  项目施工;;大数据;;BIM;;GIS;;集成;;平台;;管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术内蒙古自治区卫生资源配置空间评价研究
+Author-作者:  何刚;李雅红;杨子立;咸本松;
+Organ-单位:  赤峰市医院;内蒙古医科大学赤峰临床医学院;内蒙古医科大学卫生管理学院;
+Source-文献来源:  中国卫生统计
+Keyword-关键词:  地理信息系统;;卫生资源;;空间分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起GIS内部母线支柱绝缘子击穿故障的定位分析与防止对策
+Author-作者:  郭伟;陈秀珍;陈嵩;秦光洁;高凡夫;
+Organ-单位:  国网安徽省电力有限公司马鞍山供电公司;
+Source-文献来源:  电瓷避雷器
+Keyword-关键词:  GIS设备;;支柱绝缘子;;故障位置定位;;原因分析;;防范措施
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  800 kV三相分箱GIS变电站外壳感应电压及环流分析
+Author-作者:  刘亚培;张豪;刘书瀚;李江涛;徐凯宏;任家睿;
+Organ-单位:  平高集团有限公司;西安交通大学电气工程学院;
+Source-文献来源:  电瓷避雷器
+Keyword-关键词:  三相分箱GIS;;感应电压;;外壳环流;;运行工况;;EMTP
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的森林生态系统固碳释氧功能评估——以烟台市为例
+Author-作者:  孙中元;官静;苏爱锋;曹蓉芬;王正茂;曲宏辉;曹国玉;李洪涛;杨丽君;杨春欣;
+Organ-单位:  烟台市自然资源和规划局;烟台市卫正房地产估价有限公司;北京市林业勘察设计院;
+Source-文献来源:  林业与生态科学
+Keyword-关键词:  森林生态系统;;固碳释氧;;功能评估;;空间分布;;烟台市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的灾害监测平台建设思路
+Author-作者:  饶文利;
+Organ-单位:  北京辰安科技股份有限公司;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  GIS;;灾害监测;;应急管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于地理信息系统、云平台的粮食扦样外业管理技术与模式
+Author-作者:  何明涛;王利丹;邢勇;秦雯;张颖;
+Organ-单位:  国贸工程设计院;中国合格评定国家认可中心;
+Source-文献来源:  粮油食品科技
+Keyword-关键词:  地理信息系统;;扦样;;模式;;云平台
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的城市公共汽车站可达性研究
+Author-作者:  裴玉龙;潘恒彦;马部珍;
+Organ-单位:  东北林业大学交通学院;银川市规划编制研究中心;
+Source-文献来源:  城市交通
+Keyword-关键词:  交通规划;;公共汽车;;车站;;可达性;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的高中生地理区域案例分析能力提升策略
+Author-作者:  王玉瑾;
+Organ-单位:  江苏省海州高级中学;
+Source-文献来源:  天津教育
+Keyword-关键词:  GIS;;高中生;;地理区域;;案例分析能力;;提升策略
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于组件式GIS的桥梁健康监测数据集成及预警研究
+Author-作者:  魏鑫;吴学伟;程培嵩;
+Organ-单位:  东北林业大学土木工程学院;牡丹江市勘察测绘研究院;
+Source-文献来源:  公路工程
+Keyword-关键词:  组件式GIS;;BIM;;SuperMap;;健康监测;;可视化;;多元回归模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅议风电场变电站室外GIS的管理与维护
+Author-作者:  张军昌;
+Organ-单位:  中国能源建设集团投资有限公司河南分公司;
+Source-文献来源:  电子元器件与信息技术
+Keyword-关键词:  室外GIS;;鸟害;;紫外线;;电化学腐蚀;;刀闸拐臂
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  CAD与GIS多源数据融合模式下的架空输电线路选线方法
+Author-作者:  胡臻达;黄典祖;凃道勇;
+Organ-单位:  国网福建省电力有限公司经济技术研究院;国网福建省电力有限公司;中国电建集团福建省电力勘测设计院有限公司;
+Source-文献来源:  勘察科学技术
+Keyword-关键词:  架空输电线路选线;;多源空间数据;;CAD/GIS集成;;AutoCAD;;GDAL;;SLCAD
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS图层叠加分析原理的教学设计——以“南非农业开发”为例
+Author-作者:  李昂;
+Organ-单位:  上海交通大学附属中学;
+Source-文献来源:  中学地理教学参考
+Keyword-关键词:  教学设计;;图层叠加;;区域分析
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于WebGIS的多规合一信息平台研究和应用
+Author-作者:  徐郊
+Organ-单位:  华南理工大学
+Source-文献来源:  华南理工大学
+Keyword-关键词:  多规合一;;信息系统;;GIS;;WebGIS;;SOA
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的公共服务设施服务区分析评价——以魏县中心城区为例
+Author-作者:  于波;许诗语;
+Organ-单位:  辽宁工程技术大学;辽宁工程技术大学建筑与交通学院;
+Source-文献来源:  住宅科技
+Keyword-关键词:  公共服务设施;;GIS;;服务范围;;可达性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  冲击地压实时监测预警GIS云平台
+Author-作者:  张拴才;韩泽鹏;陈润合;王富强;巩思园;
+Organ-单位:  华能庆阳煤电有限责任公司核桃峪煤矿;中国矿业大学矿业工程学院;甘肃华亭煤电股份有限公司东峡煤矿;
+Source-文献来源:  煤矿安全
+Keyword-关键词:  冲击地压;;实时传输系统;;前兆指标权重;;GIS云平台;;监防互馈
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的养老地产选址决策研究——以沈阳市为例
+Author-作者:  毕天平;刁显喆;
+Organ-单位:  沈阳建筑大学;
+Source-文献来源:  工程经济
+Keyword-关键词:  GIS空间分析;;层次分析法;;选址;;养老地产
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于开源组件的矿井GIS一张图系统设计与实现
+Author-作者:  黎佩东;许金;何桥;
+Organ-单位:  中煤科工集团重庆研究院有限公司;
+Source-文献来源:  煤炭工程
+Keyword-关键词:  煤矿一张图;;安全监控系统;;GIS;;可视化;;Dijkstra
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起GIS设备漏气快速处理的方法
+Author-作者:  张嘉龙;
+Organ-单位:  嘉峪关宏晟电热有限责任公司;
+Source-文献来源:  冶金动力
+Keyword-关键词:  GIS组合电器设备;;漏气;;快速处理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  自然禀赋视角和GIS空间分析的生态承载力研究
+Author-作者:  孟静;宁晓刚;王浩;徐雯雯;
+Organ-单位:  辽宁工程技术大学测绘与地理科学学院;中国测绘科学研究院;
+Source-文献来源:  遥感信息
+Keyword-关键词:  GIS;;生态承载力;;生态系统服务功能;;生态敏感性;;空间分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的鄢陵县消防站布局优化研究
+Author-作者:  刘兰涛;郑建业;
+Organ-单位:  鄢陵县城乡规划局;
+Source-文献来源:  甘肃科技
+Keyword-关键词:  地理信息系统(GIS);;消防规划;;鄢陵县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅谈GIS在辅助高中地理教学中的应用
+Author-作者:  蒋慧;
+Organ-单位:  江苏省淮阴中学教育集团涟水郑梁梅滨河高级中学;
+Source-文献来源:  新课程
+Keyword-关键词:  GIS辅助手段;;高中地理;;教学策略
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的网格化社区信息系统
+Author-作者:  王燕茹
+Organ-单位:  曲阜师范大学
+Source-文献来源:  曲阜师范大学
+Keyword-关键词:  网格化社区;;三维GIS;;Cesium;;Spring Cloud;;微服务
+Year-年:  2020
+
+SrcDatabase-来源库:  科技成果
+Author-作者:  卓静
+Title-题名:  GIS和RS支持下的陕北地区生态环境脆弱性评价
+Organ-单位:  陕西省农业遥感与经济作物气象服务中心
+Keyword-关键词:  陕北地区;生态环境;GIS;RS;评价;脆弱性
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS对新疆乌市某区牛结核病传播风险区进行划分
+Author-作者:  汪潇逸;苏艳;
+Organ-单位:  新疆农业大学动物医学学院;
+Source-文献来源:  农家参谋
+Keyword-关键词:  GIS;;研究区;;牛结核病
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS的异响振动及其时变力分析
+Author-作者:  张书琴;张克选;岳宝强;吕寻浩;季新明;路继伟;张猛;
+Organ-单位:  河南平芝高压开关有限公司;国网山东省电力公司临沂供电公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  异响振动;;固有频率;;电场力;;电磁力
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于飞行时间—高度图谱的126 kV GIS异物检测分析
+Author-作者:  马飞越;丁培;牛勃;马波;陈磊;何宁辉;
+Organ-单位:  国网宁夏电力有限公司电力科学研究院;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS;;脉冲图谱;;异物微粒;;动力学模型;;飞行时间—高度图谱
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS、HGIS隔离开关母线转换电流增容研究
+Author-作者:  白刚;李琳;蒙国柱;宗世煜;
+Organ-单位:  ABB电网投资(中国)有限公司;
+Source-文献来源:  电子技术与软件工程
+Keyword-关键词:  母线转换电流;;电压提升;;快速分离触头;;平均燃弧时间;;模块通用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  工程测绘中地理信息系统的应用分析
+Author-作者:  雷雨;
+Organ-单位:  西北综合勘察设计研究院贵阳分院;
+Source-文献来源:  冶金与材料
+Keyword-关键词:  工程测绘;;地理信息系统;;功能;;特点;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS与模糊评价法的防空雷达阵地选址
+Author-作者:  温包谦;王涛;成坤;张济众;
+Organ-单位:  火箭军工程大学;火箭军装备部;
+Source-文献来源:  火力与指挥控制
+Keyword-关键词:  无人机;;阵地选址;;雷达部署;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  三维GIS表面分析在公路建设中的应用
+Author-作者:  罗绍仟;
+Organ-单位:  国家林草局昆明勘察设计院;
+Source-文献来源:  昆明冶金高等专科学校学报
+Keyword-关键词:  公路工程;;三维GIS;;土石方工程量;;表面分析;;数字高程模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的福建省水土保持功能重要性评价
+Author-作者:  雷泳南;
+Organ-单位:  福建省水利水电勘测设计研究院;
+Source-文献来源:  水土保持通报
+Keyword-关键词:  水土保持功能;;GIS;;重要性评价;;福建省
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS管道寄生电容的TV串联谐振升压方法研究与应用
+Author-作者:  陈勇;朱梦梦;高海丽;朱全聪;林聪;翟少磊;
+Organ-单位:  云南电网有限责任公司姚安供电有限公司;云南电网有限责任公司电力科学研究院;南方电网公司电能计量重点实验室;云南电网有限责任公司勐海供电有限公司;
+Source-文献来源:  云南电力技术
+Keyword-关键词:  GIS套管;;串联谐振;;电压互感器;;并联电容
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备特高频局部放电现场测试标准化作业
+Author-作者:  宁博功;何顺;
+Organ-单位:  国电宣威发电有限责任公司;云南电网有限责任公司电力科学研究院;
+Source-文献来源:  云南电力技术
+Keyword-关键词:  GIS设备;;局部放电;;特高频;;标准化作业
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的龙子湖东公园生态系统服务时空变化研究
+Author-作者:  杨鑫;朱家明;
+Organ-单位:  安徽财经大学;
+Source-文献来源:  哈尔滨师范大学自然科学学报
+Keyword-关键词:  生态系统服务;;时空变化;;GIS;;土地利用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的重大疫情区域管控辅助决策问题研究
+Author-作者:  谢峻;万萍;丁敬美;王梦苑;程艳霞;
+Organ-单位:  武汉理工大学;解放军第988医院;95028部队门诊部;中部战区总医院;
+Source-文献来源:  信息工程大学学报
+Keyword-关键词:  疫情传播;;传播模型;;概率模型;;SEIR
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GPS控制测绘技术在地理信息系统中的应用探讨
+Author-作者:  陈伟;刘湘媛;
+Organ-单位:  江西省煤田地质局测绘大队;
+Source-文献来源:  内蒙古煤炭经济
+Keyword-关键词:  GPS控制测绘技术;;地理信息系统;;应用要点;;效率;;质量
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在水文水资源管理中的应用探微
+Author-作者:  余休;
+Organ-单位:  遵义水利水电勘测设计研究院;
+Source-文献来源:  农家参谋
+Keyword-关键词:  GIS技术;;水文水资源;;应用效应
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Spatial and Temporal Distribution of Pine Wood Nematodes in Yiling District Based on GIS
+Author-作者:  Dan ZHOU;
+Organ-单位:  Yiling District Natural Resources and Planning Bureau;
+Source-文献来源:  Agricultural Biotechnology
+Keyword-关键词:  GIS;;Bursaphelenchus xylophius;;Time and space;;Spatial characteristics;;Yiling District
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在环境影响评价中的应用分析
+Author-作者:  邓永刚;
+Organ-单位:  山东绿清环保技术有限公司;
+Source-文献来源:  资源信息与工程
+Keyword-关键词:  GIS技术;;环境影响评价;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于大数据的地理信息系统在我国房地产评估中的应用潜力
+Author-作者:  王炜昱;
+Organ-单位:  合肥学院经管学院;
+Source-文献来源:  中国资产评估
+Keyword-关键词:  房地产评估;;地理信息系统;;应用潜力
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的金川河流域生态系统健康评价
+Author-作者:  李国霞;苏军德;
+Organ-单位:  甘肃有色冶金职业技术学院;
+Source-文献来源:  矿山测量
+Keyword-关键词:  金川河流域;;生态系统;;GIS;;综合性评价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS应用的乡村历史文化景观层积性研究——以徽州万安古埠码头为例
+Author-作者:  吴艺苗;吴蓉;
+Organ-单位:  安徽农业大学轻纺工程与艺术学院;
+Source-文献来源:  合肥工业大学学报(社会科学版)
+Keyword-关键词:  地理信息系统;;历史文化景观;;层积性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在水文化中的应用探讨
+Author-作者:  冯文强;任玖;谭詹;
+Organ-单位:  四川水利职业技术学院;
+Source-文献来源:  四川水利
+Keyword-关键词:  GIS;;水文化;;水文化遗产;;水文化专题地图
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS滑坡远程自动化监测与预警系统设计
+Author-作者:  王伟星;韩侃;蒋育华;盛斌;王瑜;
+Organ-单位:  中铁西北科学研究院有限公司;中铁科学研究院有限公司;
+Source-文献来源:  水利与建筑工程学报
+Keyword-关键词:  远程自动化;;监测与预警;;滑坡灾害;;系统设计;;应急响应
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起500 kV GIS母线压变闪络故障分析
+Author-作者:  张鹏飞;
+Organ-单位:  江苏省电力有限公司检修分公司;
+Source-文献来源:  机电信息
+Keyword-关键词:  GIS;;母线PT;;解体分析;;闪络
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  吴忠市拟建大型超市选址相关问题评析
+Author-作者:  张健;王琛;李一霖;孙振帮;
+Organ-单位:  沈阳建筑大学建筑与规划学院;
+Source-文献来源:  沈阳建筑大学学报(社会科学版)
+Keyword-关键词:  大型综合超市;;选址;;GIS;;吴忠市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于DTW算法波形相似性的GIS内隔离开关运行可靠性评估方法研究
+Author-作者:  曹双鹏;许晓峰;王亮;许东;姚晔;
+Organ-单位:  沈阳工程学院研究生部;沈阳工程学院电力学院;国网辽宁省电力有限公司检修分公司;国网辽宁省电力有限公司实业分公司;
+Source-文献来源:  沈阳工程学院学报(自然科学版)
+Keyword-关键词:  GIS内隔离开关;;机械故障;;动态时间规整(DTW)
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Chromatic processing for feature extraction of PD-induced UHF signals in GIS
+Author-作者:  Xi Li;Zhixiang Wang;Xiaohua Wang;Mingzhe Rong;Di Liu;
+Organ-单位:  Global Energy Interconnection Development and Cooperation Organization;ABB (China) Ltd.; Beijing Eco.&Tech. Development Area;State Key Laboratory of Electrical Insulation and Power Equipment; School of Electrical Engineering; Xi'an Jiaotong University;The University of Melbourne;
+Source-文献来源:  Global Energy Interconnection
+Keyword-关键词:  Partial discharge;;Ultra-high frequency;;Chromatic;;Feature extraction
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的中国A级物流企业时空演变特征及其影响因素
+Author-作者:  潘方杰;王宏志;宋明洁;王璐瑶;
+Organ-单位:  地理过程分析与模拟湖北省重点实验室华中师范大学城市与环境科学学院;华中师范大学公共管理学院;
+Source-文献来源:  长江流域资源与环境
+Keyword-关键词:  A级物流企业;;时空分异;;影响因素;;地理探测器;;中国
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  提升学生创新能力的GIS教学改革与实践
+Author-作者:  王成芳;
+Organ-单位:  华南理工大学建筑学院亚热带建筑科学国家重点实验室;
+Source-文献来源:  高等建筑教育
+Keyword-关键词:  GIS;;城乡规划;;教学实践;;大数据
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于开源GIS的森林资源监测智慧云平台构建
+Author-作者:  兰玉芳;石小华;李宏韬;马胜利;张敏中;
+Organ-单位:  国家林业和草原局西北调查规划设计院;
+Source-文献来源:  林业资源管理
+Keyword-关键词:  开源GIS;;森林资源动态监测;;智慧云平台;;“天空地”一体化监测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和熵权法的滑坡作用下的长输油气管道易损性评价
+Author-作者:  熊俊楠;曹依帆;孙铭;王迎兵;雍志玮;
+Organ-单位:  西南石油大学土木工程与测绘学院;四川省第一测绘工程院;成都市华丰工程勘察设计有限公司;西南石油大学地球科学与技术学院;
+Source-文献来源:  山地学报
+Keyword-关键词:  滑坡;;输油管道;;熵权法;;易损性评价
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和Logistic回归模型的洪涝灾害区划研究
+Author-作者:  王鹏;邓红卫;
+Organ-单位:  中南大学资源与安全工程学院;
+Source-文献来源:  地球科学进展
+Keyword-关键词:  洪涝灾害;;危险性区划;;汉江;;GIS;;Logistic回归模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS-based assessment of climate change impacts on forest habitable Aframomum corrorima(Braun) in Southwest Ethiopia coffee forest
+Author-作者:  Ayehu FEKADU;Teshome SOROMESSA;Bikila Warkineh DULLO;
+Organ-单位:  Center of Environmental Science; Addis Ababa University;Department of Plant Biology and Biodiversity Management; Addis Ababa University;
+Source-文献来源:  Journal of Mountain Science
+Keyword-关键词:  Aframomum corrorima;;Coffee forest;;Bioclimatic variables;;Suitability;;GIS;;MaxEnt
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Integrating multisource RS data and GIS techniques to assist the evaluation of resource-environment carrying capacity in karst mountainous area
+Author-作者:  PU Jun-wei;ZHAO Xiao-qing;MIAO Pei-pei;LI Si-nan;TAN Kun;WANG Qian;TANG Wei;
+Organ-单位:  School of Earth Sciences; Yunnan University;Institute of International Rivers & Eco-security; Yunnan University;
+Source-文献来源:  Journal of Mountain Science
+Keyword-关键词:  Carrying capacity;;Multisource RS data;;GIS techniques;;Evaluation index system;;Data Integration;;Karst mountainous area;;Fuzzy comprehensive evaluation method
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的云龙县麦地湾梨气候适宜性区划
+Author-作者:  字善生;杨素娥;李城亮;
+Organ-单位:  云南省云龙县气象局;
+Source-文献来源:  现代农业科技
+Keyword-关键词:  GIS技术;;麦地湾梨;;气候适宜性;;区划;;云南云龙
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于自研GIS的标准格式雷达基数据应用和预警系统的设计与实现
+Author-作者:  甄廷忠;江龙;康道俊;孙俊奎;齐荣庆;
+Organ-单位:  昆明市气象局;西南林业大学土木工程学院;昆明理工大学建筑工程学院;
+Source-文献来源:  计算机应用与软件
+Keyword-关键词:  CIMISS;;自研GIS;;标准格式基数据;;应用;;预警
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的营口盖州苹果气候区划
+Author-作者:  崔修来;孙瑶;徐亚琪;张秀艳;
+Organ-单位:  营口市气象局;盖州市气象局;
+Source-文献来源:  农村实用技术
+Keyword-关键词:  苹果区划;;GIS;;花期冻害;;气候适宜
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的智慧统计平台建设研究
+Author-作者:  洪德法;伊燕平;
+Organ-单位:  长春市市政工程设计研究院;长春工程学院水利与环境工程学院;
+Source-文献来源:  现代信息科技
+Keyword-关键词:  GIS;;智慧统计;;大数据
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的农村物流可持续发展研究
+Author-作者:  李心乐;
+Organ-单位:  河海大学公共管理学院;
+Source-文献来源:  湖北农业科学
+Keyword-关键词:  地理信息系统(GIS);;农村物流;;全程管理
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  变电站扩建工程GIS设备耐压方案研究
+Author-作者:  付威;
+Organ-单位:  深圳供电局有限公司;
+Source-文献来源:  电工技术
+Keyword-关键词:  GIS接驳方式;;耐压方案;;同频同相;;设备充电
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  我国高等教育学学位点分布特征与归因——基于GIS的方法
+Author-作者:  肖亚娟;
+Organ-单位:  同济大学高等教育研究所;
+Source-文献来源:  山东高等教育
+Keyword-关键词:  高等教育学;;学位点;;空间分布;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于聚类算法的GIS信息自维护技术研究
+Author-作者:  姜威;
+Organ-单位:  湖北省烟草公司荆州市公司;
+Source-文献来源:  信息技术与标准化
+Keyword-关键词:  烟草;;GIS数据可视;;自维护;;数据筛选;;聚类算法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的煤矿应急救援管理系统设计研究
+Author-作者:  李其杭;
+Organ-单位:  山西华润联盛能源投资有限公司矿山应急救援中心;
+Source-文献来源:  当代化工研究
+Keyword-关键词:  煤矿;;应急救援;;GIS技术;;管理系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的滨海盐渍化农田土壤空间变异及其分区管理
+Author-作者:  朱昌达;高明秀;王文倩;李俊翰;姚宇;周娜娜;
+Organ-单位:  山东农业大学资源与环境学院;土肥资源高效利用国家工程实验室;
+Source-文献来源:  生态学报
+Keyword-关键词:  盐渍化农田;;空间变异;;分区管理;;模糊c-均值聚类;;最大隶属度;;最小极差法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  110 kV GIS开关组合电器改造经验
+Author-作者:  白海斌;安娜;
+Organ-单位:  海洋石油富岛有限公司;
+Source-文献来源:  设备管理与维修
+Keyword-关键词:  GIS设备;;改造方案;;母联;;接地;;直流电源
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统中GPS控制测绘技术分析
+Author-作者:  陈慧玲;
+Organ-单位:  张掖市土地规划勘测院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  地理信息系统;;GPS;;测绘技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS课程教学中人文因素的缺失的影响及其改进
+Author-作者:  张王菲;刘芝芹;姬永杰;殷晓洁;
+Organ-单位:  西南林业大学林学院;西南林业大学教务处;西南林业大学地理与生态旅游学院;
+Source-文献来源:  测绘地理信息
+Keyword-关键词:  人文因素;;GIS;;缺失;;改进
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的不动产登记信息管理基础平台设计与实现
+Author-作者:  梁铭;刘如;
+Organ-单位:  惠州市惠城区自然资源局;西安交通大学管理学院;
+Source-文献来源:  测绘地理信息
+Keyword-关键词:  不动产;;信息管理基础平台;;系统架构;;数据体系;;应用体系
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  电网GIS平台地图专业技术服务
+Author-作者:  张波;陈伟;王旭东;吕喜容;郝晓伟;竹瑞博;
+Organ-单位:  山西益通电网保护自动化有限责任公司;厦门亿力吉奥信息科技有限公司;国网山西省电力公司信息通信分公司;国网山西省电力公司互联网部;
+Source-文献来源:  中国科技信息
+Keyword-关键词:  地图数据;矢量数据;影像数据;电网资源;GIS;专业技术;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS生态保护红线优化方案探索——以定襄县为例
+Author-作者:  王蒙;
+Organ-单位:  辽宁省城乡地理信息科技有限公司;
+Source-文献来源:  建筑与预算
+Keyword-关键词:  生态保护红线;;国土空间规划;;三区三线;;定襄县
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  长输管道GIS数据处理探讨
+Author-作者:  侯振国;
+Organ-单位:  山东港通智汇信息技术有限公司;
+Source-文献来源:  建筑与预算
+Keyword-关键词:  GIS源数据梳理;;GIS数据处理;;坐标系统转化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  关于GIS技术在矿山灾害信息系统中的应用研究
+Author-作者:  杨瑞峰;宋林杰;
+Organ-单位:  山西省晋中市榆次区应急管理煤矿安全巡查队;
+Source-文献来源:  矿业装备
+Keyword-关键词:  地质灾害防治;Arc;煤矿矿山;GIS;矿山地质灾害;地质灾害信息系统;矿山灾害;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  RS与GIS技术在阿尔山市第三次全国国土调查中发挥的显著作用
+Author-作者:  包英格;王丹;步振贺;
+Organ-单位:  兴安盟土地调查规划院;
+Source-文献来源:  内蒙古科技与经济
+Keyword-关键词:  RS;;GIS;;第三次全国土地调查;;土地利用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  电厂中GIS组合开关设备的安装与维护要点探讨
+Author-作者:  宋绍贞;
+Organ-单位:  大唐三门峡发电有限责任公司;
+Source-文献来源:  科技风
+Keyword-关键词:  GIS组合开关设备;;安装与维护;;技术要求
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的环京津贫困带乡村聚落时空分异及影响因素分析
+Author-作者:  陶金源;张孟楠;徐磊;张蓬涛;张俊峰;
+Organ-单位:  河北农业大学国土资源学院;中南财经政法大学公共管理学院;
+Source-文献来源:  水土保持研究
+Keyword-关键词:  乡村聚落;;时空分异;;空间关联性;;空间计量模型;;环京津贫困带
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在消防通讯决策中的应用
+Author-作者:  徐亚杰;
+Organ-单位:  北京市门头沟区消防救援支队;
+Source-文献来源:  消防界(电子版)
+Keyword-关键词:  GIS技术;;消防通讯;;优势建议
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS开发类课程教学中的因材施教法
+Author-作者:  罗庆洲;王培法;何永健;
+Organ-单位:  南京信息工程大学地理科学学院;
+Source-文献来源:  高师理科学刊
+Keyword-关键词:  地理信息科学;;软件开发;;因材施教
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  风景园林设计中的GIS技术应用探析——以中国南方喀斯特荔波世界自然遗产主题公园设计为例
+Author-作者:  韩晓丽;齐江涛;
+Organ-单位:  中国市政工程华北设计研究总院有限公司;天津市市政景观设计有限公司;
+Source-文献来源:  工程建设与设计
+Keyword-关键词:  GIS;;风景园林;;分析;;设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于三维GIS的农业资源台账系统设计与实现——以贵州省松桃县为例
+Author-作者:  邵瀚;郭永禧;王小标;朱孟兰;
+Organ-单位:  中国电建集团贵阳勘测设计研究院;
+Source-文献来源:  绿色科技
+Keyword-关键词:  农业资源台账;;三维GIS;;系统架构;;功能设计
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS系统的河北省红色文化保护与研究
+Author-作者:  崔雪梅;刘亚男;郝豫敏;王少宁;赵磊聪;
+Organ-单位:  华北理工大学矿业工程学院;
+Source-文献来源:  文化产业
+Keyword-关键词:  红色文化;;保护与开发;;GIS系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在林业资源管理中的应用探讨
+Author-作者:  陈春丽;
+Organ-单位:  北京市八达岭林场;
+Source-文献来源:  农家参谋
+Keyword-关键词:  GIS;;林业资源管理;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的长江中下游城市洪涝易发性评价
+Author-作者:  刘娜;金有杰;李辉;戴佳琦;陈城;
+Organ-单位:  南京水利科学研究院;水利部南京水利水文自动化研究所;水利部水文水资源监控工程技术研究中心;
+Source-文献来源:  地理空间信息
+Keyword-关键词:  长江中下游;;城市洪涝;;GIS;;易发性
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  110 kV插拔式GIS电缆终端轴向传热分析
+Author-作者:  许鹏飞;杨帆;刘刚;朱宁西;王振华;张敏;
+Organ-单位:  华南理工大学电力学院;南方电网中低压电气设备质量检验测试重点实验室(广东电网有限责任公司广州供电局电力试验研究院);广东电网有限责任公司广州供电局白云供电局;
+Source-文献来源:  电力工程技术
+Keyword-关键词:  气体绝缘开关设备(GIS)电缆终端;;载流量;;热路;;高压电缆;;轴向传热
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于几何形状/介电分布综合优化的GIS/GIL盆式绝缘子电场分布特性调控
+Author-作者:  王超;李文栋;杨雄;江智慧;谌明禹;薛建议;张冠军;
+Organ-单位:  电力设备电气绝缘国家重点实验室(西安交通大学);
+Source-文献来源:  中国电机工程学报
+Keyword-关键词:  结构优化;;介电分布优化;;盆式绝缘子;;电场调控;;功能梯度材料
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的厂区物流车辆监控系统设计与实现
+Author-作者:  袁敏;
+Organ-单位:  上海宝信软件股份有限公司;
+Source-文献来源:  现代信息科技
+Keyword-关键词:  GIS;;车辆监控;;厂区物流运输
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  自然资源分布式GIS服务平台研究
+Author-作者:  龚敏霞;吉波;徐年峰;胡岭;
+Organ-单位:  江苏省国土资源信息中心;南京师范大学虚拟地理环境教育部重点实验室;南京国图信息产业有限公司;
+Source-文献来源:  现代测绘
+Keyword-关键词:  自然资源;;分布式GIS服务平台;;云计算;;Hbase
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS与街景、视频监控系统互操作研究与实现
+Author-作者:  陈年松;王勇;邢策梅;
+Organ-单位:  江苏省测绘工程院;
+Source-文献来源:  现代测绘
+Keyword-关键词:  GIS;;街景;;互操作
+Year-年:  2020
+
+SrcDatabase-来源库:  硕士
+Title-题名:  基于GIS的10kV配电网综合自动化系统的研究
+Author-作者:  王涛
+Organ-单位:  兰州理工大学
+Source-文献来源:  兰州理工大学
+Keyword-关键词:  GIS技术;;配电网自动化;;无线通信;;系统集成
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在环境保护中的应用
+Author-作者:  杜丽萍;姚翠翠;
+Organ-单位:  淄博圆通环境检测有限公司;
+Source-文献来源:  中国资源综合利用
+Keyword-关键词:  地理信息系统;;环境保护;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  OGC和建筑智慧国际联盟联合发布关于BIM与GIS集成的讨论文件
+Organ-单位:  测绘标准化
+Source-文献来源:  测绘标准化
+Keyword-关键词:  SMART;OGC;GIS;BIM;国际联盟;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于模糊平滑的安徽地区110kV GIS变电站LCC模糊估算模型
+Author-作者:  刘士李;朱晓虎;刘丽;方天睿;
+Organ-单位:  国网安徽省电力有限公司经济技术研究院;
+Source-文献来源:  广西师范大学学报(自然科学版)
+Keyword-关键词:  110 kV GIS变电站;;全寿命周期成本;;模糊理论
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的内外业一体化水域调查建库系统的设计与开发
+Author-作者:  蒋晓敏;宋林刚;钟朝阳;方涯盼;
+Organ-单位:  杭州中房信息科技有限公司;
+Source-文献来源:  浙江水利科技
+Keyword-关键词:  水域调查;;内外业一体化;;GIS技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  特高频局放在线监测在GIS设备中的应用及案例分析
+Author-作者:  张锐;
+Organ-单位:  国网江苏省电力有限公司检修分公司;
+Source-文献来源:  科学技术创新
+Keyword-关键词:  特高频;;局放;;在线监测;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的企业专用铁路生产安全管理系统
+Author-作者:  吴峰;许磊;
+Organ-单位:  中国石油天然气股份有限公司独山子石化分公司铁路运输公司;
+Source-文献来源:  铁路计算机应用
+Keyword-关键词:  生产安全管理;;地理信息系统（GIS）;;SSM框架;;企业专用铁路
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅析GIS+BIM技术在公路工程施工中相对传统技术的优势
+Author-作者:  唐舸;
+Organ-单位:  东北大学;
+Source-文献来源:  中小企业管理与科技(下旬刊)
+Keyword-关键词:  BIM;;GIS;;优势
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS超声局放检测机器人的探头贴合标记物识别与定位方法研究
+Author-作者:  朱太云;陈忠;杨闰;杨为;朱胜龙;柯艳国;董二宝;
+Organ-单位:  国网安徽省电力有限公司电力科学研究院;中国科学技术大学;国网安徽省电力有限公司;
+Source-文献来源:  工业控制计算机
+Keyword-关键词:  机器人;;气体绝缘金属封闭开关设备;;超声局放;;识别;;定位
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  遗传算法和GIS在农村饮水管网优化布置中的应用研究
+Author-作者:  赵小庆;赵双庆;
+Organ-单位:  西安市高陵区水资源服务中心;西安市高陵区渭河管理站;
+Source-文献来源:  地下水
+Keyword-关键词:  遗传算法理论;;地理信息系统;;饮水管网布置;;饮水管网优化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的广播电视覆盖网管理技术探讨
+Author-作者:  关云飞;
+Organ-单位:  甘肃省广播电视局环县广播转播台;
+Source-文献来源:  西部广播电视
+Keyword-关键词:  GIS;;广播电视;;覆盖网;;管理技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于地理信息系统的通信基站优化选址与布局
+Author-作者:  刘翔翔;张昌瀚;
+Organ-单位:  南京市规划设计研究院有限责任公司;
+Source-文献来源:  科技和产业
+Keyword-关键词:  地理信息系统;;基站选址;;优化布局;;城市规划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的海南岛气候资源小网格推算研究
+Author-作者:  李文韬;张明洁;张京红;刘策;
+Organ-单位:  海南省气象探测中心;海南省气象局/海南省南海气象防灾减灾重点实验室;海南省气候中心;
+Source-文献来源:  热带农业科学
+Keyword-关键词:  小网格;;推算模型;;海南岛;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS手持机在下河沿水文站水文测验中的应用研究
+Author-作者:  王凯;王亚冬;王艳;
+Organ-单位:  黄河水利委员会宁蒙水文水资源局;
+Source-文献来源:  内蒙古水利
+Keyword-关键词:  起点距;;标志牌;;下河沿水文站;;GIS手持机;;精度
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  海上搜救与撤离模型系统设计
+Author-作者:  刘志晨;李颖;于文博;张照亿;
+Organ-单位:  大连海事大学航海学院;大连海事大学环境信息研究所;
+Source-文献来源:  中国航海
+Keyword-关键词:  海上搜救;;撤离;;软件框架;;地理信息系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Autodesk Civil 3d软件与GIS数据在安哥拉某铁路初步设计中的应用研究
+Author-作者:  赵卫;
+Organ-单位:  中铁国际集团有限公司安哥拉分公司;
+Source-文献来源:  铁路工程技术与经济
+Keyword-关键词:  Autodesk Civil 3d;;GIS数据;;铁路初步设计;;安哥拉
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的沈阳市新房价格空间分布及影响因素研究
+Author-作者:  何祺;云露阳;
+Organ-单位:  沈阳建筑大学建筑与规划学院;
+Source-文献来源:  城市住宅
+Keyword-关键词:  空间分布;;POI数据;;GWR模型;;莫兰指数
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的红壤丘陵小流域土地利用空间格局分析
+Author-作者:  代冬梅;田锋;
+Organ-单位:  重庆数字城市科技有限公司;重庆市大渡口区规划和自然资源局;
+Source-文献来源:  南方农业
+Keyword-关键词:  GIS;;红壤丘陵;;小流域;;土地利用格局
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅谈GIS在土壤养分资源利用方面的应用与展望
+Author-作者:  彭梦苏;王冬梅;孙禹;邵超;许翠华;张义彬;郭来春;
+Organ-单位:  吉林省白城市农业科学院;
+Source-文献来源:  农业工程技术
+Keyword-关键词:  GIS;;地力评价;;养分空间变异;;精准农业
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  Ecological Suitability Evaluation and Planting Division of Potato in County Based on GIS——A Case Study of Shangnan County of Shaanxi Province
+Author-作者:  Yuan Yuan;Song Wen-chao;Kang Xiao-fu;Guo Yi-chun;Chang Qing-rui;
+Organ-单位:  Meteorological Bureau of Shangluo;Shaanxi Province;College of Natural Resources and Environment; Northwest A&F University;
+Source-文献来源:  Journal of Northeast Agricultural University(English Edition)
+Keyword-关键词:  potato;;geographic information system;;ecological suitability;;planting division
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于BDS/GIS协同的动态路由算法在物流配送系统中的应用
+Author-作者:  胡玉晶;黄颖;
+Organ-单位:  江苏科技大学张家港校区;江苏科技大学中船工业现代物流研究中心;
+Source-文献来源:  物流技术
+Keyword-关键词:  动态路由;;BDS/GIS协同;;交通路况;;蚁群算法;;物流配送系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的数字征迁安置系统的构建
+Author-作者:  崔颢;
+Organ-单位:  中国电建集团华东勘测设计研究院有限公司;
+Source-文献来源:  中国新技术新产品
+Keyword-关键词:  GIS;;征迁安置;;系统数据;;创新特点
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  探讨Arc GIS矿山测绘成果数据分析系统
+Author-作者:  龚琨;田洋洋;
+Organ-单位:  甘肃省有色金属地质勘查局天水矿产勘查院;
+Source-文献来源:  世界有色金属
+Keyword-关键词:  矿产测绘;;Arc GIS;;系统
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于RS和GIS的莱西市设施农业用地现状分析
+Author-作者:  杨海滨;王超杰;高雅;
+Organ-单位:  新疆农业大学管理学院;
+Source-文献来源:  湖北农业科学
+Keyword-关键词:  RS;;GIS;;设施农业用地;;空间分布;;经济效益;;莱西市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS设备局部放电故障多维度诊断方法的实际应用
+Author-作者:  孙珂;
+Organ-单位:  国网江苏省电力有限公司徐州供电分公司;
+Source-文献来源:  电子测试
+Keyword-关键词:  GIS设备;;局部放电;;检测方法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于粒子滤波与负向选择算法的GIS设备故障检测
+Author-作者:  车一鸣;王冬梅;谢胜利;李永玲;
+Organ-单位:  保定电力职业技术学院;
+Source-文献来源:  机械与电子
+Keyword-关键词:  GIS开关;;振动分形维数;;支持向量回归;;粒子滤波;;负向选择算法;;故障检测
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的塞罕坝森林视觉景观质量评价
+Author-作者:  杨会娟;范冬冬;于晓红;
+Organ-单位:  河北农业大学园林与旅游学院;河北省塞罕坝机械林场;
+Source-文献来源:  西北林学院学报
+Keyword-关键词:  森林视觉景观;;可视性;;风景质量;;视觉吸收能力
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  2020 GIS软件技术大会在北京召开
+Organ-单位:  中国地理学会;
+Source-文献来源:  地理学报
+Keyword-关键词:  地理信息安全;基础软件;GIS;分布式;徐冠华;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅析《深圳市涉水管网GIS数据建库标准》制定
+Author-作者:  苏腾飞;殷琦栋;曾庆彬;吉海;黄容;马雨露;庞家锋;
+Organ-单位:  深圳市水务科技发展有限公司;北京数研信息技术有限公司;深圳市水务规划设计院有限公司;深圳市水务科技信息中心;广州丰泽源水利科技有限公司;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  涉水管网;;GIS数据建库;;标准规范
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统在新冠肺炎疫情防控中的应用思考
+Author-作者:  林富明;袁晓宏;周源;王洪昌;李冰;
+Organ-单位:  自然资源部黑龙江基础地理信息中心;黑龙江省测绘地理信息学会;
+Source-文献来源:  测绘与空间地理信息
+Keyword-关键词:  地理信息系统;;新冠肺炎;;疫情防控;;网格化
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的公路路网管理系统的设计与实现
+Author-作者:  岳鹏程;杨永杰;郭晓澎;
+Organ-单位:  山西省交通科技研发有限公司;
+Source-文献来源:  电子测量技术
+Keyword-关键词:  地理信息系统(GIS);;公路路网;;属性数据;;空间数据
+Year-年:  2020
+
+SrcDatabase-来源库:  国际会议
+Title-题名:  基于WebGL三维引擎的轨道交通工程BIM+GIS平台研究
+Author-作者:  杨喆;付功云;袁文祥;王震宇;王恰时;
+Organ-单位:  中铁第六勘察设计院集团有限公司;
+Source-文献来源:  第七届BIM技术国际交流会——智能建造与建筑工业化创新发展论文集
+Keyword-关键词:  Web GL;;BIM;;GIS;;轨道交通工程
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的深圳市大鹏新区河流、水库水质分析
+Author-作者:  许佳慧;王兮之;
+Organ-单位:  佛山科学技术学院环境与化学工程学院;
+Source-文献来源:  2020中国环境科学学会科学技术年会论文集（第三卷）
+Keyword-关键词:  水质分析;;最差因子判别法;;大鹏新区;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS技术在环境影响评价中的应用
+Author-作者:  宋劭萌;
+Organ-单位:  辽宁飞思海洋科技有限公司;
+Source-文献来源:  化工管理
+Keyword-关键词:  GIS技术;;环境应用评价;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的张家口市中心区基础教育空间布局结构优化研究
+Author-作者:  张晏齊;王建国;马振刚;李黎黎;
+Organ-单位:  北京永鑫嘉诚工程科技有限公司;张家口学院;
+Source-文献来源:  张家口职业技术学院学报
+Keyword-关键词:  张家口;;GIS;;教育均衡化;;空间布局
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的江西省雷电灾害风险区划
+Author-作者:  吕振东;于泽华;王成芳;
+Organ-单位:  江西省气象服务中心;安义县气象局;
+Source-文献来源:  气象与减灾研究
+Keyword-关键词:  雷电灾害;;风险区划;;GIS技术;;AHP
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的石家庄都市区不同用地类型火灾危险性评估
+Author-作者:  杜姗姗;薛晔;陈志芬;纪晓东;薛崇义;
+Organ-单位:  太原理工大学经济管理学院;
+Source-文献来源:  湖南科技大学学报(自然科学版)
+Keyword-关键词:  火灾;;危险性评估;;GIS;;用地类型;;石家庄都市区
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的仪陇县水稻种植气候区划
+Author-作者:  张琪慧;
+Organ-单位:  四川省仪陇县气象局;
+Source-文献来源:  青海农林科技
+Keyword-关键词:  GIS;;仪陇;;水稻;;气候区划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的行政区域网格化环境风险分析评价
+Author-作者:  何秋阳;刘静静;陈连升;
+Organ-单位:  金华市环科环境技术有限公司;
+Source-文献来源:  广西节能
+Keyword-关键词:  GIS;;行政区域;;网格化;;环境风险
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  浅谈GIS技术在数字城市建设中的应用
+Author-作者:  曹军;
+Organ-单位:  湖南省煤田地质局物探测量队;
+Source-文献来源:  湖南水利水电
+Keyword-关键词:  GIS;;数字城市;;数据入库;;电子地图;;影像挂图
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在青岛地铁线网运营管理与指挥中心系统中的应用
+Author-作者:  左旭涛;程中国;孙文慧;郅建松;
+Organ-单位:  青岛地铁集团有限公司;奔讯电子科技(北京)有限公司;
+Source-文献来源:  现代城市轨道交通
+Keyword-关键词:  地铁;;GIS;;定位;;应急指挥;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的新疆阿勒泰地区水土流失研究
+Author-作者:  庞毅;
+Organ-单位:  新疆维吾尔自治区水土保持生态环境监测总站;
+Source-文献来源:  陕西水利
+Keyword-关键词:  阿勒泰市;;水土流失;;地形条件
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于支持向量机GIS局放小波包能量谱故障诊断
+Author-作者:  张育炜;石琦;武恩光;
+Organ-单位:  河海大学能源与电气学院;
+Source-文献来源:  电气传动
+Keyword-关键词:  气体绝缘全封闭组合电器;;脉冲电流;;小波包变换;;能量谱;;支持向量机
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的秦安县土壤养分空间变异特征研究
+Author-作者:  姬宏;杜芳芳;
+Organ-单位:  兰州资源环境职业技术学院测绘与地理信息学院;
+Source-文献来源:  种子科技
+Keyword-关键词:  GIS;;秦安县;;土壤养分;;空间变异;;特征
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  融合技术创新;GIS提升数字赋能水平
+Author-作者:  姜红德;
+Organ-单位:  中国信息化
+Source-文献来源:  中国信息化
+Keyword-关键词:  宋关福;GIS;徐冠华;区块链技术;核心技术创新;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  供需耦合视角下大学生就业能力结构优化研究——以河北省GIS专业为例
+Author-作者:  杜福光;
+Organ-单位:  唐山师范学院资源管理系;
+Source-文献来源:  唐山师范学院学报
+Keyword-关键词:  供需耦合;;就业能力;;结构优化;;GIS专业
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS技术的高校土地规划管理教育与应用研究
+Author-作者:  王桂华;秦富仓;吴全;李颖;
+Organ-单位:  内蒙古农业大学沙漠治理学院;内蒙古自治区土地调查规划院;内蒙古农业大学园艺与植保学院;
+Source-文献来源:  轻合金加工技术
+Keyword-关键词:  土地规划管理;土地利用规划;土地资源管理人才;GIS;
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理信息系统与多通道瞬变电磁技术在金属矿产勘查中的应用
+Author-作者:  王超;
+Organ-单位:  贵州省地矿局一〇二地质大队;
+Source-文献来源:  西部探矿工程
+Keyword-关键词:  地理信息系统;;多通道瞬变电磁技术;;矿产勘查
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于SF_6酸性分解物与特高频结合的GIS绝缘故障诊断
+Author-作者:  林福海;颜湘莲;稂业员;邓永强;徐锐;李惟;
+Organ-单位:  国网江西省电力有限公司电力科学研究院;中国电力科学研究院有限公司;
+Source-文献来源:  绝缘材料
+Keyword-关键词:  GIS;;绝缘故障;;SF_6;;酸性分解物;;氧化;;特高频;;局部放电量
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS盆式绝缘子表面污秽模态分析检测方法研究
+Author-作者:  袁文泽;何聪;蔡鋆;侯志强;李军浩;
+Organ-单位:  西安交通大学电气工程学院;
+Source-文献来源:  西安交通大学学报
+Keyword-关键词:  盆式绝缘子;;表面污秽检测;;模态分析
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS技术下的旧城区公共空间活力度评价
+Author-作者:  唐继淳;
+Organ-单位:  重庆大学;
+Source-文献来源:  共享与韧性：数字技术支撑空间治理：2020年中国城市规划信息化年会论文集
+Keyword-关键词:  GIS技术;;玉林片区;;旧城改造;;公共空间
+Year-年:  2020
+
+SrcDatabase-来源库:  中国会议
+Title-题名:  基于GIS的上海市公共服务设施空间分布特征研究
+Author-作者:  谢汪容;胡培滨;
+Organ-单位:  同济大学;贵州大学;
+Source-文献来源:  共享与韧性：数字技术支撑空间治理：2020年中国城市规划信息化年会论文集
+Keyword-关键词:  公共服务设施;;空间分布;;GIS;;上海市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS应用开发课程建设与实践教学探索
+Author-作者:  包山虎;萨楚拉;
+Organ-单位:  内蒙古师范大学地理科学学院;
+Source-文献来源:  教育教学论坛
+Keyword-关键词:  GIS应用开发;;本科教学;;人才培养;;教学内容;;实践教学
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于改进梅尔倒谱系数的GIS机械故障诊断方法
+Author-作者:  徐明月;李喆;孙汉文;盛戈皞;江秀臣;
+Organ-单位:  上海交通大学电气工程系;
+Source-文献来源:  高压电器
+Keyword-关键词:  气体绝缘组合电器(GIS);;机械故障;;故障诊断;;梅尔倒谱系数;;说话人识别
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  电力物联网下基于卷积神经网络和迁移学习的GIS局部放电模式识别分类方法研究
+Author-作者:  杨为;朱太云;张国宝;田宇;柯艳国;赵恒阳;蔡梦怡;王艳新;闫静;
+Organ-单位:  国网安徽省电力有限公司电力科学研究院;国网安徽省电力有限公司;西安交通大学电力设备电气绝缘国家重点实验室;
+Source-文献来源:  高压电器
+Keyword-关键词:  卷积神经网络;;迁移学习;;局部放电;;模式识别;;电力物联网
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  户内变电站楼面GIS电气设备地震响应分析
+Author-作者:  樊庆玲;陈晨;宋景博;徐俊鑫;谢强;
+Organ-单位:  国网河南省电力公司经济技术研究院;同济大学土木工程学院;
+Source-文献来源:  高压电器
+Keyword-关键词:  户内变电站;;GIS电气设备;;地震响应;;放大系数;;楼面反应谱
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  共箱GIS量产中若干问题的研究
+Author-作者:  李要锋;张书琴;张克选;高延峰;吕进;朱承治;
+Organ-单位:  河南平芝高压开关有限公司;国网浙江省电力有限公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  三相共箱绝缘盆;;电磁力;;相间机械性能;;内部故障;;电弧试验;;装配空气间隙;;局部放电
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS拆装智能平台失衡计算及应力分析研究
+Author-作者:  王绍安;徐华;邹宏亮;李俊民;
+Organ-单位:  国网浙江省电力有限公司;湖南长高电气有限公司;
+Source-文献来源:  高压电器
+Keyword-关键词:  GIS;;拆装智能平台;;失衡;;应力分析
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于MaxEnt模型和GIS的糙叶败酱生态适宜性研究
+Author-作者:  成希;王莉;陈博;韦翡翡;孙少伯;晋玲;
+Organ-单位:  甘肃中医药大学药学院;中(藏)药资源研究所;
+Source-文献来源:  中国中医药信息杂志
+Keyword-关键词:  糙叶败酱;;生态适宜性;;最大熵;;地理信息系统;;生态因子
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于无人船与GIS的沉陷水域水资源监测研究
+Author-作者:  叶伟;徐良骥;张坤;宋承运;张传才;牛亚超;李科;王伟;
+Organ-单位:  安徽理工大学空间信息与测绘工程学院;
+Source-文献来源:  煤炭科学技术
+Keyword-关键词:  无人船;;沉陷水域;;水下地形;;水下库容;;GIS
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  地理测绘中地理信息系统的应用研究
+Author-作者:  张彪;
+Organ-单位:  陕西华地勘察设计咨询有限公司;
+Source-文献来源:  中国金属通报
+Keyword-关键词:  地理信息系统;;地理测绘;;应用
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的天津市应急避难场所选址评价
+Author-作者:  尹志军;李丽慧;王雪芳;霍腾飞;
+Organ-单位:  河北工业大学经济管理学院;
+Source-文献来源:  震灾防御技术
+Keyword-关键词:  天津市;;中心城区;;应急避难场所;;选址适宜性;;满足性;;GIS空间分析技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS+BIM水利工程信息管理系统的应用研究
+Author-作者:  丁维馨;徐俊;张李荪;刘杨;
+Organ-单位:  江西省水利规划设计研究院;江西省水工结构工程技术研究中心;南昌市水利安全监测与预测预警工程技术研究中心;
+Source-文献来源:  水利规划与设计
+Keyword-关键词:  GIS;;BIM;;信息化;;水利工程
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和PCA城镇宗地估价模型研究
+Author-作者:  龙北平;查燕萍;
+Organ-单位:  江西省煤田地质局测绘大队;
+Source-文献来源:  中国资产评估
+Keyword-关键词:  GIS;;PCA;;宗地估价;;模型
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的柠条锦鸡儿(Caragana korshinskii)分布模型
+Author-作者:  邓迪;赵泽斌;马媛;
+Organ-单位:  太原理工大学矿业工程学院;中国科学院西北生态环境资源研究院;
+Source-文献来源:  中国沙漠
+Keyword-关键词:  空间分析;;柠条锦鸡儿(Caragana korshinskii);;组合模型;;气候变化;;适宜生境分布
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS地形分析的内蒙古准格尔旗生态区划研究
+Author-作者:  王嘉元;秦富仓;杨振奇;李龙;芳菲;
+Organ-单位:  内蒙古农业大学沙漠治理学院;水利部牧区水利科学研究所;
+Source-文献来源:  内蒙古林业科技
+Keyword-关键词:  准格尔旗;;立地类型;;生态功能区划
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  GIS在城市水土保持规划中的应用
+Author-作者:  李朋鲁;王童;朱文;马士龙;
+Organ-单位:  中水北方勘测设计研究有限责任公司;
+Source-文献来源:  水利技术监督
+Keyword-关键词:  城市水土保持规划指标;;ArcGIS;;标准化植被指数
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS电子地图的三江源国家公园信息化平台设计与实现
+Author-作者:  王丽娟;杜秀娟;
+Organ-单位:  青海师范大学;青海省物联网重点实验室;
+Source-文献来源:  软件
+Keyword-关键词:  三江源国家公园;;GIS;;电子地图
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS的社区生活圈划分研究——以南宁市兴宁区为例
+Author-作者:  李金戈;谢华;
+Organ-单位:  广西大学土木建筑工程学院;
+Source-文献来源:  居舍
+Keyword-关键词:  社区生活圈;;配套设施;;GIS分析法;;城市大数据
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS地下水空间数据模型在乌兰盆地的应用
+Author-作者:  阿慧娟;郭邦梅;王彪;黄焱;
+Organ-单位:  青海省环境地质勘查局;青海省环境地质重点实验室;青海省第三地质矿产勘查院;
+Source-文献来源:  河南科学
+Keyword-关键词:  数据模型;;概念化;;地下水;;模拟;;乌兰盆地
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS和层次分析法的采石废弃地景观评价研究——以新乡市凤凰山森林公园为例
+Author-作者:  项辰;贺斌;赵鸣;
+Organ-单位:  合肥市高新技术产业开发区城建设计院;北京林业大学园林学院;
+Source-文献来源:  环境影响评价
+Keyword-关键词:  采石废弃地;;景观价值评价;;GIS;;层次分析法
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于BIM+GIS的长距离引调水工程运行管理集成平台设计与实现
+Author-作者:  李献忠;张社荣;王超;朱国金;
+Organ-单位:  天津大学水利工程仿真与安全国家重点实验室;中国电建集团昆明勘测设计研究院有限公司;
+Source-文献来源:  水电能源科学
+Keyword-关键词:  BIM;;GIS;;引水工程;;运行管理;;系统开发
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  BIM技术、三维扫描技术、GIS技术在古建筑修复保护中的运用研究
+Author-作者:  石若利;
+Organ-单位:  云南省昆明市呈贡区云南大学建筑与规划学院;
+Source-文献来源:  软件
+Keyword-关键词:  古建筑修复;;三维扫描技术;;BIM技术;;倾斜摄影技术;;GIS技术
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  一起GIS中支撑绝缘子绝缘缺陷导致的故障分析
+Author-作者:  张二龙;
+Organ-单位:  中国大唐集团科学技术研究院有限公司华东电力试验研究院;
+Source-文献来源:  安徽电气工程职业技术学院学报
+Keyword-关键词:  GIS;;支撑绝缘子;;短路接地
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  基于GIS与USLE的汕尾市土壤侵蚀特征研究
+Author-作者:  黄明;李新尧;
+Organ-单位:  广东省水利电力勘测设计研究院;
+Source-文献来源:  广东水利水电
+Keyword-关键词:  通用土壤流失方程;;GIS;;土壤侵蚀;;汕尾市
+Year-年:  2020
+
+SrcDatabase-来源库:  期刊
+Title-题名:  420kV GIS变电站雷电侵入波过电压计算与防雷措施研究
+Author-作者:  冯汝明;冯彪;李鑫涛;
+Organ-单位:  内蒙古电力科学研究院;西安西电高压开关有限责任公司;渤海大学控制科学与工程学院;
+Source-文献来源:  电工电气
+Keyword-关键词:  GIS变电站;;雷电侵入波过电压;;绝缘配合;;金属氧化锌避雷器
+Year-年:  2020

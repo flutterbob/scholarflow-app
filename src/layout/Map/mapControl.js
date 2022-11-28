@@ -2,8 +2,8 @@
  * @Author: yizheng
  * @Date: 2022-11-22 20:03:03
  * @LastEditor: yizheng
- * @LastEditTime: 2022-11-26 15:43:37
- * @FilePath: \scholarflow-app\src\layout\Map\mapControl.js
+ * @LastEditTime: 2022-11-28 17:40:47
+ * @FilePath: /scholarflow-app/src/layout/Map/mapControl.js
  * @Description:
  */
 
@@ -24,6 +24,7 @@ export const inFlowColors = [
   [34, 94, 168],
   [12, 44, 132],
 ];
+
 
 export const outFlowColors = [
   [255, 255, 178],
